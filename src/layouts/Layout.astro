@@ -2,6 +2,7 @@
 import "@fontsource/anton";
 // Supports weights 100-900
 import "@fontsource-variable/roboto-serif";
+import Header from "../components/Header.astro";
 interface Props {
   title: string;
 }
@@ -20,6 +21,7 @@ const { title } = Astro.props;
     <title>{title}</title>
   </head>
   <body>
+    <Header />
     <slot />
   </body>
 </html>
