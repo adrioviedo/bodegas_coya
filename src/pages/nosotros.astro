@@ -1,0 +1,42 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Footer from "../components/Footer.astro";
+import Bento from "../components/Bento.astro";
+import NuestrasMarcas from "../components/NuestrasMarcas.astro";
+---
+
+<Layout title="Nosotros - Bodegas Coya e Hijos">
+  <section class="relative min-h-[75vh] -top-2 grid content-center">
+    <img
+      src="/img/embotelladora.webp"
+      alt=""
+      class="absolute w-full h-full object-cover object-center z-[-1] brightness-50"
+    />
+    <h1 class="text-[#FFE6BB] text-8xl font-Anton text-pretty w-4/5 mx-auto">
+      Bodegas Coya e Hijos: dedicación y esfuerzo desde 1960
+    </h1>
+  </section>
+
+  <section class="bg-[#450408] text-[#FFE6BB] py-10 -mt-2">
+    <div class="w-4/5 mx-auto flex items-center gap-7">
+      <img src="/img/enologia.webp" alt="" class="max-w-[30%]" />
+      <div>
+        <h2 class="text-2xl font-Anton text-pretty">Nuestra historia</h2>
+        <p class="text-md text-pretty mt-2">
+          En Bodegas Coya e Hijos llevamos más de seis décadas dedicando todo
+          nuestro esfuerzo a la distribución de bebidas en Asturias. Somos una
+          empresa familiar y le ponemos todo el cariño del mundo a lo que
+          hacemos. Nuestra bodega es nuestra casa. Y quienes disfrutan de
+          nuestros productos son también parte del gran equipo que hemos formado
+          con el paso del tiempo.
+        </p>
+      </div>
+      <img class="max-w-[30%]" src="/img/manu.webp" alt="" />
+    </div>
+  </section>
+
+  <Bento />
+  <NuestrasMarcas />
+
+  <Footer class="text-[#450408] bg-[#FFE6BB]" />
+</Layout>
