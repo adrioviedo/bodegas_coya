@@ -6,22 +6,153 @@
     cc ddd
     cc ddd
 -->
-<section class="w-4/5 my-6 mx-auto h-[800px] grid grid-rows-2 gap-3">
-  <div class="grid grid-cols-[900px_minmax(100px,_1fr)] gap-3">
+<section
+  class="py-6 sm:py-8 lg:py-12 w-5/6 mx-auto max-w-screen-2xl px-4 md:px-8"
+>
+  <!-- <div class="mb-4 flex items-center justify-between gap-8 sm:mb-8 md:mb-12">
+      <div class="flex items-center gap-12">
+        <h2 class="text-2xl font-bold text-gray-800 lg:text-3xl">Gallery</h2>
+
+        <p class="hidden max-w-screen-sm text-gray-500 md:block">
+          This is a section of some simple filler text, also known as
+          placeholder text. It shares some characteristics of a real written
+          text.
+        </p>
+      </div>
+
+      <a
+        href="#"
+        class="inline-block rounded-lg border bg-white px-4 py-2 text-center text-sm font-semibold text-gray-500 outline-none ring-indigo-300 transition duration-100 hover:bg-gray-100 focus-visible:ring active:bg-gray-200 md:px-8 md:py-3 md:text-base"
+      >
+        More
+      </a>
+    </div> -->
+
+  <div
+    class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 md:gap-6 xl:gap-8"
+  >
+    <!-- image - start -->
     <article
-      class="bg-[url('/img/embotelladora.webp')] brightness-100 bg bg-cover rounded flex flex-col justify-end text-white pl-32 pb-20 gap-4"
+      class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80"
     >
-      <h3 class="font-Anton">Embotelladora propia</h3>
-      <p class="font-Roboto max-w-80 text-pretty">
-        En Bodegas Coya e Hijos contamos con una embotelladora propia, lo que
-        nos permite dar la máxima calidad a las marcas que elaboramos en la
-        casa.
-      </p>
+      <img
+        src="/img/embotelladora.webp"
+        loading="lazy"
+        alt="Embotelladora"
+        class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+      />
+
+      <div
+        class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"
+      >
+      </div>
+
+      <div class="relative ml-4 mb-3 inline-block">
+        <h3 class="font-Anton text-sm md:ml-5 md:text-lg mb-2 text-[#FFE6BB]">
+          Embotelladora propia
+        </h3>
+        <p
+          class="font-Roboto max-w-80 text-pretty text-xs md:ml-5 md:text-sm text-[#FFE6BB]"
+        >
+          En Bodegas Coya e Hijos contamos con una embotelladora propia, lo que
+          nos permite dar la máxima calidad a las marcas que elaboramos en la
+          casa.
+        </p>
+      </div>
     </article>
-    <article class="bg-blue-900 rounded">a</article>
-  </div>
-  <div class="grid grid-cols-[minmax(100px,_1fr)_900px] gap-3">
-    <article class="bg-blue-900 rounded">a</article>
-    <article class="bg-blue-400 rounded">a</article>
+    <!-- image - end -->
+
+    <!-- image - start -->
+    <article
+      class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80"
+    >
+      <img
+        src="/img/enologia.webp"
+        loading="lazy"
+        alt="Photo by Magicle"
+        class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+      />
+
+      <div
+        class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"
+      >
+      </div>
+
+      <div class="relative ml-4 mb-3 inline-block">
+        <h3 class="font-Anton text-sm md:ml-5 md:text-lg mb-2 text-[#FFE6BB]">
+          Servicio de enología
+        </h3>
+        <p
+          class="font-Roboto max-w-80 text-pretty text-xs md:ml-5 md:text-sm text-[#FFE6BB]"
+        >
+          Nuestro equipo de enología se encarga de que nuestros vinos cumplan
+          siempre con estándares de excelencia para ofrecer lo mejor a nuestros
+          clientes.
+        </p>
+      </div>
+    </article>
+    <!-- image - end -->
+
+    <!-- image - start -->
+    <article
+      class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80"
+    >
+      <img
+        src="/img/camion.webp"
+        loading="lazy"
+        alt="Photo by Martin Sanchez"
+        class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+      />
+
+      <div
+        class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"
+      >
+      </div>
+
+      <div class="relative ml-4 mb-3 inline-block">
+        <h3 class="font-Anton text-sm md:ml-5 md:text-lg mb-2 text-[#FFE6BB]">
+          Servicio en el local y a domicilio
+        </h3>
+        <p
+          class="font-Roboto max-w-80 text-pretty text-xs md:ml-5 md:text-sm text-[#FFE6BB]"
+        >
+          Si quieres hacerte con alguno de nuestros productos, visita nuestras
+          instalaciones y te atenderemos encantdos. Y también puedes escribirnos
+          y recibir tu pedido en casa.
+        </p>
+      </div>
+    </article>
+    <!-- image - end -->
+
+    <!-- image - start -->
+    <article
+      class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80"
+    >
+      <img
+        src="/img/tienda.webp"
+        loading="lazy"
+        alt="Photo by Lorenzo Herrera"
+        class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+      />
+
+      <div
+        class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"
+      >
+      </div>
+
+      <div class="relative ml-4 mb-3 inline-block">
+        <h3 class="font-Anton text-sm md:ml-5 md:text-lg mb-2 text-[#FFE6BB]">
+          Nuestra tienda
+        </h3>
+        <p
+          class="font-Roboto max-w-80 text-pretty text-xs md:ml-5 md:text-sm text-[#FFE6BB]"
+        >
+          En nuestra tienda podrás encontrar todos nuestros productos, desde
+          vinos hasta aceites, pasando por licores y otros productos de la
+          tierra.
+        </p>
+      </div>
+    </article>
+    <!-- image - end -->
   </div>
 </section>
