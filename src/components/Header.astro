@@ -3,7 +3,7 @@ import Cart from "../icons/Cart.astro";
 import Magnifier from "../icons/Magnifier.astro";
 ---
 
-<header class="py-3 px-5 bg-[#48070b] rounded-b-lg">
+<header class="py-3 px-5 bg-[#48070b] rounded-b-lg sticky top-0 z-50">
   <nav
     class="flex items-center justify-between w-4/5 mx-auto my-0 text-[#FFE6BB]"
   >
@@ -29,12 +29,14 @@ import Magnifier from "../icons/Magnifier.astro";
         >
       </li>
       <li>
-        <a class="inline-block hover:scale-110 transition" href="#"
+        <a class="inline-block hover:scale-110 transition" href="/nosotros"
           >Coya e Hijos</a
         >
       </li>
       <li>
-        <a class="inline-block hover:scale-110 transition" href="#">Contacto</a>
+        <a class="inline-block hover:scale-110 transition" href="/contacto"
+          >Contacto</a
+        >
       </li>
     </ul>
     <!-- Iniciar sesion y carrito -->
