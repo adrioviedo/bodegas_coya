@@ -1,6 +1,15 @@
+---
+import Cart from "../icons/Cart.astro";
+import Magnifier from "../icons/Magnifier.astro";
+---
+
 <header class="py-3 px-5 bg-[#48070b] rounded-b-lg">
-  <nav class="flex items-center justify-between w-4/5 mx-auto my-0">
-    <img src="./img/LOGO-COYA.png" alt="logo coya" class="w-10" />
+  <nav
+    class="flex items-center justify-between w-4/5 mx-auto my-0 text-[#FFE6BB]"
+  >
+    <a href="/" class="hover:scale-125 transition">
+      <img src="./img/LOGO-COYA.png" alt="logo coya" class="w-10" /></a
+    >
     <!-- Buscador -->
     <form action="" method="get" class="flex items-center gap-3">
       <input
@@ -9,27 +18,31 @@
         placeholder="Buscar"
         class="bg-[#ffe6bb4b] px-2 py-1 rounded-md"
       />
-      <button>🔍</button>
+      <button class="hover:scale-125 transition"
+        ><Magnifier class="w-6 h-6" /></button
+      >
     </form>
     <ul class="flex gap-3 items-center justify-center">
-      <li><a class="text-[#FFE6BB]" href="#">Productos</a></li>
-      <li><a class="text-[#FFE6BB]" href="#">Coya e Hijos</a></li>
-      <li><a class="text-[#FFE6BB]" href="#">Contacto</a></li>
+      <li>
+        <a class="inline-block hover:scale-110 transition" href="/productos"
+          >Productos</a
+        >
+      </li>
+      <li>
+        <a class="inline-block hover:scale-110 transition" href="#"
+          >Coya e Hijos</a
+        >
+      </li>
+      <li>
+        <a class="inline-block hover:scale-110 transition" href="#">Contacto</a>
+      </li>
     </ul>
-    <!-- Iniciar sesion -->
-    <div>
-      <!-- <button class="bg-[#FFE6BB] text-[#48070b] px-3 py-1 rounded-md"
-        >🔓</button
-      >
-      <button class="bg-[#FFE6BB] text-[#48070b] px-3 py-1 rounded-md"
-        >🔑</button
-      > -->
-      <button class="bg-[#FFE6BB] text-[#48070b] px-3 py-1 rounded-md"
-        >🔒</button
-      >
-      <button class="bg-[#FFE6BB] text-[#48070b] px-3 py-1 rounded-md"
-        >🛒</button
-      >
+    <!-- Iniciar sesion y carrito -->
+    <div class="flex gap-4">
+      <a href="/login" class="hover:scale-110 transition">Iniciar Sesión</a>
+      <a href="/cart" class="hover:scale-150 transition">
+        <Cart class="w-6 h-6" />
+      </a>
     </div>
   </nav>
 </header>
