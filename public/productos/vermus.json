@@ -1,0 +1,57 @@
+{
+  "category": "Vermús",
+  "products": [
+    {
+      "name": "Valdepablo Selección",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Valdepablo-Seleccion.png"
+    },
+    {
+      "name": "Valdepablo BioMio Organico",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Valdepablo-BioMio-Organico.png"
+    },
+    {
+      "name": "St. Petroni",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/St.-Petroni.png"
+    },
+    {
+      "name": "Picuezo Barrica",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Picuezo-Barrica.png"
+    },
+    {
+      "name": "Luis The Marinero Rojo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-The-Marinero-Rojo.png"
+    },
+    {
+      "name": "Luis The Marinero Blanco",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-The-Marinero-Blanco.png"
+    },
+    {
+      "name": "La Carmeta",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/La-Carmeta.png"
+    },
+    {
+      "name": "Esencia Tabira Prieto Picudo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Esencia-Tabira-Prieto-Picudo.png"
+    },
+    {
+      "name": "El molin del Nora",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-molin-del-Nora.png"
+    },
+    {
+      "name": "Arlini personalizado Asturias",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Arlini-personalizado-Asturias.png"
+    },
+    {
+      "name": "El Ingenioso",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-Ingenioso.png"
+    },
+    {
+      "name": "Carpano Classico Rojo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Carpano-Classico-Rojo.png"
+    },
+    {
+      "name": "Bocamanga",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bocamanga.png"
+    }
+  ]
+}

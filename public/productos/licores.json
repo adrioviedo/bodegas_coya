@@ -1,0 +1,97 @@
+{
+  "category": "Licores",
+  "products": [
+    {
+      "name": "Penord Ricard",
+      "img": "https://www.pernod-ricard.com/en"
+    },
+    {
+      "name": "Diageo",
+      "img": "https://www.diageo.com/en"
+    },
+    {
+      "name": "Bacardi Limited",
+      "img": "https://www.bacardilimited.com/country-info/spain/"
+    },
+    {
+      "name": "Beam Suntory",
+      "img": "https://www.beamsuntory.com/"
+    },
+    {
+      "name": "Licor de Miel Panizo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Miel-Panizo.png"
+    },
+    {
+      "name": "Licor de Crema con Orujo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Crema-con-Orujo.png"
+    },
+    {
+      "name": "Licor Tostado Panizo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-Tostado-Panizo.png"
+    },
+    {
+      "name": "Pacharán Panizo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pacharan-Panizo.png"
+    },
+    {
+      "name": "Orujo Blanco Panizo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Panizo.png"
+    },
+    {
+      "name": "Licor de Hierbas Panizo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Hierbas-Panizo.png"
+    },
+    {
+      "name": "Crema de Arroz Panizo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crema-de-Arroz-Panizo.png"
+    },
+    {
+      "name": "Crema de Orujo Bouza do Rei",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crema-de-Orujo-Bouza-do-Rei.png"
+    },
+    {
+      "name": "Orujo Blanco Bouza do Rei",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Bouza-do-Rei.png"
+    },
+    {
+      "name": "Orujo Tostado Bouza do Rei",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Tostado-Bouza-do-Rei.png"
+    },
+    {
+      "name": "Orujo de Hierbas Bouza do Rei",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Hierbas-Bouza-do-Rei.png"
+    },
+    {
+      "name": "Licor de Café Bouza do Rei",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Cafe-Bouza-do-Rei.png"
+    },
+    {
+      "name": "Orujo Blanco Marc de Bazan",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Marc-de-Bazan.png"
+    },
+    {
+      "name": "Orujo de Hierbas Marc de Bazan",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Hierbas-Marc-de-Bazan.png"
+    },
+    {
+      "name": "Orujo Tostado Marc de Bazan",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Tostado-Marc-de-Bazan.png"
+    },
+    {
+      "name": "Orujo de Café Marc de Bazan",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Cafe-Marc-de-Bazan.png"
+    },
+    {
+      "name": "Manzanilla la Guita",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Manzanilla-la-Guita.png"
+    },
+    {
+      "name": "Ginebra Bunker London Dry",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Ginebra-Bunker-London-Dry.png"
+    },
+    {
+      "name": "Bunker Origen",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bunker-Origen.jpg"
+    }
+  ]
+}

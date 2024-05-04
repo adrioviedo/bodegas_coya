@@ -1,0 +1,279 @@
+{
+  "category": "Vinos tintos",
+  "denominations": [
+    {
+      "denomination": "D.O. Bierzo",
+      "products": [
+        {
+          "name": "Altos de Losada La Bienquerida",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Altos-de-Losada-La-Bienquerida.png"
+        },
+        {
+          "name": "Altos de Losada",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Altos-de-Losada-1.png"
+        },
+        {
+          "name": "Pájaro Rojo",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pajaro-Rojo.png"
+        },
+        {
+          "name": "Losada",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Losada.png"
+        },
+        {
+          "name": "Losada Magnum",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Losada-Magnum.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Ribera del Duero",
+      "products": [
+        {
+          "name": "Portia Roble",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Portia-Roble.png"
+        },
+        {
+          "name": "Portia Roble Magnum",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Portia-Roble-Magnum.png"
+        },
+        {
+          "name": "Portia Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Portia-Crianza.png"
+        },
+        {
+          "name": "Portia Prima La Encina",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Portia-Prima-La-Encina-DO-Ribera-del-Duero.png"
+        },
+        {
+          "name": "Alma Serena Barrica",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Alma-Serena-Barrica.png"
+        },
+        {
+          "name": "Miros de Ribera Roble",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Miros-de-Ribera-Roble.png"
+        },
+        {
+          "name": "Miros de Ribera Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Miros-de-Ribera-Crianza.png"
+        },
+        {
+          "name": "Silencio de Miros",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Silencio-de-Miros.png"
+        },
+        {
+          "name": "Fuentespina Roble",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Fuentespina-Roble.png"
+        },
+        {
+          "name": "Fuentespina 3",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Fuentespina-3.png"
+        },
+        {
+          "name": "F de Fuentespina Reserva",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/F-de-Fuentespina-Reserva.png"
+        },
+        {
+          "name": "Garmón",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Garmon.png"
+        },
+        {
+          "name": "Avelino Vegas Áureo",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Avelino-Vegas-Aureo-Tinto-Ribera-del-Duero.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Rioja",
+      "products": [
+        {
+          "name": "Voché Selección Graciano",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Voche-Seleccion-Graciano.png"
+        },
+        {
+          "name": "Voché Reserva",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Voche-Reserva.png"
+        },
+        {
+          "name": "Voché Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Voche-Crianza.png"
+        },
+        {
+          "name": "Viñadrián Tinto",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vinadrian-Tinto.png"
+        },
+        {
+          "name": "Viñadrián Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vinadrian-Crianza.png"
+        },
+        {
+          "name": "Marqués de Vitoria Reserva",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Vitoria-Reserva.png"
+        },
+        {
+          "name": "Marqués de Vitoria Crianza Magnum",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Vitoria-Crianza-Magnum.png"
+        },
+        {
+          "name": "Marqués de Vitoria Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Vitoria-Crianza.png"
+        },
+        {
+          "name": "Luis Gurpegui Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-Gurpegui-Crianza.png"
+        },
+        {
+          "name": "Luis Gurpegui Crianza Magnum",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-Gurpegui-Crianza-Magnum.png"
+        },
+        {
+          "name": "Luis Gurpegui 147 Aniversario Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-Gurpegui-147-Aniversario-Crianza.png"
+        },
+        {
+          "name": "Heredero Joven",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heredero-Joven.png"
+        },
+        {
+          "name": "Heredero Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heredero-Crianza.png"
+        },
+        {
+          "name": "Gonzalo de Berceo Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Gonzalo-de-Berceo-Crianza.png"
+        },
+        {
+          "name": "Gonzalo de Berceo Reserva",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Gonzalo-de-Berceo-Reserva.png"
+        },
+        {
+          "name": "Dominios de Berceo",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Dominios-de-Berceo.png"
+        },
+        {
+          "name": "Berceo Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Berceo-Crianza.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Jumilla",
+      "products": [
+        {
+          "name": "Crápula Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crapula-Crianza.png"
+        },
+        {
+          "name": "Crápula Gold Magnum",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crapula-Gold-Magnum.png"
+        },
+        {
+          "name": "Crápula Gold",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crapula-Gold.png"
+        },
+        {
+          "name": "Crápula Soul",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crapula-Soul.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Somontano",
+      "products": [
+        {
+          "name": "Sommos Varietales Tinto",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Varietales-Tinto.png"
+        },
+        {
+          "name": "Sommos Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Crianza.png"
+        },
+        {
+          "name": "Sommos Colección Merlot",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Coleccion-Merlot.png"
+        },
+        {
+          "name": "Glárima Tinto Joven",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Glarima-Tinto-Joven.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Toro",
+      "products": [
+        {
+          "name": "Cermeño Vendimia Seleccionada",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Cermeno-Vendimia-Seleccionada.png"
+        },
+        {
+          "name": "Prima",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Prima.png"
+        },
+        {
+          "name": "San Román",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/San-Roman.png"
+        },
+        {
+          "name": "Latarce",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Latarce-Vino-de-Toro.png"
+        },
+        {
+          "name": "Cartago Paraje del Pozo",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Cartago-Paraje-del-Pozo.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Navarra",
+      "products": [
+        {
+          "name": "Marqués de Valcarlos Tinto",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Valcarlos-Tinto.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Priorat",
+      "products": [
+        {
+          "name": "Nûr Crianza",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Nur-Crianza.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Calatayud",
+      "products": [
+        {
+          "name": "Alquez Garnacha Viñas Viejas",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Alquez-Garnacha-Vinas-Viejas.png"
+        }
+      ]
+    },
+    {
+      "denomination": "D.O. Castilla y León",
+      "products": [
+        {
+          "name": "Condado Real Tinto",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Condado-Real-Tinto.png"
+        },
+        {
+          "name": "Mauro",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mauro.png"
+        },
+        {
+          "name": "Mauro Magnum",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mauro-Magnum.png"
+        },
+        {
+          "name": "Mauro VS",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mauro-VS.png"
+        },
+        {
+          "name": "Terreus",
+          "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Terreus.png"
+        }
+      ]
+    }
+  ]
+}

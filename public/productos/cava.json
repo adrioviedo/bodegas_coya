@@ -1,0 +1,45 @@
+{
+  "category": "Cava",
+  "products": [
+    {
+      "name": "Pedregosa Brut Nature (Petit Cuvée)",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Petit-Cuvee.png"
+    },
+    {
+      "name": "Pedregosa Rosado Brut Nature (Petit Cuvée)",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Rosado-Brut-Nature-Petit-Cuvee.png"
+    },
+    {
+      "name": "Pedregosa Brut Nature Reserva(Clos de Blancs)",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-ReservaClos-de-Blancs.png"
+    },
+    {
+      "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Clos de Blancs)",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Magnum-15L-Pedregosa-Brut-Nature-ReservaClos-de-Blancs.png"
+    },
+    {
+      "name": "Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Reserva-Blanc-de-Millesime.png"
+    },
+    {
+      "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Magnum-15L-Pedregosa-Brut-Nature-Reserva-Blanc-de-Millesime.png"
+    },
+    {
+      "name": "Pedregosa Brut Nature Reserva d L'Hereu",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Reserva-d-L_Hereu.png"
+    },
+    {
+      "name": "Faustino Brut Reserva",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Faustino-Brut-Reserva.png"
+    },
+    {
+      "name": "Feitizo da noite extra brut albariño",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Feitizo-da-noite-extra-brut-albarino.png"
+    },
+    {
+      "name": "Codorniu Benjamin",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Codorniu-Benjamin.png"
+    }
+  ]
+}

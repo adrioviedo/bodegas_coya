@@ -1,0 +1,73 @@
+{
+  "category": "Marcas propias",
+  "products": [
+    {
+      "name": "Turbio Xoven",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Turbio-Xoven.png"
+    },
+    {
+      "name": "Silo Tinto",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Silo-Tinto.png"
+    },
+    {
+      "name": "Riosella Tinto",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Riosella-Tinto.png"
+    },
+    {
+      "name": "Riosella Rosado",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Riosella-Rosado.png"
+    },
+    {
+      "name": "Riosella Blanco",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Riosella-Blanco.png"
+    },
+    {
+      "name": "Rioja Artesano Cosechero",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Rioja-Artesano-Cosechero.png"
+    },
+    {
+      "name": "Peñalara Tinto",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Penalara-Tinto.png"
+    },
+    {
+      "name": "Peñalara Semidulce",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Penalara-Semidulce.png"
+    },
+    {
+      "name": "Peñalara Rosado",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Penalara-Rosado.png"
+    },
+    {
+      "name": "Peñalara Blanco",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Penalara-Blanco.png"
+    },
+    {
+      "name": "Pagos de Oncala Tinto",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pagos-de-Oncala-Tinto.png"
+    },
+    {
+      "name": "Oncala Tierra de Castiilla",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Oncala-Tierra-de-Castiilla.png"
+    },
+    {
+      "name": "O Cruceiro Xoven",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/O-Cruceiro-Xoven.png"
+    },
+    {
+      "name": "Montecoya Verdejo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montecoya-Verdejo.png"
+    },
+    {
+      "name": "Montecoya Roble",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montecoya-Roble.png"
+    },
+    {
+      "name": "Montecoya Prieto Picudo",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montecoya-Prieto-Picudo.png"
+    },
+    {
+      "name": "Bag in Box 5 y 15L",
+      "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bag-in-Box-5-y-15L.png"
+    }
+  ]
+}
