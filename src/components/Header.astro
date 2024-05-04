@@ -1,6 +1,7 @@
 ---
 import Cart from "../icons/Cart.astro";
 import Magnifier from "../icons/Magnifier.astro";
+import User from "../icons/User.astro";
 ---
 
 <header class="py-3 px-5 bg-[#48070b] rounded-b-lg sticky top-0 z-50">
@@ -41,9 +42,11 @@ import Magnifier from "../icons/Magnifier.astro";
     </ul>
     <!-- Iniciar sesion y carrito -->
     <div class="flex gap-4">
-      <a href="/login" class="hover:scale-110 transition">Iniciar Sesión</a>
-      <a href="/cart" class="hover:scale-150 transition">
-        <Cart class="w-6 h-6" />
+      <a href="/login" class="hover:scale-110 transition"
+        ><User class="w-6 h-6" />
+        <a href="/cart" class="hover:scale-150 transition">
+          <Cart class="w-6 h-6" />
+        </a>
       </a>
     </div>
   </nav>
