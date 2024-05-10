@@ -1,518 +1,1253 @@
 [
   {
-    "name": "D_berna Godello",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/D_berna-Godello.png"
-  },
-  {
-    "name": "D_berna Sobre Lias Godello",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/D_berna-Sobre-Lias-Godello.png"
-  },
-  {
-    "name": "Bouza do Rei Selección",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bouza-do-Rei-Seleccion.png"
-  },
-  {
-    "name": "Marqués de Fonseca",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Fonseca.png"
-  },
-  {
-    "name": "Bouza do Rei",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bouza-do-Rei.png"
-  },
-  {
-    "name": "Segrel",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Segrel.png"
-  },
-  {
-    "name": "Gran Bazan Etiqueta Ambar",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Gran-Bazan-Etiqueta-Ambar.png"
-  },
-  {
-    "name": "Lenda Ponda ",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Lenda-Ponda-DO-Rias-Baixas.png"
-  },
-  {
-    "name": "Miña Vida",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Mina-Vida-DO-Rias-Baixas.png"
-  },
-  {
-    "name": "Pazo Pondal",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Pazo-Pondal-Albarino-DO-Rias-Baixas.png"
-  },
-  {
-    "name": "Circe Verdejo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Circe-Verdejo.png"
-  },
-  {
-    "name": "Hombre Pez",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Hombre-Pez.png"
-  },
-  {
-    "name": "Portia Verdejo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Portia-Verdejo.png"
-  },
-  {
-    "name": "Montespina Verdejo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montespina-Verdejo.png"
-  },
-  {
-    "name": "Vacceos Verdejo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vacceos-Verdejo.png"
-  },
-  {
-    "name": "Cuatro Rayas ecológico",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Cuatro-Rayas-ecologico-DO-Rueda.png"
-  },
-  {
-    "name": "Elara Treixadura_Godello",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Elara-Treixadura_Godello.png"
-  },
-  {
-    "name": "Sybaria",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sybaria.png"
-  },
-  {
-    "name": "Sommos Varietales Blanco",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Varietales-Blanco.png"
-  },
-  {
-    "name": "Sommos Colección Gewürztraminer",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Coleccion-Gewurztraminer.png"
-  },
-  {
-    "name": "Glárima Blanco Joven",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Glarima-Blanco-Joven.png"
-  },
-  {
-    "name": "Condado Real Rosado",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Condado-Real-Rosado.png"
-  },
-  {
-    "name": "Nicte Rosa Pálido",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Nicte-Rosa-Palido-Castilla-y-Leon-Rosado.png"
-  },
-  {
-    "name": "Olivia Rosé",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Olivia-Rose.png"
-  },
-  {
-    "name": "Marqués de Valcarlos Rosado",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Valcarlos-Rosado.png"
-  },
-  {
-    "name": "Luis Gurpegui",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-Gurpegui.png"
-  },
-  {
-    "name": "",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Campillo-Rosado-Rioja.png"
-  },
-  {
-    "name": "D'Berna Godello ",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Diseno-sin-titulo-91.png"
-  },
-  {
-    "name": "Sommos Rosé",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Rose.png"
-  },
-  {
-    "name": "Esencia 33 Prieto Picudo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Esencia-33-Prieto-Picudo.png"
-  },
-  {
-    "name": "Condado Real Cigales",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Condado-Real-Cigales.png"
-  },
-  {
-    "name": "Vino Xoven Meigallo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vino-Xoven-Meigallo.png"
-  },
-  {
-    "name": "Vino Albariño Cosechero",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vino-Albarino-Cosechero.png"
-  },
-  {
-    "name": "Moscato Spumante",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Moscato-Spumante.png"
-  },
-  {
-    "name": "Moscato D_asti Capetta",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Moscato-D_asti-Capetta.png"
-  },
-  {
-    "name": "Moscato Capetta",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Moscato-Capetta.png"
-  },
-  {
-    "name": "Mateus Rosé",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mateus-Rose.png"
-  },
-  {
-    "name": "Champagne G.H. Mumm",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Champagne-G.H.-Mumm.png"
-  },
-  {
-    "name": "Cavicchioli Lambrusco Rosado",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Cavicchioli-Lambrusco-Rosado.png"
-  },
-  {
-    "name": "Casal García Vino de Portugal",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Casal-Garcia-Vino-de-Portugal.png"
-  },
-  {
-    "name": "Amstel Lata 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/5.png"
-  },
-  {
-    "name": "Amstel Original 33cl. (EXCLUSIVO HOSTELERIA)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Amstel-Original-33cl.-EXCLUSIVO-HOSTELERIA.png"
-  },
-  {
-    "name": "Amstel Oro 33cl. (EXCLUSIVO HOSTELERIA)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Amstel-Oro-33cl.-EXCLUSIVO-HOSTELERIA-scaled.jpg"
-  },
-  {
-    "name": "Amstel Oro Lata 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/2.png"
-  },
-  {
-    "name": "Amstel Radler 33cl. (EXCLUSIVO HOSTELERIA)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Amstel-Radler-33cl.-EXCLUSIVO-HOSTELERIA.png"
-  },
-  {
-    "name": "Amstel Radler Lata 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Amstel-Radler-Lata-33cl..jpg"
-  },
-  {
-    "name": "Desperados Mojito 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Desperados-Mojito-33cl..png"
-  },
-  {
-    "name": "Buckler 0,0 Radler Lata 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/3.png"
-  },
-  {
-    "name": "El Alcazar 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-Alcazar-33cl..png"
-  },
-  {
-    "name": "La 1870 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/La-1870-33cl..png"
-  },
-  {
-    "name": "Ladrón de Manzanas 33cl. (EXCLUSIVO HOSTELERIA)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Ladron-de-Manzanas-33cl.-EXCLUSIVO-HOSTELERIA.png"
-  },
-  {
-    "name": "Sol 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sol-33cl..jpg"
-  },
-  {
-    "name": "Cruzcampo 0,0 Lata 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/4.png"
-  },
-  {
-    "name": "Cruzcampo Especial 33cl. (EXCLUSIVO HOSTELERIA)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Cruzcampo-Especial-33cl.-EXCLUSIVO-HOSTELERIA.png"
-  },
-  {
-    "name": "Cruzcampo Pilsen Lata 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/11/1.png"
-  },
-  {
-    "name": "Shandy 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Shandy-33cl..jpg"
-  },
-  {
-    "name": "Heineken 0,0 33cl. (EXCLUSIVO HOSTELERIA)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-00-33cl.-EXCLUSIVO-HOSTELERIA.png"
-  },
-  {
-    "name": "Heineken 0,0 Lata 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-00-Lata-33cl..jpg"
-  },
-  {
-    "name": "Heineken 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-33cl.-scaled.jpg"
-  },
-  {
-    "name": "Heineken Lata 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-Lata-33cl..jpg"
-  },
-  {
-    "name": "Birra Moretti 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Birra-Moretti-33cl..jpg"
-  },
-  {
-    "name": "Guinness Original 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Guinness-Original-33cl..jpg"
-  },
-  {
-    "name": "Hop House 13 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Hop-House-13-33cl..jpg"
-  },
-  {
-    "name": "Judas 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Judas-33cl..jpg"
-  },
-  {
-    "name": "Mort Subite Cereza 25cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mort-Subite-Cereza-25cl..jpg"
-  },
-  {
-    "name": "Paulaner Dunkel 50cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Paulaner-Dunkel-50cl.-scaled.jpg"
-  },
-  {
-    "name": "Paulaner Salvator 33cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Paulaner-Salvator-33cl..jpg"
-  },
-  {
-    "name": "Paulaner Salvator 50cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Paulaner-Salvator-50cl.-scaled.jpg"
-  },
-  {
-    "name": "Sidra Bulmers 50cl.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sidra-Bulmers-50cl..jpg"
-  },
-  {
-    "name": "Valdepablo Selección",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Valdepablo-Seleccion.png"
-  },
-  {
-    "name": "Valdepablo BioMio Organico",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Valdepablo-BioMio-Organico.png"
-  },
-  {
-    "name": "St. Petroni",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/St.-Petroni.png"
-  },
-  {
-    "name": "Picuezo Barrica",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Picuezo-Barrica.png"
-  },
-  {
-    "name": "Luis The Marinero Rojo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-The-Marinero-Rojo.png"
-  },
-  {
-    "name": "Luis The Marinero Blanco",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-The-Marinero-Blanco.png"
-  },
-  {
-    "name": "La Carmeta",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/La-Carmeta.png"
-  },
-  {
-    "name": "Esencia Tabira Prieto Picudo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Esencia-Tabira-Prieto-Picudo.png"
-  },
-  {
-    "name": "El molin del Nora",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-molin-del-Nora.png"
-  },
-  {
-    "name": "Arlini personalizado Asturias",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Arlini-personalizado-Asturias.png"
-  },
-  {
-    "name": "El Ingenioso",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-Ingenioso.png"
-  },
-  {
-    "name": "Carpano Classico Rojo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Carpano-Classico-Rojo.png"
-  },
-  {
-    "name": "Bocamanga",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bocamanga.png"
-  },
-  {
-    "name": "Sidra Zapica D.O.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sidra-Zapica-D.O..png"
-  },
-  {
-    "name": "Sidra Buznego",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sidra-Buznego.png"
-  },
-  {
-    "name": "El Gaitero Extra",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-Gaitero-Extra.png"
-  },
-  {
-    "name": "Pedregosa Brut Nature (Petit Cuvée)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Petit-Cuvee.png"
-  },
-  {
-    "name": "Pedregosa Rosado Brut Nature (Petit Cuvée)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Rosado-Brut-Nature-Petit-Cuvee.png"
-  },
-  {
-    "name": "Pedregosa Brut Nature Reserva(Clos de Blancs)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-ReservaClos-de-Blancs.png"
-  },
-  {
-    "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Clos de Blancs)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Magnum-15L-Pedregosa-Brut-Nature-ReservaClos-de-Blancs.png"
-  },
-  {
-    "name": "Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Reserva-Blanc-de-Millesime.png"
-  },
-  {
-    "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Magnum-15L-Pedregosa-Brut-Nature-Reserva-Blanc-de-Millesime.png"
-  },
-  {
-    "name": "Pedregosa Brut Nature Reserva d L'Hereu",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Reserva-d-L_Hereu.png"
-  },
-  {
-    "name": "Faustino Brut Reserva",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Faustino-Brut-Reserva.png"
-  },
-  {
-    "name": "Feitizo da noite extra brut albariño",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Feitizo-da-noite-extra-brut-albarino.png"
-  },
-  {
-    "name": "Codorniu Benjamin",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Codorniu-Benjamin.png"
-  },
-  {
-    "name": "Penord Ricard",
-    "img": "https://www.pernod-ricard.com/en"
-  },
-  {
-    "name": "Diageo",
-    "img": "https://www.diageo.com/en"
-  },
-  {
-    "name": "Bacardi Limited",
-    "img": "https://www.bacardilimited.com/country-info/spain/"
-  },
-  {
-    "name": "Beam Suntory",
-    "img": "https://www.beamsuntory.com/"
-  },
-  {
-    "name": "Licor de Miel Panizo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Miel-Panizo.png"
-  },
-  {
-    "name": "Licor de Crema con Orujo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Crema-con-Orujo.png"
-  },
-  {
-    "name": "Licor Tostado Panizo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-Tostado-Panizo.png"
-  },
-  {
-    "name": "Pacharán Panizo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pacharan-Panizo.png"
-  },
-  {
-    "name": "Orujo Blanco Panizo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Panizo.png"
-  },
-  {
-    "name": "Licor de Hierbas Panizo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Hierbas-Panizo.png"
-  },
-  {
-    "name": "Crema de Arroz Panizo",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crema-de-Arroz-Panizo.png"
-  },
-  {
-    "name": "Crema de Orujo Bouza do Rei",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crema-de-Orujo-Bouza-do-Rei.png"
-  },
-  {
-    "name": "Orujo Blanco Bouza do Rei",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Bouza-do-Rei.png"
-  },
-  {
-    "name": "Orujo Tostado Bouza do Rei",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Tostado-Bouza-do-Rei.png"
-  },
-  {
-    "name": "Orujo de Hierbas Bouza do Rei",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Hierbas-Bouza-do-Rei.png"
-  },
-  {
-    "name": "Licor de Café Bouza do Rei",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Cafe-Bouza-do-Rei.png"
-  },
-  {
-    "name": "Orujo Blanco Marc de Bazan",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Marc-de-Bazan.png"
-  },
-  {
-    "name": "Orujo de Hierbas Marc de Bazan",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Hierbas-Marc-de-Bazan.png"
-  },
-  {
-    "name": "Orujo Tostado Marc de Bazan",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Tostado-Marc-de-Bazan.png"
-  },
-  {
-    "name": "Orujo de Café Marc de Bazan",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Cafe-Marc-de-Bazan.png"
-  },
-  {
-    "name": "Manzanilla la Guita",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Manzanilla-la-Guita.png"
-  },
-  {
-    "name": "Ginebra Bunker London Dry",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Ginebra-Bunker-London-Dry.png"
-  },
-  {
-    "name": "Bunker Origen",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bunker-Origen.jpg"
-  },
-  {
-    "name": "Bonito del Norte en aceite de oliva 900g.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bonito-del-Norte-en-aceite-de-oliva-900g..png"
-  },
-  {
-    "name": "Mejillones en escabeche 4-6 Cuca Gourmet",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mejillones-en-escabeche-4-6-Cuca-Gourmet.png"
-  },
-  {
-    "name": "Atún claro en aceite de girasol 900g.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Atun-claro-en-aceite-de-girasol-900g..png"
-  },
-  {
-    "name": "Berberechos 20-35 Cuca Gourmet",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Berberechos-20-35-Cuca-Gourmet.png"
-  },
-  {
-    "name": "Aceite Virgen Extra Nahon 5L",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Aceite-Virgen-Extra-Nahon-5L.png"
-  },
-  {
-    "name": "Almejas 11-15 Cuca Gourmet",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Almejas-11-15-Cuca-Gourmet.png"
-  },
-  {
-    "name": "Aceite Virgen Extra Guillén 5L",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Aceite-Virgen-Extra-Guillen-5L.png"
-  },
-  {
-    "name": "Aceite Virgen Extra Arroniz 500ml.",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Aceite-Virgen-Extra-Arroniz-500ml..png"
-  },
-  {
-    "name": "Ventresca de bonito del norte Cuca gourmet",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/10/2022-Bodegas-Coya-22.png"
-  },
-  {
-    "name": "Sardinilla Cuca gourmet",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/10/2022-Bodegas-Coya-23.png"
-  },
-  {
-    "name": "Aceite de oliva Trujal Tudela",
-    "img": "https://bodegascoya.es/wp-content/uploads/2022/10/2022-Bodegas-Coya-17.png"
+    "id": "marcas-propias",
+    "category": "Marcas propias",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montecoya-Roble.png",
+    "products": [
+      {
+        "name": "Turbio Xoven",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Turbio-Xoven.png",
+        "id": "turbio_xoven"
+      },
+      {
+        "name": "Silo Tinto",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Silo-Tinto.png",
+        "id": "silo_tinto"
+      },
+      {
+        "name": "Riosella Tinto",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Riosella-Tinto.png",
+        "id": "riosella_tinto"
+      },
+      {
+        "name": "Riosella Rosado",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Riosella-Rosado.png",
+        "id": "riosella_rosado"
+      },
+      {
+        "name": "Riosella Blanco",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Riosella-Blanco.png",
+        "id": "riosella_blanco"
+      },
+      {
+        "name": "Rioja Artesano Cosechero",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Rioja-Artesano-Cosechero.png",
+        "id": "rioja_artesano_cosechero"
+      },
+      {
+        "name": "Peñalara Tinto",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Penalara-Tinto.png",
+        "id": "peñalara_tinto"
+      },
+      {
+        "name": "Peñalara Semidulce",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Penalara-Semidulce.png",
+        "id": "peñalara_semidulce"
+      },
+      {
+        "name": "Peñalara Rosado",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Penalara-Rosado.png",
+        "id": "peñalara_rosado"
+      },
+      {
+        "name": "Peñalara Blanco",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Penalara-Blanco.png",
+        "id": "peñalara_blanco"
+      },
+      {
+        "name": "Pagos de Oncala Tinto",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pagos-de-Oncala-Tinto.png",
+        "id": "pagos_de_oncala_tinto"
+      },
+      {
+        "name": "Oncala Tierra de Castiilla",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Oncala-Tierra-de-Castiilla.png",
+        "id": "oncala_tierra_de_castiilla"
+      },
+      {
+        "name": "O Cruceiro Xoven",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/O-Cruceiro-Xoven.png",
+        "id": "o_cruceiro_xoven"
+      },
+      {
+        "name": "Montecoya Verdejo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montecoya-Verdejo.png",
+        "id": "montecoya_verdejo"
+      },
+      {
+        "name": "Montecoya Roble",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montecoya-Roble.png",
+        "id": "montecoya_roble"
+      },
+      {
+        "name": "Montecoya Prieto Picudo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montecoya-Prieto-Picudo.png",
+        "id": "montecoya_prieto_picudo"
+      },
+      {
+        "name": "Bag in Box 5 y 15L",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bag-in-Box-5-y-15L.png",
+        "id": "bag_in_box_5_y_15l"
+      }
+    ]
+  },
+  {
+    "id": "vinos-tintos",
+    "category": "Vinos tintos",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Altos-de-Losada-La-Bienquerida.png",
+    "denominations": [
+      {
+        "denomination": "D.O. Bierzo",
+        "products": [
+          {
+            "name": "Altos de Losada La Bienquerida",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Altos-de-Losada-La-Bienquerida.png",
+            "id": "altos_de_losada_la_bienquerida"
+          },
+          {
+            "name": "Altos de Losada",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Altos-de-Losada-1.png",
+            "id": "altos_de_losada"
+          },
+          {
+            "name": "Pájaro Rojo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pajaro-Rojo.png",
+            "id": "pájaro_rojo"
+          },
+          {
+            "name": "Losada",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Losada.png",
+            "id": "losada"
+          },
+          {
+            "name": "Losada Magnum",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Losada-Magnum.png",
+            "id": "losada_magnum"
+          }
+        ],
+        "id": "d.o._bierzo"
+      },
+      {
+        "denomination": "D.O. Ribera del Duero",
+        "products": [
+          {
+            "name": "Portia Roble",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Portia-Roble.png",
+            "id": "portia_roble"
+          },
+          {
+            "name": "Portia Roble Magnum",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Portia-Roble-Magnum.png",
+            "id": "portia_roble_magnum"
+          },
+          {
+            "name": "Portia Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Portia-Crianza.png",
+            "id": "portia_crianza"
+          },
+          {
+            "name": "Portia Prima La Encina",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Portia-Prima-La-Encina-DO-Ribera-del-Duero.png",
+            "id": "portia_prima_la_encina"
+          },
+          {
+            "name": "Alma Serena Barrica",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Alma-Serena-Barrica.png",
+            "id": "alma_serena_barrica"
+          },
+          {
+            "name": "Miros de Ribera Roble",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Miros-de-Ribera-Roble.png",
+            "id": "miros_de_ribera_roble"
+          },
+          {
+            "name": "Miros de Ribera Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Miros-de-Ribera-Crianza.png",
+            "id": "miros_de_ribera_crianza"
+          },
+          {
+            "name": "Silencio de Miros",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Silencio-de-Miros.png",
+            "id": "silencio_de_miros"
+          },
+          {
+            "name": "Fuentespina Roble",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Fuentespina-Roble.png",
+            "id": "fuentespina_roble"
+          },
+          {
+            "name": "Fuentespina 3",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Fuentespina-3.png",
+            "id": "fuentespina_3"
+          },
+          {
+            "name": "F de Fuentespina Reserva",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/F-de-Fuentespina-Reserva.png",
+            "id": "f_de_fuentespina_reserva"
+          },
+          {
+            "name": "Garmón",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Garmon.png",
+            "id": "garmón"
+          },
+          {
+            "name": "Avelino Vegas Áureo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Avelino-Vegas-Aureo-Tinto-Ribera-del-Duero.png",
+            "id": "avelino_vegas_áureo"
+          }
+        ],
+        "id": "d.o._ribera_del_duero"
+      },
+      {
+        "denomination": "D.O. Rioja",
+        "products": [
+          {
+            "name": "Voché Selección Graciano",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Voche-Seleccion-Graciano.png",
+            "id": "voché_selección_graciano"
+          },
+          {
+            "name": "Voché Reserva",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Voche-Reserva.png",
+            "id": "voché_reserva"
+          },
+          {
+            "name": "Voché Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Voche-Crianza.png",
+            "id": "voché_crianza"
+          },
+          {
+            "name": "Viñadrián Tinto",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vinadrian-Tinto.png",
+            "id": "viñadrián_tinto"
+          },
+          {
+            "name": "Viñadrián Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vinadrian-Crianza.png",
+            "id": "viñadrián_crianza"
+          },
+          {
+            "name": "Marqués de Vitoria Reserva",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Vitoria-Reserva.png",
+            "id": "marqués_de_vitoria_reserva"
+          },
+          {
+            "name": "Marqués de Vitoria Crianza Magnum",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Vitoria-Crianza-Magnum.png",
+            "id": "marqués_de_vitoria_crianza_magnum"
+          },
+          {
+            "name": "Marqués de Vitoria Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Vitoria-Crianza.png",
+            "id": "marqués_de_vitoria_crianza"
+          },
+          {
+            "name": "Luis Gurpegui Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-Gurpegui-Crianza.png",
+            "id": "luis_gurpegui_crianza"
+          },
+          {
+            "name": "Luis Gurpegui Crianza Magnum",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-Gurpegui-Crianza-Magnum.png",
+            "id": "luis_gurpegui_crianza_magnum"
+          },
+          {
+            "name": "Luis Gurpegui 147 Aniversario Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-Gurpegui-147-Aniversario-Crianza.png",
+            "id": "luis_gurpegui_147_aniversario_crianza"
+          },
+          {
+            "name": "Heredero Joven",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heredero-Joven.png",
+            "id": "heredero_joven"
+          },
+          {
+            "name": "Heredero Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heredero-Crianza.png",
+            "id": "heredero_crianza"
+          },
+          {
+            "name": "Gonzalo de Berceo Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Gonzalo-de-Berceo-Crianza.png",
+            "id": "gonzalo_de_berceo_crianza"
+          },
+          {
+            "name": "Gonzalo de Berceo Reserva",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Gonzalo-de-Berceo-Reserva.png",
+            "id": "gonzalo_de_berceo_reserva"
+          },
+          {
+            "name": "Dominios de Berceo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Dominios-de-Berceo.png",
+            "id": "dominios_de_berceo"
+          },
+          {
+            "name": "Berceo Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Berceo-Crianza.png",
+            "id": "berceo_crianza"
+          }
+        ],
+        "id": "d.o._rioja"
+      },
+      {
+        "denomination": "D.O. Jumilla",
+        "products": [
+          {
+            "name": "Crápula Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crapula-Crianza.png",
+            "id": "crápula_crianza"
+          },
+          {
+            "name": "Crápula Gold Magnum",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crapula-Gold-Magnum.png",
+            "id": "crápula_gold_magnum"
+          },
+          {
+            "name": "Crápula Gold",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crapula-Gold.png",
+            "id": "crápula_gold"
+          },
+          {
+            "name": "Crápula Soul",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crapula-Soul.png",
+            "id": "crápula_soul"
+          }
+        ],
+        "id": "d.o._jumilla"
+      },
+      {
+        "denomination": "D.O. Somontano",
+        "products": [
+          {
+            "name": "Sommos Varietales Tinto",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Varietales-Tinto.png",
+            "id": "sommos_varietales_tinto"
+          },
+          {
+            "name": "Sommos Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Crianza.png",
+            "id": "sommos_crianza"
+          },
+          {
+            "name": "Sommos Colección Merlot",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Coleccion-Merlot.png",
+            "id": "sommos_colección_merlot"
+          },
+          {
+            "name": "Glárima Tinto Joven",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Glarima-Tinto-Joven.png",
+            "id": "glárima_tinto_joven"
+          }
+        ],
+        "id": "d.o._somontano"
+      },
+      {
+        "denomination": "D.O. Toro",
+        "products": [
+          {
+            "name": "Cermeño Vendimia Seleccionada",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Cermeno-Vendimia-Seleccionada.png",
+            "id": "cermeño_vendimia_seleccionada"
+          },
+          {
+            "name": "Prima",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Prima.png",
+            "id": "prima"
+          },
+          {
+            "name": "San Román",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/San-Roman.png",
+            "id": "san_román"
+          },
+          {
+            "name": "Latarce",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Latarce-Vino-de-Toro.png",
+            "id": "latarce"
+          },
+          {
+            "name": "Cartago Paraje del Pozo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Cartago-Paraje-del-Pozo.png",
+            "id": "cartago_paraje_del_pozo"
+          }
+        ],
+        "id": "d.o._toro"
+      },
+      {
+        "denomination": "D.O. Navarra",
+        "products": [
+          {
+            "name": "Marqués de Valcarlos Tinto",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Valcarlos-Tinto.png",
+            "id": "marqués_de_valcarlos_tinto"
+          }
+        ],
+        "id": "d.o._navarra"
+      },
+      {
+        "denomination": "D.O. Priorat",
+        "products": [
+          {
+            "name": "Nûr Crianza",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Nur-Crianza.png",
+            "id": "nûr_crianza"
+          }
+        ],
+        "id": "d.o._priorat"
+      },
+      {
+        "denomination": "D.O. Calatayud",
+        "products": [
+          {
+            "name": "Alquez Garnacha Viñas Viejas",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Alquez-Garnacha-Vinas-Viejas.png",
+            "id": "alquez_garnacha_viñas_viejas"
+          }
+        ],
+        "id": "d.o._calatayud"
+      },
+      {
+        "denomination": "D.O. Castilla y León",
+        "products": [
+          {
+            "name": "Condado Real Tinto",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Condado-Real-Tinto.png",
+            "id": "condado_real_tinto"
+          },
+          {
+            "name": "Mauro",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mauro.png",
+            "id": "mauro"
+          },
+          {
+            "name": "Mauro Magnum",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mauro-Magnum.png",
+            "id": "mauro_magnum"
+          },
+          {
+            "name": "Mauro VS",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mauro-VS.png",
+            "id": "mauro_vs"
+          },
+          {
+            "name": "Terreus",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Terreus.png",
+            "id": "terreus"
+          }
+        ],
+        "id": "d.o._castilla_y_león"
+      }
+    ]
+  },
+  {
+    "id": "vinos-blancos",
+    "category": "Vinos blancos",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Losada-Godello.png",
+    "denominations": [
+      {
+        "denomination": "D.O. Bierzo",
+        "products": [
+          {
+            "name": "Losada Godello",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Losada-Godello.png",
+            "id": "losada_godello"
+          },
+          {
+            "name": "Losada Godello Magnum",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Losada-Godello-Magnum-1.png",
+            "id": "losada_godello_magnum"
+          }
+        ],
+        "id": "d.o._bierzo"
+      },
+      {
+        "denomination": "D.O. Castilla y León",
+        "products": [
+          {
+            "name": "Mauro Godello",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mauro-Godello.png",
+            "id": "mauro_godello"
+          },
+          {
+            "name": "Esencia 27 Verdejo Semidulce",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Esencia-27-Verdejo-Semidulce.png",
+            "id": "esencia_27_verdejo_semidulce"
+          }
+        ],
+        "id": "d.o._castilla_y_león"
+      },
+      {
+        "denomination": "D.O. Valdeorras",
+        "products": [
+          {
+            "name": "D_berna Godello",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/D_berna-Godello.png",
+            "id": "d_berna_godello"
+          },
+          {
+            "name": "D_berna Sobre Lias Godello",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/D_berna-Sobre-Lias-Godello.png",
+            "id": "d_berna_sobre_lias_godello"
+          }
+        ],
+        "id": "d.o._valdeorras"
+      },
+      {
+        "denomination": "D.O. Rias Baixas",
+        "products": [
+          {
+            "name": "Bouza do Rei Selección",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bouza-do-Rei-Seleccion.png",
+            "id": "bouza_do_rei_selección"
+          },
+          {
+            "name": "Marqués de Fonseca",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Fonseca.png",
+            "id": "marqués_de_fonseca"
+          },
+          {
+            "name": "Bouza do Rei",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bouza-do-Rei.png",
+            "id": "bouza_do_rei"
+          },
+          {
+            "name": "Segrel",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Segrel.png",
+            "id": "segrel"
+          },
+          {
+            "name": "Gran Bazan Etiqueta Ambar",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Gran-Bazan-Etiqueta-Ambar.png",
+            "id": "gran_bazan_etiqueta_ambar"
+          },
+          {
+            "name": "Lenda Ponda ",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Lenda-Ponda-DO-Rias-Baixas.png",
+            "id": "lenda_ponda_"
+          },
+          {
+            "name": "Miña Vida",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Mina-Vida-DO-Rias-Baixas.png",
+            "id": "miña_vida"
+          },
+          {
+            "name": "Pazo Pondal",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Pazo-Pondal-Albarino-DO-Rias-Baixas.png",
+            "id": "pazo_pondal"
+          }
+        ],
+        "id": "d.o._rias_baixas"
+      },
+      {
+        "denomination": "D.O. Rueda",
+        "products": [
+          {
+            "name": "Circe Verdejo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Circe-Verdejo.png",
+            "id": "circe_verdejo"
+          },
+          {
+            "name": "Hombre Pez",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Hombre-Pez.png",
+            "id": "hombre_pez"
+          },
+          {
+            "name": "Portia Verdejo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Portia-Verdejo.png",
+            "id": "portia_verdejo"
+          },
+          {
+            "name": "Montespina Verdejo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Montespina-Verdejo.png",
+            "id": "montespina_verdejo"
+          },
+          {
+            "name": "Vacceos Verdejo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vacceos-Verdejo.png",
+            "id": "vacceos_verdejo"
+          },
+          {
+            "name": "Cuatro Rayas ecológico",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Cuatro-Rayas-ecologico-DO-Rueda.png",
+            "id": "cuatro_rayas_ecológico"
+          }
+        ],
+        "id": "d.o._rueda"
+      },
+      {
+        "denomination": "D.O. Ribeiro",
+        "products": [
+          {
+            "name": "Elara Treixadura_Godello",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Elara-Treixadura_Godello.png",
+            "id": "elara_treixadura_godello"
+          },
+          {
+            "name": "Sybaria",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sybaria.png",
+            "id": "sybaria"
+          }
+        ],
+        "id": "d.o._ribeiro"
+      },
+      {
+        "denomination": "D.O. Somontano",
+        "products": [
+          {
+            "name": "Sommos Varietales Blanco",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Varietales-Blanco.png",
+            "id": "sommos_varietales_blanco"
+          },
+          {
+            "name": "Sommos Colección Gewürztraminer",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Coleccion-Gewurztraminer.png",
+            "id": "sommos_colección_gewürztraminer"
+          },
+          {
+            "name": "Glárima Blanco Joven",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Glarima-Blanco-Joven.png",
+            "id": "glárima_blanco_joven"
+          }
+        ],
+        "id": "d.o._somontano"
+      }
+    ]
+  },
+  {
+    "id": "vinos-rosados",
+    "category": "Vinos Rosados",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Condado-Real-Rosado.png",
+    "denominations": [
+      {
+        "denomination": "D.O. Castilla y León",
+        "products": [
+          {
+            "name": "Condado Real Rosado",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Condado-Real-Rosado.png",
+            "id": "condado_real_rosado"
+          },
+          {
+            "name": "Nicte Rosa Pálido",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Nicte-Rosa-Palido-Castilla-y-Leon-Rosado.png",
+            "id": "nicte_rosa_pálido"
+          },
+          {
+            "name": "Olivia Rosé",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Olivia-Rose.png",
+            "id": "olivia_rosé"
+          }
+        ],
+        "id": "d.o._castilla_y_león"
+      },
+      {
+        "denomination": "D.O. Navarra",
+        "products": [
+          {
+            "name": "Marqués de Valcarlos Rosado",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Marques-de-Valcarlos-Rosado.png",
+            "id": "marqués_de_valcarlos_rosado"
+          },
+          {
+            "name": "Luis Gurpegui",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-Gurpegui.png",
+            "id": "luis_gurpegui"
+          }
+        ],
+        "id": "d.o._navarra"
+      },
+      {
+        "denomination": "D.O. Rioja",
+        "products": [
+          {
+            "name": "Campillo Rosado",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Campillo-Rosado-Rioja.png",
+            "id": "campillo_rosado"
+          }
+        ],
+        "id": "d.o._rioja"
+      },
+      {
+        "denomination": "D.O. Valdeorras",
+        "products": [
+          {
+            "name": "D'Berna Godello ",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/11/Diseno-sin-titulo-91.png",
+            "id": "d'berna_godello_"
+          }
+        ],
+        "id": "d.o._valdeorras"
+      },
+      {
+        "denomination": "D.O. Somontano",
+        "products": [
+          {
+            "name": "Sommos Rosé",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sommos-Rose.png",
+            "id": "sommos_rosé"
+          }
+        ],
+        "id": "d.o._somontano"
+      },
+      {
+        "denomination": "D.O León",
+        "products": [
+          {
+            "name": "Esencia 33 Prieto Picudo",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Esencia-33-Prieto-Picudo.png",
+            "id": "esencia_33_prieto_picudo"
+          }
+        ],
+        "id": "d.o_león"
+      },
+      {
+        "denomination": "D.O. Cigales",
+        "products": [
+          {
+            "name": "Condado Real Cigales",
+            "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Condado-Real-Cigales.png",
+            "id": "condado_real_cigales"
+          }
+        ],
+        "id": "d.o._cigales"
+      }
+    ]
+  },
+  {
+    "id": "cervezas",
+    "category": "Cervezas",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-33cl.-scaled.jpg",
+    "products": [
+      {
+        "name": "Amstel Lata 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/11/5.png",
+        "id": "amstel_lata_33cl."
+      },
+      {
+        "name": "Amstel Original 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Amstel-Original-33cl.-EXCLUSIVO-HOSTELERIA.png",
+        "id": "amstel_original_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Amstel Oro 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Amstel-Oro-33cl.-EXCLUSIVO-HOSTELERIA-scaled.jpg",
+        "id": "amstel_oro_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Amstel Oro Lata 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/11/2.png",
+        "id": "amstel_oro_lata_33cl."
+      },
+      {
+        "name": "Amstel Radler 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Amstel-Radler-33cl.-EXCLUSIVO-HOSTELERIA.png",
+        "id": "amstel_radler_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Amstel Radler Lata 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Amstel-Radler-Lata-33cl..jpg",
+        "id": "amstel_radler_lata_33cl."
+      },
+      {
+        "name": "Desperados Mojito 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Desperados-Mojito-33cl..png",
+        "id": "desperados_mojito_33cl."
+      },
+      {
+        "name": "Buckler 0,0 Radler Lata 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/11/3.png",
+        "id": "buckler_0,0_radler_lata_33cl."
+      },
+      {
+        "name": "El Alcazar 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-Alcazar-33cl..png",
+        "id": "el_alcazar_33cl."
+      },
+      {
+        "name": "La 1870 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/La-1870-33cl..png",
+        "id": "la_1870_33cl."
+      },
+      {
+        "name": "Ladrón de Manzanas 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Ladron-de-Manzanas-33cl.-EXCLUSIVO-HOSTELERIA.png",
+        "id": "ladrón_de_manzanas_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Sol 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sol-33cl..jpg",
+        "id": "sol_33cl."
+      },
+      {
+        "name": "Cruzcampo 0,0 Lata 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/11/4.png",
+        "id": "cruzcampo_0,0_lata_33cl."
+      },
+      {
+        "name": "Cruzcampo Especial 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Cruzcampo-Especial-33cl.-EXCLUSIVO-HOSTELERIA.png",
+        "id": "cruzcampo_especial_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Cruzcampo Pilsen Lata 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/11/1.png",
+        "id": "cruzcampo_pilsen_lata_33cl."
+      },
+      {
+        "name": "Shandy 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Shandy-33cl..jpg",
+        "id": "shandy_33cl."
+      },
+      {
+        "name": "Heineken 0,0 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-00-33cl.-EXCLUSIVO-HOSTELERIA.png",
+        "id": "heineken_0,0_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Heineken 0,0 Lata 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-00-Lata-33cl..jpg",
+        "id": "heineken_0,0_lata_33cl."
+      },
+      {
+        "name": "Heineken 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-33cl.-scaled.jpg",
+        "id": "heineken_33cl."
+      },
+      {
+        "name": "Heineken Lata 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Heineken-Lata-33cl..jpg",
+        "id": "heineken_lata_33cl."
+      },
+      {
+        "name": "Birra Moretti 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Birra-Moretti-33cl..jpg",
+        "id": "birra_moretti_33cl."
+      },
+      {
+        "name": "Guinness Original 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Guinness-Original-33cl..jpg",
+        "id": "guinness_original_33cl."
+      },
+      {
+        "name": "Hop House 13 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Hop-House-13-33cl..jpg",
+        "id": "hop_house_13_33cl."
+      },
+      {
+        "name": "Judas 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Judas-33cl..jpg",
+        "id": "judas_33cl."
+      },
+      {
+        "name": "Mort Subite Cereza 25cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mort-Subite-Cereza-25cl..jpg",
+        "id": "mort_subite_cereza_25cl."
+      },
+      {
+        "name": "Paulaner Dunkel 50cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Paulaner-Dunkel-50cl.-scaled.jpg",
+        "id": "paulaner_dunkel_50cl."
+      },
+      {
+        "name": "Paulaner Salvator 33cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Paulaner-Salvator-33cl..jpg",
+        "id": "paulaner_salvator_33cl."
+      },
+      {
+        "name": "Paulaner Salvator 50cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Paulaner-Salvator-50cl.-scaled.jpg",
+        "id": "paulaner_salvator_50cl."
+      },
+      {
+        "name": "Sidra Bulmers 50cl.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sidra-Bulmers-50cl..jpg",
+        "id": "sidra_bulmers_50cl."
+      }
+    ]
+  },
+  {
+    "id": "vermus",
+    "category": "Vermús",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Valdepablo-Seleccion.png",
+    "products": [
+      {
+        "name": "Valdepablo Selección",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Valdepablo-Seleccion.png",
+        "id": "valdepablo_selección"
+      },
+      {
+        "name": "Valdepablo BioMio Organico",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Valdepablo-BioMio-Organico.png",
+        "id": "valdepablo_biomio_organico"
+      },
+      {
+        "name": "St. Petroni",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/St.-Petroni.png",
+        "id": "st._petroni"
+      },
+      {
+        "name": "Picuezo Barrica",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Picuezo-Barrica.png",
+        "id": "picuezo_barrica"
+      },
+      {
+        "name": "Luis The Marinero Rojo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-The-Marinero-Rojo.png",
+        "id": "luis_the_marinero_rojo"
+      },
+      {
+        "name": "Luis The Marinero Blanco",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Luis-The-Marinero-Blanco.png",
+        "id": "luis_the_marinero_blanco"
+      },
+      {
+        "name": "La Carmeta",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/La-Carmeta.png",
+        "id": "la_carmeta"
+      },
+      {
+        "name": "Esencia Tabira Prieto Picudo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Esencia-Tabira-Prieto-Picudo.png",
+        "id": "esencia_tabira_prieto_picudo"
+      },
+      {
+        "name": "El molin del Nora",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-molin-del-Nora.png",
+        "id": "el_molin_del_nora"
+      },
+      {
+        "name": "Arlini personalizado Asturias",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Arlini-personalizado-Asturias.png",
+        "id": "arlini_personalizado_asturias"
+      },
+      {
+        "name": "El Ingenioso",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-Ingenioso.png",
+        "id": "el_ingenioso"
+      },
+      {
+        "name": "Carpano Classico Rojo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Carpano-Classico-Rojo.png",
+        "id": "carpano_classico_rojo"
+      },
+      {
+        "name": "Bocamanga",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bocamanga.png",
+        "id": "bocamanga"
+      }
+    ]
+  },
+  {
+    "id": "sidras",
+    "category": "Sidras",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sidra-Zapica-D.O..png",
+    "products": [
+      {
+        "name": "Sidra Zapica D.O.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sidra-Zapica-D.O..png",
+        "id": "sidra_zapica_d.o."
+      },
+      {
+        "name": "Sidra Buznego",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Sidra-Buznego.png",
+        "id": "sidra_buznego"
+      },
+      {
+        "name": "El Gaitero Extra",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/El-Gaitero-Extra.png",
+        "id": "el_gaitero_extra"
+      }
+    ]
+  },
+  {
+    "id": "licores",
+    "category": "Licores",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crema-de-Orujo-Bouza-do-Rei.png",
+    "products": [
+      {
+        "name": "Penord Ricard",
+        "img": "https://www.pernod-ricard.com/en",
+        "id": "penord_ricard"
+      },
+      {
+        "name": "Diageo",
+        "img": "https://www.diageo.com/en",
+        "id": "diageo"
+      },
+      {
+        "name": "Bacardi Limited",
+        "img": "https://www.bacardilimited.com/country-info/spain/",
+        "id": "bacardi_limited"
+      },
+      {
+        "name": "Beam Suntory",
+        "img": "https://www.beamsuntory.com/",
+        "id": "beam_suntory"
+      },
+      {
+        "name": "Licor de Miel Panizo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Miel-Panizo.png",
+        "id": "licor_de_miel_panizo"
+      },
+      {
+        "name": "Licor de Crema con Orujo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Crema-con-Orujo.png",
+        "id": "licor_de_crema_con_orujo"
+      },
+      {
+        "name": "Licor Tostado Panizo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-Tostado-Panizo.png",
+        "id": "licor_tostado_panizo"
+      },
+      {
+        "name": "Pacharán Panizo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pacharan-Panizo.png",
+        "id": "pacharán_panizo"
+      },
+      {
+        "name": "Orujo Blanco Panizo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Panizo.png",
+        "id": "orujo_blanco_panizo"
+      },
+      {
+        "name": "Licor de Hierbas Panizo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Hierbas-Panizo.png",
+        "id": "licor_de_hierbas_panizo"
+      },
+      {
+        "name": "Crema de Arroz Panizo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crema-de-Arroz-Panizo.png",
+        "id": "crema_de_arroz_panizo"
+      },
+      {
+        "name": "Crema de Orujo Bouza do Rei",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Crema-de-Orujo-Bouza-do-Rei.png",
+        "id": "crema_de_orujo_bouza_do_rei"
+      },
+      {
+        "name": "Orujo Blanco Bouza do Rei",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Bouza-do-Rei.png",
+        "id": "orujo_blanco_bouza_do_rei"
+      },
+      {
+        "name": "Orujo Tostado Bouza do Rei",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Tostado-Bouza-do-Rei.png",
+        "id": "orujo_tostado_bouza_do_rei"
+      },
+      {
+        "name": "Orujo de Hierbas Bouza do Rei",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Hierbas-Bouza-do-Rei.png",
+        "id": "orujo_de_hierbas_bouza_do_rei"
+      },
+      {
+        "name": "Licor de Café Bouza do Rei",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Licor-de-Cafe-Bouza-do-Rei.png",
+        "id": "licor_de_café_bouza_do_rei"
+      },
+      {
+        "name": "Orujo Blanco Marc de Bazan",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Blanco-Marc-de-Bazan.png",
+        "id": "orujo_blanco_marc_de_bazan"
+      },
+      {
+        "name": "Orujo de Hierbas Marc de Bazan",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Hierbas-Marc-de-Bazan.png",
+        "id": "orujo_de_hierbas_marc_de_bazan"
+      },
+      {
+        "name": "Orujo Tostado Marc de Bazan",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-Tostado-Marc-de-Bazan.png",
+        "id": "orujo_tostado_marc_de_bazan"
+      },
+      {
+        "name": "Orujo de Café Marc de Bazan",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Orujo-de-Cafe-Marc-de-Bazan.png",
+        "id": "orujo_de_café_marc_de_bazan"
+      },
+      {
+        "name": "Manzanilla la Guita",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Manzanilla-la-Guita.png",
+        "id": "manzanilla_la_guita"
+      },
+      {
+        "name": "Ginebra Bunker London Dry",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Ginebra-Bunker-London-Dry.png",
+        "id": "ginebra_bunker_london_dry"
+      },
+      {
+        "name": "Bunker Origen",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bunker-Origen.jpg",
+        "id": "bunker_origen"
+      }
+    ]
+  },
+  {
+    "id": "cava",
+    "category": "Cava",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Petit-Cuvee.png",
+    "products": [
+      {
+        "name": "Pedregosa Brut Nature (Petit Cuvée)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Petit-Cuvee.png",
+        "id": "pedregosa_brut_nature_(petit_cuvée)"
+      },
+      {
+        "name": "Pedregosa Rosado Brut Nature (Petit Cuvée)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Rosado-Brut-Nature-Petit-Cuvee.png",
+        "id": "pedregosa_rosado_brut_nature_(petit_cuvée)"
+      },
+      {
+        "name": "Pedregosa Brut Nature Reserva(Clos de Blancs)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-ReservaClos-de-Blancs.png",
+        "id": "pedregosa_brut_nature_reserva(clos_de_blancs)"
+      },
+      {
+        "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Clos de Blancs)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Magnum-15L-Pedregosa-Brut-Nature-ReservaClos-de-Blancs.png",
+        "id": "magnum_1,5l_pedregosa_brut_nature_reserva_(clos_de_blancs)"
+      },
+      {
+        "name": "Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Reserva-Blanc-de-Millesime.png",
+        "id": "pedregosa_brut_nature_reserva_(blanc_de_millésimé)"
+      },
+      {
+        "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Magnum-15L-Pedregosa-Brut-Nature-Reserva-Blanc-de-Millesime.png",
+        "id": "magnum_1,5l_pedregosa_brut_nature_reserva_(blanc_de_millésimé)"
+      },
+      {
+        "name": "Pedregosa Brut Nature Reserva d L'Hereu",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Pedregosa-Brut-Nature-Reserva-d-L_Hereu.png",
+        "id": "pedregosa_brut_nature_reserva_d_l'hereu"
+      },
+      {
+        "name": "Faustino Brut Reserva",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Faustino-Brut-Reserva.png",
+        "id": "faustino_brut_reserva"
+      },
+      {
+        "name": "Feitizo da noite extra brut albariño",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Feitizo-da-noite-extra-brut-albarino.png",
+        "id": "feitizo_da_noite_extra_brut_albariño"
+      },
+      {
+        "name": "Codorniu Benjamin",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Codorniu-Benjamin.png",
+        "id": "codorniu_benjamin"
+      }
+    ]
+  },
+  {
+    "id": "alimentacion",
+    "category": "Alimentación",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bonito-del-Norte-en-aceite-de-oliva-900g..png",
+    "products": [
+      {
+        "name": "Bonito del Norte en aceite de oliva 900g.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Bonito-del-Norte-en-aceite-de-oliva-900g..png",
+        "id": "bonito_del_norte_en_aceite_de_oliva_900g."
+      },
+      {
+        "name": "Mejillones en escabeche 4-6 Cuca Gourmet",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mejillones-en-escabeche-4-6-Cuca-Gourmet.png",
+        "id": "mejillones_en_escabeche_4-6_cuca_gourmet"
+      },
+      {
+        "name": "Atún claro en aceite de girasol 900g.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Atun-claro-en-aceite-de-girasol-900g..png",
+        "id": "atún_claro_en_aceite_de_girasol_900g."
+      },
+      {
+        "name": "Berberechos 20-35 Cuca Gourmet",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Berberechos-20-35-Cuca-Gourmet.png",
+        "id": "berberechos_20-35_cuca_gourmet"
+      },
+      {
+        "name": "Aceite Virgen Extra Nahon 5L",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Aceite-Virgen-Extra-Nahon-5L.png",
+        "id": "aceite_virgen_extra_nahon_5l"
+      },
+      {
+        "name": "Almejas 11-15 Cuca Gourmet",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Almejas-11-15-Cuca-Gourmet.png",
+        "id": "almejas_11-15_cuca_gourmet"
+      },
+      {
+        "name": "Aceite Virgen Extra Guillén 5L",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Aceite-Virgen-Extra-Guillen-5L.png",
+        "id": "aceite_virgen_extra_guillén_5l"
+      },
+      {
+        "name": "Aceite Virgen Extra Arroniz 500ml.",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Aceite-Virgen-Extra-Arroniz-500ml..png",
+        "id": "aceite_virgen_extra_arroniz_500ml."
+      },
+      {
+        "name": "Ventresca de bonito del norte Cuca gourmet",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/10/2022-Bodegas-Coya-22.png",
+        "id": "ventresca_de_bonito_del_norte_cuca_gourmet"
+      },
+      {
+        "name": "Sardinilla Cuca gourmet",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/10/2022-Bodegas-Coya-23.png",
+        "id": "sardinilla_cuca_gourmet"
+      },
+      {
+        "name": "Aceite de oliva Trujal Tudela",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/10/2022-Bodegas-Coya-17.png",
+        "id": "aceite_de_oliva_trujal_tudela"
+      }
+    ]
+  },
+  {
+    "id": "otros",
+    "category": "Otros",
+    "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vino-Xoven-Meigallo.png",
+    "products": [
+      {
+        "name": "Vino Xoven Meigallo",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vino-Xoven-Meigallo.png",
+        "id": "vino_xoven_meigallo"
+      },
+      {
+        "name": "Vino Albariño Cosechero",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Vino-Albarino-Cosechero.png",
+        "id": "vino_albariño_cosechero"
+      },
+      {
+        "name": "Moscato Spumante",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Moscato-Spumante.png",
+        "id": "moscato_spumante"
+      },
+      {
+        "name": "Moscato D_asti Capetta",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Moscato-D_asti-Capetta.png",
+        "id": "moscato_d_asti_capetta"
+      },
+      {
+        "name": "Moscato Capetta",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Moscato-Capetta.png",
+        "id": "moscato_capetta"
+      },
+      {
+        "name": "Mateus Rosé",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Mateus-Rose.png",
+        "id": "mateus_rosé"
+      },
+      {
+        "name": "Champagne G.H. Mumm",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Champagne-G.H.-Mumm.png",
+        "id": "champagne_g.h._mumm"
+      },
+      {
+        "name": "Cavicchioli Lambrusco Rosado",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Cavicchioli-Lambrusco-Rosado.png",
+        "id": "cavicchioli_lambrusco_rosado"
+      },
+      {
+        "name": "Casal García Vino de Portugal",
+        "img": "https://bodegascoya.es/wp-content/uploads/2022/09/Casal-Garcia-Vino-de-Portugal.png",
+        "id": "casal_garcía_vino_de_portugal"
+      }
+    ]
   }
 ]
