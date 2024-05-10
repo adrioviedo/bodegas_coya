@@ -2,80 +2,9 @@
 import { Categoria } from "../components/Categoria.jsx";
 import Footer from "../components/Footer.astro";
 import Layout from "../layouts/Layout.astro";
-
-import data from "../productos/products.json";
 ---
 
 <Layout title="Nuestros productos - Bodegas Coya e Hijos">
-  <div class="flex w-4/5 mx-auto my-12 gap-20 text-[#261B0C]">
-    <aside class="w-[25%] flex flex-col gap-5">
-      {
-        data.map((categoria) => (
-          <article
-            class="asArticle relative w-full min-h-24 min-w-44 bg-[#E5CDA6] rounded-xl overflow-hidden hover:bg-[#450408] hover:text-[#FFE6BB] cursor-pointer transition"
-            data-category={categoria.id}
-          >
-            <h2 class="font-Anton text-2xl absolute left-5 top-5 z-20">
-              {categoria.category}
-            </h2>
-            <img
-              src={categoria.img}
-              alt=""
-              class="absolute object-fit object-center -right-6 -bottom-6 h-full"
-            />
-          </article>
-        ))
-      }
-    </aside>
-
-    <!-- <Categoria categoryId={categoryId} /> -->
-
-    <!-- <section class="flex flex-col gap-5 w-full">
-      <h1 class="categoryTitle font-Anton text-6xl">{category}</h1>
-      <ul class="flex gap-3 flex-wrap">
-        {
-          denominations.map((denomination) => (
-            <li class="px-2 py-1 rounded-xl hover:bg-[#450408] hover:text-[#FFE6BB] cursor-pointer transition">
-              {denomination.denomination}
-            </li>
-          ))
-        }
-      </ul>
-      <div
-        class="productos flex flex-wrap gap-5 h-full font-Roboto font-medium text-sm justify-center"
-      >
-        {
-          denominations.map((denomination) =>
-            denomination.products.map((product) => (
-              <article class="relative bg-[#E5CDA6] rounded-xl overflow-hidden cursor-pointer hover:scale-110 transition">
-                <img src={product.img} alt="" class="absolute h-[100%] mt-3" />
-                <span class="absolute bottom-0 text-pretty px-3 py-2 backdrop-blur-md">
-                  {product.name}
-                </span>
-              </article>
-            ))
-          )
-        }
-      </div>
-    </section> -->
-  </div>
-  <Footer class="bg-[#450408] text-[#FFE6BB]" />
+  <Categoria client:visible />
 </Layout>
-
-<script>
-  const articles = document.querySelectorAll(".asArticle");
-
-  articles.forEach((article) => {
-    article.addEventListener("click", (e) => {
-      const currentTarget = e.currentTarget as HTMLElement;
-
-      if (currentTarget.classList.contains("active")) return;
-
-      articles?.querySelector(".active")?.classList.remove("active");
-      currentTarget.classList.add("active");
-      const { category } = currentTarget?.dataset;
-
-      history.replaceState({}, "", `?category=${category}`);
-    });
-  });
-</script>
+<Footer class="bg-[#450408] text-[#FFE6BB]" />
