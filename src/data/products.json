@@ -1,0 +1,1253 @@
+[
+  {
+    "id": "marcas-propias",
+    "category": "Marcas propias",
+    "img": "/img/productos/montecoya_roble.webp",
+    "products": [
+      {
+        "name": "Turbio Xoven",
+        "img": "/img/productos/turbio_xoven.webp",
+        "id": "turbio_xoven"
+      },
+      {
+        "name": "Silo Tinto",
+        "img": "/img/productos/silo_tinto.webp",
+        "id": "silo_tinto"
+      },
+      {
+        "name": "Riosella Tinto",
+        "img": "/img/productos/riosella_tinto.webp",
+        "id": "riosella_tinto"
+      },
+      {
+        "name": "Riosella Rosado",
+        "img": "/img/productos/riosella_rosado.webp",
+        "id": "riosella_rosado"
+      },
+      {
+        "name": "Riosella Blanco",
+        "img": "/img/productos/riosella_blanco.webp",
+        "id": "riosella_blanco"
+      },
+      {
+        "name": "Rioja Artesano Cosechero",
+        "img": "/img/productos/rioja_artesano_cosechero.webp",
+        "id": "rioja_artesano_cosechero"
+      },
+      {
+        "name": "Peñalara Tinto",
+        "img": "/img/productos/peñalara_tinto.webp",
+        "id": "peñalara_tinto"
+      },
+      {
+        "name": "Peñalara Semidulce",
+        "img": "/img/productos/peñalara_semidulce.webp",
+        "id": "peñalara_semidulce"
+      },
+      {
+        "name": "Peñalara Rosado",
+        "img": "/img/productos/peñalara_rosado.webp",
+        "id": "peñalara_rosado"
+      },
+      {
+        "name": "Peñalara Blanco",
+        "img": "/img/productos/peñalara_blanco.webp",
+        "id": "peñalara_blanco"
+      },
+      {
+        "name": "Pagos de Oncala Tinto",
+        "img": "/img/productos/pagos_de_oncala_tinto.webp",
+        "id": "pagos_de_oncala_tinto"
+      },
+      {
+        "name": "Oncala Tierra de Castiilla",
+        "img": "/img/productos/oncala_tierra_de_castiilla.webp",
+        "id": "oncala_tierra_de_castiilla"
+      },
+      {
+        "name": "O Cruceiro Xoven",
+        "img": "/img/productos/o_cruceiro_xoven.webp",
+        "id": "o_cruceiro_xoven"
+      },
+      {
+        "name": "Montecoya Verdejo",
+        "img": "/img/productos/montecoya_verdejo.webp",
+        "id": "montecoya_verdejo"
+      },
+      {
+        "name": "Montecoya Roble",
+        "img": "/img/productos/montecoya_roble.webp",
+        "id": "montecoya_roble"
+      },
+      {
+        "name": "Montecoya Prieto Picudo",
+        "img": "/img/productos/montecoya_prieto_picudo.webp",
+        "id": "montecoya_prieto_picudo"
+      },
+      {
+        "name": "Bag in Box 5 y 15L",
+        "img": "/img/productos/bag_in_box_5_y_15l.webp",
+        "id": "bag_in_box_5_y_15l"
+      }
+    ]
+  },
+  {
+    "id": "vinos-tintos",
+    "category": "Vinos tintos",
+    "img": "/img/productos/altos_de_losada_la_bienquerida.webp",
+    "denominations": [
+      {
+        "denomination": "D.O. Bierzo",
+        "products": [
+          {
+            "name": "Altos de Losada La Bienquerida",
+            "img": "/img/productos/altos_de_losada_la_bienquerida.webp",
+            "id": "altos_de_losada_la_bienquerida"
+          },
+          {
+            "name": "Altos de Losada",
+            "img": "/img/productos/altos_de_losada.webp",
+            "id": "altos_de_losada"
+          },
+          {
+            "name": "Pájaro Rojo",
+            "img": "/img/productos/pájaro_rojo.webp",
+            "id": "pájaro_rojo"
+          },
+          {
+            "name": "Losada",
+            "img": "/img/productos/losada.webp",
+            "id": "losada"
+          },
+          {
+            "name": "Losada Magnum",
+            "img": "/img/productos/losada_magnum.webp",
+            "id": "losada_magnum"
+          }
+        ],
+        "id": "d.o._bierzo"
+      },
+      {
+        "denomination": "D.O. Ribera del Duero",
+        "products": [
+          {
+            "name": "Portia Roble",
+            "img": "/img/productos/portia_roble.webp",
+            "id": "portia_roble"
+          },
+          {
+            "name": "Portia Roble Magnum",
+            "img": "/img/productos/portia_roble_magnum.webp",
+            "id": "portia_roble_magnum"
+          },
+          {
+            "name": "Portia Crianza",
+            "img": "/img/productos/portia_crianza.webp",
+            "id": "portia_crianza"
+          },
+          {
+            "name": "Portia Prima La Encina",
+            "img": "/img/productos/portia_prima_la_encina.webp",
+            "id": "portia_prima_la_encina"
+          },
+          {
+            "name": "Alma Serena Barrica",
+            "img": "/img/productos/alma_serena_barrica.webp",
+            "id": "alma_serena_barrica"
+          },
+          {
+            "name": "Miros de Ribera Roble",
+            "img": "/img/productos/miros_de_ribera_roble.webp",
+            "id": "miros_de_ribera_roble"
+          },
+          {
+            "name": "Miros de Ribera Crianza",
+            "img": "/img/productos/miros_de_ribera_crianza.webp",
+            "id": "miros_de_ribera_crianza"
+          },
+          {
+            "name": "Silencio de Miros",
+            "img": "/img/productos/silencio_de_miros.webp",
+            "id": "silencio_de_miros"
+          },
+          {
+            "name": "Fuentespina Roble",
+            "img": "/img/productos/fuentespina_roble.webp",
+            "id": "fuentespina_roble"
+          },
+          {
+            "name": "Fuentespina 3",
+            "img": "/img/productos/fuentespina_3.webp",
+            "id": "fuentespina_3"
+          },
+          {
+            "name": "F de Fuentespina Reserva",
+            "img": "/img/productos/f_de_fuentespina_reserva.webp",
+            "id": "f_de_fuentespina_reserva"
+          },
+          {
+            "name": "Garmón",
+            "img": "/img/productos/garmón.webp",
+            "id": "garmón"
+          },
+          {
+            "name": "Avelino Vegas Áureo",
+            "img": "/img/productos/avelino_vegas_áureo.webp",
+            "id": "avelino_vegas_áureo"
+          }
+        ],
+        "id": "d.o._ribera_del_duero"
+      },
+      {
+        "denomination": "D.O. Rioja",
+        "products": [
+          {
+            "name": "Voché Selección Graciano",
+            "img": "/img/productos/voché_selección_graciano.webp",
+            "id": "voché_selección_graciano"
+          },
+          {
+            "name": "Voché Reserva",
+            "img": "/img/productos/voché_reserva.webp",
+            "id": "voché_reserva"
+          },
+          {
+            "name": "Voché Crianza",
+            "img": "/img/productos/voché_crianza.webp",
+            "id": "voché_crianza"
+          },
+          {
+            "name": "Viñadrián Tinto",
+            "img": "/img/productos/viñadrián_tinto.webp",
+            "id": "viñadrián_tinto"
+          },
+          {
+            "name": "Viñadrián Crianza",
+            "img": "/img/productos/viñadrián_crianza.webp",
+            "id": "viñadrián_crianza"
+          },
+          {
+            "name": "Marqués de Vitoria Reserva",
+            "img": "/img/productos/marqués_de_vitoria_reserva.webp",
+            "id": "marqués_de_vitoria_reserva"
+          },
+          {
+            "name": "Marqués de Vitoria Crianza Magnum",
+            "img": "/img/productos/marqués_de_vitoria_crianza_magnum.webp",
+            "id": "marqués_de_vitoria_crianza_magnum"
+          },
+          {
+            "name": "Marqués de Vitoria Crianza",
+            "img": "/img/productos/marqués_de_vitoria_crianza.webp",
+            "id": "marqués_de_vitoria_crianza"
+          },
+          {
+            "name": "Luis Gurpegui Crianza",
+            "img": "/img/productos/luis_gurpegui_crianza.webp",
+            "id": "luis_gurpegui_crianza"
+          },
+          {
+            "name": "Luis Gurpegui Crianza Magnum",
+            "img": "/img/productos/luis_gurpegui_crianza_magnum.webp",
+            "id": "luis_gurpegui_crianza_magnum"
+          },
+          {
+            "name": "Luis Gurpegui 147 Aniversario Crianza",
+            "img": "/img/productos/luis_gurpegui_147_aniversario_crianza.webp",
+            "id": "luis_gurpegui_147_aniversario_crianza"
+          },
+          {
+            "name": "Heredero Joven",
+            "img": "/img/productos/heredero_joven.webp",
+            "id": "heredero_joven"
+          },
+          {
+            "name": "Heredero Crianza",
+            "img": "/img/productos/heredero_crianza.webp",
+            "id": "heredero_crianza"
+          },
+          {
+            "name": "Gonzalo de Berceo Crianza",
+            "img": "/img/productos/gonzalo_de_berceo_crianza.webp",
+            "id": "gonzalo_de_berceo_crianza"
+          },
+          {
+            "name": "Gonzalo de Berceo Reserva",
+            "img": "/img/productos/gonzalo_de_berceo_reserva.webp",
+            "id": "gonzalo_de_berceo_reserva"
+          },
+          {
+            "name": "Dominios de Berceo",
+            "img": "/img/productos/dominios_de_berceo.webp",
+            "id": "dominios_de_berceo"
+          },
+          {
+            "name": "Berceo Crianza",
+            "img": "/img/productos/berceo_crianza.webp",
+            "id": "berceo_crianza"
+          }
+        ],
+        "id": "d.o._rioja"
+      },
+      {
+        "denomination": "D.O. Jumilla",
+        "products": [
+          {
+            "name": "Crápula Crianza",
+            "img": "/img/productos/crápula_crianza.webp",
+            "id": "crápula_crianza"
+          },
+          {
+            "name": "Crápula Gold Magnum",
+            "img": "/img/productos/crápula_gold_magnum.webp",
+            "id": "crápula_gold_magnum"
+          },
+          {
+            "name": "Crápula Gold",
+            "img": "/img/productos/crápula_gold.webp",
+            "id": "crápula_gold"
+          },
+          {
+            "name": "Crápula Soul",
+            "img": "/img/productos/crápula_soul.webp",
+            "id": "crápula_soul"
+          }
+        ],
+        "id": "d.o._jumilla"
+      },
+      {
+        "denomination": "D.O. Somontano",
+        "products": [
+          {
+            "name": "Sommos Varietales Tinto",
+            "img": "/img/productos/sommos_varietales_tinto.webp",
+            "id": "sommos_varietales_tinto"
+          },
+          {
+            "name": "Sommos Crianza",
+            "img": "/img/productos/sommos_crianza.webp",
+            "id": "sommos_crianza"
+          },
+          {
+            "name": "Sommos Colección Merlot",
+            "img": "/img/productos/sommos_colección_merlot.webp",
+            "id": "sommos_colección_merlot"
+          },
+          {
+            "name": "Glárima Tinto Joven",
+            "img": "/img/productos/glárima_tinto_joven.webp",
+            "id": "glárima_tinto_joven"
+          }
+        ],
+        "id": "d.o._somontano"
+      },
+      {
+        "denomination": "D.O. Toro",
+        "products": [
+          {
+            "name": "Cermeño Vendimia Seleccionada",
+            "img": "/img/productos/cermeño_vendimia_seleccionada.webp",
+            "id": "cermeño_vendimia_seleccionada"
+          },
+          {
+            "name": "Prima",
+            "img": "/img/productos/prima.webp",
+            "id": "prima"
+          },
+          {
+            "name": "San Román",
+            "img": "/img/productos/san_román.webp",
+            "id": "san_román"
+          },
+          {
+            "name": "Latarce",
+            "img": "/img/productos/latarce.webp",
+            "id": "latarce"
+          },
+          {
+            "name": "Cartago Paraje del Pozo",
+            "img": "/img/productos/cartago_paraje_del_pozo.webp",
+            "id": "cartago_paraje_del_pozo"
+          }
+        ],
+        "id": "d.o._toro"
+      },
+      {
+        "denomination": "D.O. Navarra",
+        "products": [
+          {
+            "name": "Marqués de Valcarlos Tinto",
+            "img": "/img/productos/marqués_de_valcarlos_tinto.webp",
+            "id": "marqués_de_valcarlos_tinto"
+          }
+        ],
+        "id": "d.o._navarra"
+      },
+      {
+        "denomination": "D.O. Priorat",
+        "products": [
+          {
+            "name": "Nûr Crianza",
+            "img": "/img/productos/nûr_crianza.webp",
+            "id": "nûr_crianza"
+          }
+        ],
+        "id": "d.o._priorat"
+      },
+      {
+        "denomination": "D.O. Calatayud",
+        "products": [
+          {
+            "name": "Alquez Garnacha Viñas Viejas",
+            "img": "/img/productos/alquez_garnacha_viñas_viejas.webp",
+            "id": "alquez_garnacha_viñas_viejas"
+          }
+        ],
+        "id": "d.o._calatayud"
+      },
+      {
+        "denomination": "D.O. Castilla y León",
+        "products": [
+          {
+            "name": "Condado Real Tinto",
+            "img": "/img/productos/condado_real_tinto.webp",
+            "id": "condado_real_tinto"
+          },
+          {
+            "name": "Mauro",
+            "img": "/img/productos/mauro.webp",
+            "id": "mauro"
+          },
+          {
+            "name": "Mauro Magnum",
+            "img": "/img/productos/mauro_magnum.webp",
+            "id": "mauro_magnum"
+          },
+          {
+            "name": "Mauro VS",
+            "img": "/img/productos/mauro_vs.webp",
+            "id": "mauro_vs"
+          },
+          {
+            "name": "Terreus",
+            "img": "/img/productos/terreus.webp",
+            "id": "terreus"
+          }
+        ],
+        "id": "d.o._castilla_y_león"
+      }
+    ]
+  },
+  {
+    "id": "vinos-blancos",
+    "category": "Vinos blancos",
+    "img": "/img/productos/losada_godello.webp",
+    "denominations": [
+      {
+        "denomination": "D.O. Bierzo",
+        "products": [
+          {
+            "name": "Losada Godello",
+            "img": "/img/productos/losada_godello.webp",
+            "id": "losada_godello"
+          },
+          {
+            "name": "Losada Godello Magnum",
+            "img": "/img/productos/losada_godello_magnum.webp",
+            "id": "losada_godello_magnum"
+          }
+        ],
+        "id": "d.o._bierzo"
+      },
+      {
+        "denomination": "D.O. Castilla y León",
+        "products": [
+          {
+            "name": "Mauro Godello",
+            "img": "/img/productos/mauro_godello.webp",
+            "id": "mauro_godello"
+          },
+          {
+            "name": "Esencia 27 Verdejo Semidulce",
+            "img": "/img/productos/esencia_27_verdejo_semidulce.webp",
+            "id": "esencia_27_verdejo_semidulce"
+          }
+        ],
+        "id": "d.o._castilla_y_león"
+      },
+      {
+        "denomination": "D.O. Valdeorras",
+        "products": [
+          {
+            "name": "D_berna Godello",
+            "img": "/img/productos/d_berna_godello.webp",
+            "id": "d_berna_godello"
+          },
+          {
+            "name": "D_berna Sobre Lias Godello",
+            "img": "/img/productos/d_berna_sobre_lias_godello.webp",
+            "id": "d_berna_sobre_lias_godello"
+          }
+        ],
+        "id": "d.o._valdeorras"
+      },
+      {
+        "denomination": "D.O. Rias Baixas",
+        "products": [
+          {
+            "name": "Bouza do Rei Selección",
+            "img": "/img/productos/bouza_do_rei_selección.webp",
+            "id": "bouza_do_rei_selección"
+          },
+          {
+            "name": "Marqués de Fonseca",
+            "img": "/img/productos/marqués_de_fonseca.webp",
+            "id": "marqués_de_fonseca"
+          },
+          {
+            "name": "Bouza do Rei",
+            "img": "/img/productos/bouza_do_rei.webp",
+            "id": "bouza_do_rei"
+          },
+          {
+            "name": "Segrel",
+            "img": "/img/productos/segrel.webp",
+            "id": "segrel"
+          },
+          {
+            "name": "Gran Bazan Etiqueta Ambar",
+            "img": "/img/productos/gran_bazan_etiqueta_ambar.webp",
+            "id": "gran_bazan_etiqueta_ambar"
+          },
+          {
+            "name": "Lenda Ponda ",
+            "img": "/img/productos/lenda_ponda_.webp",
+            "id": "lenda_ponda_"
+          },
+          {
+            "name": "Miña Vida",
+            "img": "/img/productos/miña_vida.webp",
+            "id": "miña_vida"
+          },
+          {
+            "name": "Pazo Pondal",
+            "img": "/img/productos/pazo_pondal.webp",
+            "id": "pazo_pondal"
+          }
+        ],
+        "id": "d.o._rias_baixas"
+      },
+      {
+        "denomination": "D.O. Rueda",
+        "products": [
+          {
+            "name": "Circe Verdejo",
+            "img": "/img/productos/circe_verdejo.webp",
+            "id": "circe_verdejo"
+          },
+          {
+            "name": "Hombre Pez",
+            "img": "/img/productos/hombre_pez.webp",
+            "id": "hombre_pez"
+          },
+          {
+            "name": "Portia Verdejo",
+            "img": "/img/productos/portia_verdejo.webp",
+            "id": "portia_verdejo"
+          },
+          {
+            "name": "Montespina Verdejo",
+            "img": "/img/productos/montespina_verdejo.webp",
+            "id": "montespina_verdejo"
+          },
+          {
+            "name": "Vacceos Verdejo",
+            "img": "/img/productos/vacceos_verdejo.webp",
+            "id": "vacceos_verdejo"
+          },
+          {
+            "name": "Cuatro Rayas ecológico",
+            "img": "/img/productos/cuatro_rayas_ecológico.webp",
+            "id": "cuatro_rayas_ecológico"
+          }
+        ],
+        "id": "d.o._rueda"
+      },
+      {
+        "denomination": "D.O. Ribeiro",
+        "products": [
+          {
+            "name": "Elara Treixadura_Godello",
+            "img": "/img/productos/elara_treixadura_godello.webp",
+            "id": "elara_treixadura_godello"
+          },
+          {
+            "name": "Sybaria",
+            "img": "/img/productos/sybaria.webp",
+            "id": "sybaria"
+          }
+        ],
+        "id": "d.o._ribeiro"
+      },
+      {
+        "denomination": "D.O. Somontano",
+        "products": [
+          {
+            "name": "Sommos Varietales Blanco",
+            "img": "/img/productos/sommos_varietales_blanco.webp",
+            "id": "sommos_varietales_blanco"
+          },
+          {
+            "name": "Sommos Colección Gewürztraminer",
+            "img": "/img/productos/sommos_colección_gewürztraminer.webp",
+            "id": "sommos_colección_gewürztraminer"
+          },
+          {
+            "name": "Glárima Blanco Joven",
+            "img": "/img/productos/glárima_blanco_joven.webp",
+            "id": "glárima_blanco_joven"
+          }
+        ],
+        "id": "d.o._somontano"
+      }
+    ]
+  },
+  {
+    "id": "vinos-rosados",
+    "category": "Vinos Rosados",
+    "img": "/img/productos/condado_real_rosado.webp",
+    "denominations": [
+      {
+        "denomination": "D.O. Castilla y León",
+        "products": [
+          {
+            "name": "Condado Real Rosado",
+            "img": "/img/productos/condado_real_rosado.webp",
+            "id": "condado_real_rosado"
+          },
+          {
+            "name": "Nicte Rosa Pálido",
+            "img": "/img/productos/nicte_rosa_pálido.webp",
+            "id": "nicte_rosa_pálido"
+          },
+          {
+            "name": "Olivia Rosé",
+            "img": "/img/productos/olivia_rosé.webp",
+            "id": "olivia_rosé"
+          }
+        ],
+        "id": "d.o._castilla_y_león"
+      },
+      {
+        "denomination": "D.O. Navarra",
+        "products": [
+          {
+            "name": "Marqués de Valcarlos Rosado",
+            "img": "/img/productos/marqués_de_valcarlos_rosado.webp",
+            "id": "marqués_de_valcarlos_rosado"
+          },
+          {
+            "name": "Luis Gurpegui",
+            "img": "/img/productos/luis_gurpegui.webp",
+            "id": "luis_gurpegui"
+          }
+        ],
+        "id": "d.o._navarra"
+      },
+      {
+        "denomination": "D.O. Rioja",
+        "products": [
+          {
+            "name": "Campillo Rosado",
+            "img": "/img/productos/campillo_rosado.webp",
+            "id": "campillo_rosado"
+          }
+        ],
+        "id": "d.o._rioja"
+      },
+      {
+        "denomination": "D.O. Valdeorras",
+        "products": [
+          {
+            "name": "D'Berna Godello ",
+            "img": "/img/productos/d'berna_godello_.webp",
+            "id": "d'berna_godello_"
+          }
+        ],
+        "id": "d.o._valdeorras"
+      },
+      {
+        "denomination": "D.O. Somontano",
+        "products": [
+          {
+            "name": "Sommos Rosé",
+            "img": "/img/productos/sommos_rosé.webp",
+            "id": "sommos_rosé"
+          }
+        ],
+        "id": "d.o._somontano"
+      },
+      {
+        "denomination": "D.O León",
+        "products": [
+          {
+            "name": "Esencia 33 Prieto Picudo",
+            "img": "/img/productos/esencia_33_prieto_picudo.webp",
+            "id": "esencia_33_prieto_picudo"
+          }
+        ],
+        "id": "d.o_león"
+      },
+      {
+        "denomination": "D.O. Cigales",
+        "products": [
+          {
+            "name": "Condado Real Cigales",
+            "img": "/img/productos/condado_real_cigales.webp",
+            "id": "condado_real_cigales"
+          }
+        ],
+        "id": "d.o._cigales"
+      }
+    ]
+  },
+  {
+    "id": "cervezas",
+    "category": "Cervezas",
+    "img": "/img/productos/heineken_33cl.webp",
+    "products": [
+      {
+        "name": "Amstel Lata 33cl.",
+        "img": "/img/productos/amstel_lata_33cl.webp",
+        "id": "amstel_lata_33cl."
+      },
+      {
+        "name": "Amstel Original 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "/img/productos/amstel_original_33cl._(exclusivo_hosteleria).webp",
+        "id": "amstel_original_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Amstel Oro 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "/img/productos/amstel_oro_33cl._(exclusivo_hosteleria).webp",
+        "id": "amstel_oro_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Amstel Oro Lata 33cl.",
+        "img": "/img/productos/amstel_oro_lata_33cl.webp",
+        "id": "amstel_oro_lata_33cl."
+      },
+      {
+        "name": "Amstel Radler 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "/img/productos/amstel_radler_33cl._(exclusivo_hosteleria).webp",
+        "id": "amstel_radler_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Amstel Radler Lata 33cl.",
+        "img": "/img/productos/amstel_radler_lata_33cl.webp",
+        "id": "amstel_radler_lata_33cl."
+      },
+      {
+        "name": "Desperados Mojito 33cl.",
+        "img": "/img/productos/desperados_mojito_33cl.webp",
+        "id": "desperados_mojito_33cl."
+      },
+      {
+        "name": "Buckler 0,0 Radler Lata 33cl.",
+        "img": "/img/productos/buckler_0,0_radler_lata_33cl.webp",
+        "id": "buckler_0,0_radler_lata_33cl."
+      },
+      {
+        "name": "El Alcazar 33cl.",
+        "img": "/img/productos/el_alcazar_33cl.webp",
+        "id": "el_alcazar_33cl."
+      },
+      {
+        "name": "La 1870 33cl.",
+        "img": "/img/productos/la_1870_33cl.webp",
+        "id": "la_1870_33cl."
+      },
+      {
+        "name": "Ladrón de Manzanas 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "/img/productos/ladrón_de_manzanas_33cl._(exclusivo_hosteleria).webp",
+        "id": "ladrón_de_manzanas_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Sol 33cl.",
+        "img": "/img/productos/sol_33cl.webp",
+        "id": "sol_33cl."
+      },
+      {
+        "name": "Cruzcampo 0,0 Lata 33cl.",
+        "img": "/img/productos/cruzcampo_0,0_lata_33cl.webp",
+        "id": "cruzcampo_0,0_lata_33cl."
+      },
+      {
+        "name": "Cruzcampo Especial 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "/img/productos/cruzcampo_especial_33cl._(exclusivo_hosteleria).webp",
+        "id": "cruzcampo_especial_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Cruzcampo Pilsen Lata 33cl.",
+        "img": "/img/productos/cruzcampo_pilsen_lata_33cl.webp",
+        "id": "cruzcampo_pilsen_lata_33cl."
+      },
+      {
+        "name": "Shandy 33cl.",
+        "img": "/img/productos/shandy_33cl.webp",
+        "id": "shandy_33cl."
+      },
+      {
+        "name": "Heineken 0,0 33cl. (EXCLUSIVO HOSTELERIA)",
+        "img": "/img/productos/heineken_0,0_33cl._(exclusivo_hosteleria).webp",
+        "id": "heineken_0,0_33cl._(exclusivo_hosteleria)"
+      },
+      {
+        "name": "Heineken 0,0 Lata 33cl.",
+        "img": "/img/productos/heineken_0,0_lata_33cl.webp",
+        "id": "heineken_0,0_lata_33cl."
+      },
+      {
+        "name": "Heineken 33cl.",
+        "img": "/img/productos/heineken_33cl.webp",
+        "id": "heineken_33cl."
+      },
+      {
+        "name": "Heineken Lata 33cl.",
+        "img": "/img/productos/heineken_lata_33cl.webp",
+        "id": "heineken_lata_33cl."
+      },
+      {
+        "name": "Birra Moretti 33cl.",
+        "img": "/img/productos/birra_moretti_33cl.webp",
+        "id": "birra_moretti_33cl."
+      },
+      {
+        "name": "Guinness Original 33cl.",
+        "img": "/img/productos/guinness_original_33cl.webp",
+        "id": "guinness_original_33cl."
+      },
+      {
+        "name": "Hop House 13 33cl.",
+        "img": "/img/productos/hop_house_13_33cl.webp",
+        "id": "hop_house_13_33cl."
+      },
+      {
+        "name": "Judas 33cl.",
+        "img": "/img/productos/judas_33cl.webp",
+        "id": "judas_33cl."
+      },
+      {
+        "name": "Mort Subite Cereza 25cl.",
+        "img": "/img/productos/mort_subite_cereza_25cl.webp",
+        "id": "mort_subite_cereza_25cl."
+      },
+      {
+        "name": "Paulaner Dunkel 50cl.",
+        "img": "/img/productos/paulaner_dunkel_50cl.webp",
+        "id": "paulaner_dunkel_50cl."
+      },
+      {
+        "name": "Paulaner Salvator 33cl.",
+        "img": "/img/productos/paulaner_salvator_33cl.webp",
+        "id": "paulaner_salvator_33cl."
+      },
+      {
+        "name": "Paulaner Salvator 50cl.",
+        "img": "/img/productos/paulaner_salvator_50cl.webp",
+        "id": "paulaner_salvator_50cl."
+      },
+      {
+        "name": "Sidra Bulmers 50cl.",
+        "img": "/img/productos/sidra_bulmers_50cl.webp",
+        "id": "sidra_bulmers_50cl."
+      }
+    ]
+  },
+  {
+    "id": "vermus",
+    "category": "Vermús",
+    "img": "/img/productos/valdepablo_selección.webp",
+    "products": [
+      {
+        "name": "Valdepablo Selección",
+        "img": "/img/productos/valdepablo_selección.webp",
+        "id": "valdepablo_selección"
+      },
+      {
+        "name": "Valdepablo BioMio Organico",
+        "img": "/img/productos/valdepablo_biomio_organico.webp",
+        "id": "valdepablo_biomio_organico"
+      },
+      {
+        "name": "St. Petroni",
+        "img": "/img/productos/st._petroni.webp",
+        "id": "st._petroni"
+      },
+      {
+        "name": "Picuezo Barrica",
+        "img": "/img/productos/picuezo_barrica.webp",
+        "id": "picuezo_barrica"
+      },
+      {
+        "name": "Luis The Marinero Rojo",
+        "img": "/img/productos/luis_the_marinero_rojo.webp",
+        "id": "luis_the_marinero_rojo"
+      },
+      {
+        "name": "Luis The Marinero Blanco",
+        "img": "/img/productos/luis_the_marinero_blanco.webp",
+        "id": "luis_the_marinero_blanco"
+      },
+      {
+        "name": "La Carmeta",
+        "img": "/img/productos/la_carmeta.webp",
+        "id": "la_carmeta"
+      },
+      {
+        "name": "Esencia Tabira Prieto Picudo",
+        "img": "/img/productos/esencia_tabira_prieto_picudo.webp",
+        "id": "esencia_tabira_prieto_picudo"
+      },
+      {
+        "name": "El molin del Nora",
+        "img": "/img/productos/el_molin_del_nora.webp",
+        "id": "el_molin_del_nora"
+      },
+      {
+        "name": "Arlini personalizado Asturias",
+        "img": "/img/productos/arlini_personalizado_asturias.webp",
+        "id": "arlini_personalizado_asturias"
+      },
+      {
+        "name": "El Ingenioso",
+        "img": "/img/productos/el_ingenioso.webp",
+        "id": "el_ingenioso"
+      },
+      {
+        "name": "Carpano Classico Rojo",
+        "img": "/img/productos/carpano_classico_rojo.webp",
+        "id": "carpano_classico_rojo"
+      },
+      {
+        "name": "Bocamanga",
+        "img": "/img/productos/bocamanga.webp",
+        "id": "bocamanga"
+      }
+    ]
+  },
+  {
+    "id": "sidras",
+    "category": "Sidras",
+    "img": "/img/productos/sidra_zapica_d.o.webp",
+    "products": [
+      {
+        "name": "Sidra Zapica D.O.",
+        "img": "/img/productos/sidra_zapica_d.o.webp",
+        "id": "sidra_zapica_d.o."
+      },
+      {
+        "name": "Sidra Buznego",
+        "img": "/img/productos/sidra_buznego.webp",
+        "id": "sidra_buznego"
+      },
+      {
+        "name": "El Gaitero Extra",
+        "img": "/img/productos/el_gaitero_extra.webp",
+        "id": "el_gaitero_extra"
+      }
+    ]
+  },
+  {
+    "id": "licores",
+    "category": "Licores",
+    "img": "/img/productos/crema_de_orujo_bouza_do_rei.webp",
+    "products": [
+      {
+        "name": "Penord Ricard",
+        "img": "/img/productos/penord_ricard.webp",
+        "id": "penord_ricard"
+      },
+      {
+        "name": "Diageo",
+        "img": "/img/productos/diageo.webp",
+        "id": "diageo"
+      },
+      {
+        "name": "Bacardi Limited",
+        "img": "/img/productos/bacardi_limited.webp",
+        "id": "bacardi_limited"
+      },
+      {
+        "name": "Beam Suntory",
+        "img": "/img/productos/beam_suntory.webp",
+        "id": "beam_suntory"
+      },
+      {
+        "name": "Licor de Miel Panizo",
+        "img": "/img/productos/licor_de_miel_panizo.webp",
+        "id": "licor_de_miel_panizo"
+      },
+      {
+        "name": "Licor de Crema con Orujo",
+        "img": "/img/productos/licor_de_crema_con_orujo.webp",
+        "id": "licor_de_crema_con_orujo"
+      },
+      {
+        "name": "Licor Tostado Panizo",
+        "img": "/img/productos/licor_tostado_panizo.webp",
+        "id": "licor_tostado_panizo"
+      },
+      {
+        "name": "Pacharán Panizo",
+        "img": "/img/productos/pacharán_panizo.webp",
+        "id": "pacharán_panizo"
+      },
+      {
+        "name": "Orujo Blanco Panizo",
+        "img": "/img/productos/orujo_blanco_panizo.webp",
+        "id": "orujo_blanco_panizo"
+      },
+      {
+        "name": "Licor de Hierbas Panizo",
+        "img": "/img/productos/licor_de_hierbas_panizo.webp",
+        "id": "licor_de_hierbas_panizo"
+      },
+      {
+        "name": "Crema de Arroz Panizo",
+        "img": "/img/productos/crema_de_arroz_panizo.webp",
+        "id": "crema_de_arroz_panizo"
+      },
+      {
+        "name": "Crema de Orujo Bouza do Rei",
+        "img": "/img/productos/crema_de_orujo_bouza_do_rei.webp",
+        "id": "crema_de_orujo_bouza_do_rei"
+      },
+      {
+        "name": "Orujo Blanco Bouza do Rei",
+        "img": "/img/productos/orujo_blanco_bouza_do_rei.webp",
+        "id": "orujo_blanco_bouza_do_rei"
+      },
+      {
+        "name": "Orujo Tostado Bouza do Rei",
+        "img": "/img/productos/orujo_tostado_bouza_do_rei.webp",
+        "id": "orujo_tostado_bouza_do_rei"
+      },
+      {
+        "name": "Orujo de Hierbas Bouza do Rei",
+        "img": "/img/productos/orujo_de_hierbas_bouza_do_rei.webp",
+        "id": "orujo_de_hierbas_bouza_do_rei"
+      },
+      {
+        "name": "Licor de Café Bouza do Rei",
+        "img": "/img/productos/licor_de_café_bouza_do_rei.webp",
+        "id": "licor_de_café_bouza_do_rei"
+      },
+      {
+        "name": "Orujo Blanco Marc de Bazan",
+        "img": "/img/productos/orujo_blanco_marc_de_bazan.webp",
+        "id": "orujo_blanco_marc_de_bazan"
+      },
+      {
+        "name": "Orujo de Hierbas Marc de Bazan",
+        "img": "/img/productos/orujo_de_hierbas_marc_de_bazan.webp",
+        "id": "orujo_de_hierbas_marc_de_bazan"
+      },
+      {
+        "name": "Orujo Tostado Marc de Bazan",
+        "img": "/img/productos/orujo_tostado_marc_de_bazan.webp",
+        "id": "orujo_tostado_marc_de_bazan"
+      },
+      {
+        "name": "Orujo de Café Marc de Bazan",
+        "img": "/img/productos/orujo_de_café_marc_de_bazan.webp",
+        "id": "orujo_de_café_marc_de_bazan"
+      },
+      {
+        "name": "Manzanilla la Guita",
+        "img": "/img/productos/manzanilla_la_guita.webp",
+        "id": "manzanilla_la_guita"
+      },
+      {
+        "name": "Ginebra Bunker London Dry",
+        "img": "/img/productos/ginebra_bunker_london_dry.webp",
+        "id": "ginebra_bunker_london_dry"
+      },
+      {
+        "name": "Bunker Origen",
+        "img": "/img/productos/bunker_origen.webp",
+        "id": "bunker_origen"
+      }
+    ]
+  },
+  {
+    "id": "cava",
+    "category": "Cava",
+    "img": "/img/productos/pedregosa_brut_nature_(petit_cuvée).webp",
+    "products": [
+      {
+        "name": "Pedregosa Brut Nature (Petit Cuvée)",
+        "img": "/img/productos/pedregosa_brut_nature_(petit_cuvée).webp",
+        "id": "pedregosa_brut_nature_(petit_cuvée)"
+      },
+      {
+        "name": "Pedregosa Rosado Brut Nature (Petit Cuvée)",
+        "img": "/img/productos/pedregosa_rosado_brut_nature_(petit_cuvée).webp",
+        "id": "pedregosa_rosado_brut_nature_(petit_cuvée)"
+      },
+      {
+        "name": "Pedregosa Brut Nature Reserva(Clos de Blancs)",
+        "img": "/img/productos/pedregosa_brut_nature_reserva(clos_de_blancs).webp",
+        "id": "pedregosa_brut_nature_reserva(clos_de_blancs)"
+      },
+      {
+        "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Clos de Blancs)",
+        "img": "/img/productos/magnum_1,5l_pedregosa_brut_nature_reserva_(clos_de_blancs).webp",
+        "id": "magnum_1,5l_pedregosa_brut_nature_reserva_(clos_de_blancs)"
+      },
+      {
+        "name": "Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
+        "img": "/img/productos/pedregosa_brut_nature_reserva_(blanc_de_millésimé).webp",
+        "id": "pedregosa_brut_nature_reserva_(blanc_de_millésimé)"
+      },
+      {
+        "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
+        "img": "/img/productos/magnum_1,5l_pedregosa_brut_nature_reserva_(blanc_de_millésimé).webp",
+        "id": "magnum_1,5l_pedregosa_brut_nature_reserva_(blanc_de_millésimé)"
+      },
+      {
+        "name": "Pedregosa Brut Nature Reserva d L'Hereu",
+        "img": "/img/productos/pedregosa_brut_nature_reserva_d_l'hereu.webp",
+        "id": "pedregosa_brut_nature_reserva_d_l'hereu"
+      },
+      {
+        "name": "Faustino Brut Reserva",
+        "img": "/img/productos/faustino_brut_reserva.webp",
+        "id": "faustino_brut_reserva"
+      },
+      {
+        "name": "Feitizo da noite extra brut albariño",
+        "img": "/img/productos/feitizo_da_noite_extra_brut_albariño.webp",
+        "id": "feitizo_da_noite_extra_brut_albariño"
+      },
+      {
+        "name": "Codorniu Benjamin",
+        "img": "/img/productos/codorniu_benjamin.webp",
+        "id": "codorniu_benjamin"
+      }
+    ]
+  },
+  {
+    "id": "alimentacion",
+    "category": "Alimentación",
+    "img": "/img/productos/bonito_del_norte_en_aceite_de_oliva_900g.webp",
+    "products": [
+      {
+        "name": "Bonito del Norte en aceite de oliva 900g.",
+        "img": "/img/productos/bonito_del_norte_en_aceite_de_oliva_900g.webp",
+        "id": "bonito_del_norte_en_aceite_de_oliva_900g."
+      },
+      {
+        "name": "Mejillones en escabeche 4-6 Cuca Gourmet",
+        "img": "/img/productos/mejillones_en_escabeche_4-6_cuca_gourmet.webp",
+        "id": "mejillones_en_escabeche_4-6_cuca_gourmet"
+      },
+      {
+        "name": "Atún claro en aceite de girasol 900g.",
+        "img": "/img/productos/atún_claro_en_aceite_de_girasol_900g.webp",
+        "id": "atún_claro_en_aceite_de_girasol_900g."
+      },
+      {
+        "name": "Berberechos 20-35 Cuca Gourmet",
+        "img": "/img/productos/berberechos_20-35_cuca_gourmet.webp",
+        "id": "berberechos_20-35_cuca_gourmet"
+      },
+      {
+        "name": "Aceite Virgen Extra Nahon 5L",
+        "img": "/img/productos/aceite_virgen_extra_nahon_5l.webp",
+        "id": "aceite_virgen_extra_nahon_5l"
+      },
+      {
+        "name": "Almejas 11-15 Cuca Gourmet",
+        "img": "/img/productos/almejas_11-15_cuca_gourmet.webp",
+        "id": "almejas_11-15_cuca_gourmet"
+      },
+      {
+        "name": "Aceite Virgen Extra Guillén 5L",
+        "img": "/img/productos/aceite_virgen_extra_guillén_5l.webp",
+        "id": "aceite_virgen_extra_guillén_5l"
+      },
+      {
+        "name": "Aceite Virgen Extra Arroniz 500ml.",
+        "img": "/img/productos/aceite_virgen_extra_arroniz_500ml.webp",
+        "id": "aceite_virgen_extra_arroniz_500ml."
+      },
+      {
+        "name": "Ventresca de bonito del norte Cuca gourmet",
+        "img": "/img/productos/ventresca_de_bonito_del_norte_cuca_gourmet.webp",
+        "id": "ventresca_de_bonito_del_norte_cuca_gourmet"
+      },
+      {
+        "name": "Sardinilla Cuca gourmet",
+        "img": "/img/productos/sardinilla_cuca_gourmet.webp",
+        "id": "sardinilla_cuca_gourmet"
+      },
+      {
+        "name": "Aceite de oliva Trujal Tudela",
+        "img": "/img/productos/aceite_de_oliva_trujal_tudela.webp",
+        "id": "aceite_de_oliva_trujal_tudela"
+      }
+    ]
+  },
+  {
+    "id": "otros",
+    "category": "Otros",
+    "img": "/img/productos/vino_xoven_meigallo.webp",
+    "products": [
+      {
+        "name": "Vino Xoven Meigallo",
+        "img": "/img/productos/vino_xoven_meigallo.webp",
+        "id": "vino_xoven_meigallo"
+      },
+      {
+        "name": "Vino Albariño Cosechero",
+        "img": "/img/productos/vino_albariño_cosechero.webp",
+        "id": "vino_albariño_cosechero"
+      },
+      {
+        "name": "Moscato Spumante",
+        "img": "/img/productos/moscato_spumante.webp",
+        "id": "moscato_spumante"
+      },
+      {
+        "name": "Moscato D_asti Capetta",
+        "img": "/img/productos/moscato_d_asti_capetta.webp",
+        "id": "moscato_d_asti_capetta"
+      },
+      {
+        "name": "Moscato Capetta",
+        "img": "/img/productos/moscato_capetta.webp",
+        "id": "moscato_capetta"
+      },
+      {
+        "name": "Mateus Rosé",
+        "img": "/img/productos/mateus_rosé.webp",
+        "id": "mateus_rosé"
+      },
+      {
+        "name": "Champagne G.H. Mumm",
+        "img": "/img/productos/champagne_g.h._mumm.webp",
+        "id": "champagne_g.h._mumm"
+      },
+      {
+        "name": "Cavicchioli Lambrusco Rosado",
+        "img": "/img/productos/cavicchioli_lambrusco_rosado.webp",
+        "id": "cavicchioli_lambrusco_rosado"
+      },
+      {
+        "name": "Casal García Vino de Portugal",
+        "img": "/img/productos/casal_garcía_vino_de_portugal.webp",
+        "id": "casal_garcía_vino_de_portugal"
+      }
+    ]
+  }
+]
