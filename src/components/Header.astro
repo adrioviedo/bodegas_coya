@@ -1,5 +1,5 @@
 ---
-import Cart from "../icons/Cart.astro";
+import { CartIcon } from "../icons/cartIcon.jsx";
 import Magnifier from "../icons/Magnifier.astro";
 import User from "../icons/User.astro";
 ---
@@ -42,11 +42,11 @@ import User from "../icons/User.astro";
     </ul>
     <!-- Iniciar sesion y carrito -->
     <div class="flex gap-4">
-      <a href="/login" class="hover:scale-110 transition"
+      <a href="/signin" class="hover:scale-110 transition"
         ><User class="w-6 h-6" />
-        <a href="/cart" class="hover:scale-150 transition">
-          <Cart class="w-6 h-6" />
-        </a>
+      </a>
+      <a href="/cart" class="hover:scale-150 transition">
+        <CartIcon />
       </a>
     </div>
   </nav>

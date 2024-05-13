@@ -1,0 +1,80 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const { cookies, redirect } = Astro;
+
+const accessToken = cookies.get("sb-access-token");
+const refreshToken = cookies.get("sb-refresh-token");
+
+if (accessToken && refreshToken) {
+  return redirect("/dashboard");
+}
+---
+
+<Layout title="Iniciar sesión">
+  <section class="h-[80vh] flex items-center">
+    <div
+      class="w-full max-w-sm mx-auto overflow-hidden bg-white rounded-lg shadow-md"
+    >
+      <div class="px-6 py-4">
+        <div class="flex justify-center mx-auto">
+          <img class="w-auto h-12 sm:h-20" src="./img/LOGO-COYA.png" alt="" />
+        </div>
+
+        <h3 class="mt-3 text-xl font-medium text-center text-gray-600">
+          Bienvenido de nuevo
+        </h3>
+
+        <p class="mt-1 text-center text-gray-500">
+          Inicia sesión o crea una cuenta
+        </p>
+
+        <form action="/api/auth/signin" method="POST">
+          <div class="w-full mt-4">
+            <input
+              class="block w-full px-4 py-2 mt-2 text-gray-700 placeholder-gray-500 bg-white border rounded-lg focus:border-blue-400 focus:ring-opacity-40 focus:outline-none focus:ring focus:ring-blue-300"
+              type="email"
+              name="email"
+              id="email"
+              placeholder="Correo electrónico"
+              aria-label="Email Address"
+            />
+          </div>
+
+          <div class="w-full mt-4">
+            <input
+              class="block w-full px-4 py-2 mt-2 text-gray-700 placeholder-gray-500 bg-white border rounded-lg focus:border-blue-400 focus:ring-opacity-40 focus:outline-none focus:ring focus:ring-blue-300"
+              type="password"
+              name="password"
+              id="password"
+              placeholder="Contraseña"
+              aria-label="Password"
+            />
+          </div>
+
+          <div class="flex items-center justify-between mt-4">
+            <a href="#" class="text-sm text-gray-600 hover:text-gray-500"
+              >¿Has olvidado la contraseña?</a
+            >
+
+            <button
+              class="px-6 py-2 text-sm font-medium tracking-wide text-white capitalize transition-colors duration-300 transform bg-[#48070b] rounded-lg hover:bg-[#48070bbc]"
+            >
+              Iniciar sesión
+            </button>
+          </div>
+        </form>
+      </div>
+
+      <div class="flex items-center justify-center py-4 text-center bg-gray-50">
+        <span class="text-sm text-gray-600"> ¿No tienes una cuenta? </span>
+
+        <a
+          href="/register"
+          class="mx-2 text-sm font-bold text-[#48070b] hover:underline"
+          >Registrate</a
+        >
+      </div>
+    </div>
+  </section>
+</Layout>
