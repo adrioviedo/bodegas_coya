@@ -6,7 +6,9 @@ import Layout from "../layouts/Layout.astro";
 <Layout title="Contacto - Bodegas Coya e Hijos">
   <section class="w-4/5 mx-auto my-20 text-[#261B0C]">
     <h1 class="font-Anton text-6xl">Ponte en contacto con nosotros</h1>
-    <div class="mt-7 flex justify-between items-center gap-6">
+    <div
+      class="mt-7 flex flex-col md:flex-row justify-between items-center gap-6"
+    >
       <form action="post" class="flex flex-col gap-2 w-full font-Roboto">
         <label for="name">Nombre</label>
         <input
@@ -36,12 +38,12 @@ import Layout from "../layouts/Layout.astro";
           class="self-start mt-3 px-8 py-2 bg-[#450408] text-[#FFE6BB] rounded-xl hover:bg-[#84181fb1] transition cursor-pointer"
         />
       </form>
-      <img src="/img/Bodegas-Coya.webp" alt="" class="max-w-[33%]" />
+      <img src="/img/Bodegas-Coya.webp" alt="" class="w-full md:max-w-[33%]" />
     </div>
   </section>
   <section class="bg-[#48070b] py-8 pb-20 -mb-1">
     <div class="w-4/5 mx-auto">
-      <h2 class="text-[#FFE6BB] font-Anton text-5xl mb-10">
+      <h2 class="text-[#FFE6BB] font-Anton text-5xl md:mb-10">
         ¿Desea hacernos una visita?
       </h2>
       <div class="flex flex-col md:flex-row gap-5 justify-between">
@@ -57,8 +59,6 @@ import Layout from "../layouts/Layout.astro";
         </div>
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5798.195404385887!2d-5.792556622857489!3d43.39588726903357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd368bf8c237b3a1%3A0x1b3745e89e6ee122!2sCoya%20e%20Hijos%20S.L.!5e0!3m2!1ses!2ses!4v1713195269360!5m2!1ses!2ses"
-          width="600"
-          height="450"
           style="border:0;"
           allowfullscreen=""
           loading="lazy"
