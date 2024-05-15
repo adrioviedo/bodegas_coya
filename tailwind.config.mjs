@@ -4,6 +4,7 @@ export default {
   theme: {
     fontFamily: {
       Anton: ['Anton', 'sans-serif'],
+      Anton2: ['Antonio Variable', 'sans-serif'],
       Roboto: ['Roboto Serif Variable', 'serif']
     },
     extend: {}
