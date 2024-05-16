@@ -9,12 +9,12 @@ import User from "../icons/User.astro";
     class="relative flex items-center justify-between w-4/5 mx-auto my-0 text-[#FFE6BB]"
   >
     <a href="/" class="hover:scale-125 transition">
-      <img src="./img/LOGO-COYA.png" alt="logo coya" class="w-10" /></a
+      <img src="./img/LOGO-COYA.png" alt="logo coya" class="w-8 md:w-10" /></a
     >
     <form
       action=""
       method="get"
-      class="flex items-center gap-3 absolute mg:left-32 left-1/4"
+      class="hidden md:flex items-center gap-3 absolute left-[20%]"
     >
       <input
         type="text"
@@ -51,13 +51,16 @@ import User from "../icons/User.astro";
       <a href="/signin" class="hover:scale-125 transition hidden lg:block"
         ><User class="w-6 h-6" />
       </a>
-      <a href="/cart" class="hover:scale-125 transition">
-        <CartIcon />
+      <a href="/cart" class="hover:scale-125 transition block">
+        <CartIcon clase="w-4 h-4 md:w-6 md:h-6" />
       </a>
-      <div class="lg:hidden">
-        <button class="navbar-burger flex items-center text-[#FFE6BB]">
+      <div class="lg:hidden flex items-center gap-6">
+        <button class="navbar-burger block hover:scale-125 transition md:hidden"
+          ><Magnifier class="h-4 w-4" />
+        </button>
+        <button class="navbar-burger flex flex-row items-center text-[#FFE6BB]">
           <svg
-            class="block h-6 w-6 fill-current hover:scale-125 transition"
+            class="block h-4 w-4 fill-current hover:scale-125 transition"
             viewBox="0 0 20 20"
             xmlns="http://www.w3.org/2000/svg"
           >
@@ -71,7 +74,7 @@ import User from "../icons/User.astro";
   <div class="navbar-menu relative z-50 hidden">
     <div class="navbar-backdrop fixed inset-0 bg-gray-800 opacity-25"></div>
     <nav
-      class="fixed top-0 left-0 bottom-0 flex flex-col w-5/6 max-w-sm py-6 px-6 bg-[#ffe6bbe1] border-r overflow-y-auto"
+      class="fixed top-0 right-0 bottom-0 flex flex-col w-5/6 max-w-sm py-6 px-6 bg-[#ffe6bbe1] border-r overflow-y-auto"
     >
       <div class="flex items-center mb-8">
         <a class="mr-auto text-3xl font-bold leading-none" href="/">
@@ -94,27 +97,44 @@ import User from "../icons/User.astro";
           </svg>
         </button>
       </div>
-      <div>
-        <ul>
-          <li class="mb-1">
-            <a
-              class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
-              href="/productos">Productos</a
-            >
-          </li>
-          <li class="mb-1">
-            <a
-              class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
-              href="/nosotros">Coya e Hijos</a
-            >
-          </li>
-          <li class="mb-1">
-            <a
-              class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
-              href="/contacto">Contacto</a
-            >
-          </li>
-        </ul>
+      <div class="flex flex-col gap-6">
+        <form
+          action=""
+          method="get"
+          class="flex items-center gap-3 self-center md:hidden"
+        >
+          <input
+            type="text"
+            name="search"
+            placeholder="Buscar"
+            class="bg-[#ffe6bb4b] px-2 py-1 rounded-md w-[150px]"
+          />
+          <button class="hover:scale-125 transition">
+            <Magnifier class="w-4 h-4" />
+          </button>
+        </form>
+        <div>
+          <ul>
+            <li class="mb-1">
+              <a
+                class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
+                href="/productos">Productos</a
+              >
+            </li>
+            <li class="mb-1">
+              <a
+                class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
+                href="/nosotros">Coya e Hijos</a
+              >
+            </li>
+            <li class="mb-1">
+              <a
+                class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
+                href="/contacto">Contacto</a
+              >
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="mt-auto">
         <a

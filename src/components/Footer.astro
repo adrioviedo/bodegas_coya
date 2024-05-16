@@ -5,10 +5,11 @@ import Facebook from "../icons/Facebook.astro";
 
 <footer
   class:list={Astro.props.class}
-  class="py-6 rounded-t-lg flex items-center justify-center gap-5 z-100 relative font-semibold font-Roboto text-md"
+  class="py-6 rounded-t-lg flex items-center justify-center gap-5 z-100 relative font-semibold font-Roboto text-xs md:text-xl"
 >
-  <a href="#">Mapa Web</a>
-  <a href="#"><Instagram class="w-6 h-6" /></a>
-  <a href="#"><Facebook class="w-6 h-6" /></a>
-  <a href="#">Politica de privacidad</a>
+  <a class="max-w-[20%]" href="#">Mapa Web</a>
+  <a class="max-w-[20%]" href="#"><Instagram class="w-4 h-4 md:w-6 md:h-6" /></a
+  >
+  <a class="max-w-[20%]" href="#"><Facebook class="w-4 h-4 md:w-6 md:h-6" /></a>
+  <a class="max-w-[20%]" href="#">Politica de privacidad</a>
 </footer>
