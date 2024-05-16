@@ -1,7 +1,8 @@
 ---
 import { CartIcon } from "../icons/cartIcon.jsx";
 import Magnifier from "../icons/Magnifier.astro";
-import User from "../icons/User.astro";
+import UserIcon from "../icons/User.astro";
+import UserHeader from "./UserHeader.astro";
 ---
 
 <header class="py-3 px-5 bg-[#48070b] rounded-b-lg sticky -top-0.5 z-50">
@@ -49,7 +50,7 @@ import User from "../icons/User.astro";
 
     <div class="flex items-center gap-6">
       <a href="/signin" class="hover:scale-125 transition hidden lg:block"
-        ><User class="w-6 h-6" />
+        ><UserIcon class="w-6 h-6" />
       </a>
       <a href="/cart" class="hover:scale-125 transition block">
         <CartIcon clase="w-4 h-4 md:w-6 md:h-6" />
@@ -107,7 +108,7 @@ import User from "../icons/User.astro";
             type="text"
             name="search"
             placeholder="Buscar"
-            class="bg-[#ffe6bb4b] px-2 py-1 rounded-md w-[150px]"
+            class="bg-[#f9ecd4ca] px-2 py-1 rounded-md w-[150px]"
           />
           <button class="hover:scale-125 transition">
             <Magnifier class="w-4 h-4" />
@@ -136,16 +137,7 @@ import User from "../icons/User.astro";
           </ul>
         </div>
       </div>
-      <div class="mt-auto">
-        <a
-          class="block px-4 py-3 mb-3 leading-loose text-xs text-center font-semibold bg-gray-50 hover:bg-gray-200 rounded-xl"
-          href="/signin">Iniciar sesión</a
-        >
-        <a
-          class="block px-4 py-3 mb-2 leading-loose text-xs text-center text-[#FFE6BB] font-semibold bg-[#48070b] hover:bg-[#48070bd5] rounded-xl"
-          href="/register">Registrarse</a
-        >
-      </div>
+      <UserHeader client:visible />
     </nav>
   </div>
 </header>

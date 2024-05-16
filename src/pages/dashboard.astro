@@ -30,12 +30,38 @@ if (error) {
 const email = data?.user?.email;
 const name = data?.user?.user_metadata?.name;
 const hola = data?.user?.user_metadata?.full_name;
+
+const pedidos = await supabase
+  .from("pedidos")
+  .select("*")
+  .eq("email", email)
+  .order("created_at", { ascending: false });
 ---
 
 <Layout title="Área cliente">
-  <h1>Bienvenido {hola}</h1>
+  <!-- <h1>Bienvenido {hola}</h1>
   <p>Estamos felices de verte aquí</p>
   <form action="/api/auth/signout">
     <button type="submit">Cerrar sesión</button>
-  </form>
+  </form> -->
+
+  <section>
+    <article>
+      <h1>Bienvenido {hola}</h1>
+      <p>Estamos felices de verte aquí</p>
+      <form action="/api/auth/signout">
+        <button type="submit">Cerrar sesión</button>
+      </form>
+    </article>
+    <article>
+      <h2>Pedidos</h2>
+      <p>En esta sección podrás ver tus pedidos</p>
+      <!-- Tabla para mostrar los pedidos, tendra los campos:
+      - Número de pedido
+      - Fecha de pedido
+      - Total del pedido
+      - Ver detalles del pedido, será un modal (los productos que contiene, cantidad, precio unitario, total por producto)
+      -->
+    </article>
+  </section>
 </Layout>

@@ -26,6 +26,7 @@ export const POST: APIRoute = async ({ request, redirect, cookies }) => {
         full_name: `${name} ${lastName}`,
         phone,
         address,
+        avatar: `https://ui-avatars.com/api/?name=${name}+${lastName}&background=random`,
       },
     },
   });
