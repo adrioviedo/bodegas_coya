@@ -31,11 +31,11 @@ const email = data?.user?.email;
 const name = data?.user?.user_metadata?.name;
 const hola = data?.user?.user_metadata?.full_name;
 
-const pedidos = await supabase
-  .from("pedidos")
-  .select("*")
-  .eq("email", email)
-  .order("created_at", { ascending: false });
+// const pedidos = await supabase
+//   .from("pedidos")
+//   .select("*")
+//   .eq("email", email)
+//   .order("created_at", { ascending: false });
 ---
 
 <Layout title="Área cliente">
