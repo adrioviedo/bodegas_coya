@@ -1,0 +1,159 @@
+[
+  {
+    "id": "marcas-propias",
+    "category": "Marcas propias",
+    "img": "/img/productos/montecoya_roble.webp"
+  },
+  {
+    "id": "vinos-tintos",
+    "category": "Vinos tintos",
+    "img": "/img/productos/altos_de_losada_la_bienquerida.webp",
+    "denominations": [
+      {
+        "id": "d.o._bierzo",
+        "denomination": "D.O. Bierzo"
+      },
+      {
+        "id": "d.o._ribera_del_duero",
+        "denomination": "D.O. Ribera del Duero"
+      },
+      {
+        "id": "d.o._rioja",
+        "denomination": "D.O. Rioja"
+      },
+      {
+        "id": "d.o._jumilla",
+        "denomination": "D.O. Jumilla"
+      },
+      {
+        "id": "d.o._somontano",
+        "denomination": "D.O. Somontano"
+      },
+      {
+        "id": "d.o._toro",
+        "denomination": "D.O. Toro"
+      },
+      {
+        "id": "d.o._navarra",
+        "denomination": "D.O. Navarra"
+      },
+      {
+        "id": "d.o._priorat",
+        "denomination": "D.O. Priorat"
+      },
+      {
+        "id": "d.o._calatayud",
+        "denomination": "D.O. Calatayud"
+      },
+      {
+        "id": "d.o._castilla_y_león",
+        "denomination": "D.O. Castilla y León"
+      }
+    ]
+  },
+  {
+    "id": "vinos-blancos",
+    "category": "Vinos blancos",
+    "img": "/img/productos/losada_godello.webp",
+    "denominations": [
+      {
+        "id": "d.o._bierzo",
+        "denomination": "D.O. Bierzo"
+      },
+      {
+        "id": "d.o._castilla_y_león",
+        "denomination": "D.O. Castilla y León"
+      },
+      {
+        "id": "d.o._valdeorras",
+        "denomination": "D.O. Valdeorras"
+      },
+      {
+        "id": "d.o._rias_baixas",
+        "denomination": "D.O. Rias Baixas"
+      },
+      {
+        "id": "d.o._rueda",
+        "denomination": "D.O. Rueda"
+      },
+      {
+        "id": "d.o._ribeiro",
+        "denomination": "D.O. Ribeiro"
+      },
+      {
+        "id": "d.o._somontano",
+        "denomination": "D.O. Somontano"
+      }
+    ]
+  },
+  {
+    "id": "vinos-rosados",
+    "category": "Vinos Rosados",
+    "img": "/img/productos/condado_real_rosado.webp",
+    "denominations": [
+      {
+        "id": "d.o._castilla_y_león",
+        "denomination": "D.O. Castilla y León"
+      },
+      {
+        "id": "d.o._navarra",
+        "denomination": "D.O. Navarra"
+      },
+      {
+        "id": "d.o._rioja",
+        "denomination": "D.O. Rioja"
+      },
+      {
+        "id": "d.o._valdeorras",
+        "denomination": "D.O. Valdeorras"
+      },
+      {
+        "id": "d.o._somontano",
+        "denomination": "D.O. Somontano"
+      },
+      {
+        "id": "d.o_león",
+        "denomination": "D.O León"
+      },
+      {
+        "id": "d.o._cigales",
+        "denomination": "D.O. Cigales"
+      }
+    ]
+  },
+  {
+    "id": "cervezas",
+    "category": "Cervezas",
+    "img": "/img/productos/heineken_33cl.webp"
+  },
+  {
+    "id": "vermus",
+    "category": "Vermús",
+    "img": "/img/productos/valdepablo_selección.webp"
+  },
+  {
+    "id": "sidras",
+    "category": "Sidras",
+    "img": "/img/productos/sidra_zapica_d.o.webp"
+  },
+  {
+    "id": "licores",
+    "category": "Licores",
+    "img": "/img/productos/crema_de_orujo_bouza_do_rei.webp"
+  },
+  {
+    "id": "cava",
+    "category": "Cava",
+    "img": "/img/productos/pedregosa_brut_nature_(petit_cuvée).webp"
+  },
+  {
+    "id": "alimentacion",
+    "category": "Alimentación",
+    "img": "/img/productos/bonito_del_norte_en_aceite_de_oliva_900g.webp"
+  },
+  {
+    "id": "otros",
+    "category": "Otros",
+    "img": "/img/productos/vino_xoven_meigallo.webp"
+  }
+]

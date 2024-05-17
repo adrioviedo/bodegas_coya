@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d.o._bierzo",
+    "denomination": "D.O. Bierzo",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._ribera_del_duero",
+    "denomination": "D.O. Ribera del Duero",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._rioja",
+    "denomination": "D.O. Rioja",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._jumilla",
+    "denomination": "D.O. Jumilla",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._somontano",
+    "denomination": "D.O. Somontano",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._toro",
+    "denomination": "D.O. Toro",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._navarra",
+    "denomination": "D.O. Navarra",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._priorat",
+    "denomination": "D.O. Priorat",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._calatayud",
+    "denomination": "D.O. Calatayud",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._castilla_y_león",
+    "denomination": "D.O. Castilla y León",
+    "category": "vinos-tintos"
+  },
+  {
+    "id": "d.o._bierzo",
+    "denomination": "D.O. Bierzo",
+    "category": "vinos-blancos"
+  },
+  {
+    "id": "d.o._castilla_y_león",
+    "denomination": "D.O. Castilla y León",
+    "category": "vinos-blancos"
+  },
+  {
+    "id": "d.o._valdeorras",
+    "denomination": "D.O. Valdeorras",
+    "category": "vinos-blancos"
+  },
+  {
+    "id": "d.o._rias_baixas",
+    "denomination": "D.O. Rias Baixas",
+    "category": "vinos-blancos"
+  },
+  {
+    "id": "d.o._rueda",
+    "denomination": "D.O. Rueda",
+    "category": "vinos-blancos"
+  },
+  {
+    "id": "d.o._ribeiro",
+    "denomination": "D.O. Ribeiro",
+    "category": "vinos-blancos"
+  },
+  {
+    "id": "d.o._somontano",
+    "denomination": "D.O. Somontano",
+    "category": "vinos-blancos"
+  },
+  {
+    "id": "d.o._castilla_y_león",
+    "denomination": "D.O. Castilla y León",
+    "category": "vinos-rosados"
+  },
+  {
+    "id": "d.o._navarra",
+    "denomination": "D.O. Navarra",
+    "category": "vinos-rosados"
+  },
+  {
+    "id": "d.o._rioja",
+    "denomination": "D.O. Rioja",
+    "category": "vinos-rosados"
+  },
+  {
+    "id": "d.o._valdeorras",
+    "denomination": "D.O. Valdeorras",
+    "category": "vinos-rosados"
+  },
+  {
+    "id": "d.o._somontano",
+    "denomination": "D.O. Somontano",
+    "category": "vinos-rosados"
+  },
+  {
+    "id": "d.o_león",
+    "denomination": "D.O León",
+    "category": "vinos-rosados"
+  },
+  {
+    "id": "d.o._cigales",
+    "denomination": "D.O. Cigales",
+    "category": "vinos-rosados"
+  }
+]

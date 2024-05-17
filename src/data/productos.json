@@ -1,0 +1,1535 @@
+[
+  {
+    "id": "turbio_xoven",
+    "name": "Turbio Xoven",
+    "img": "/img/productos/turbio_xoven.webp",
+    "price": 8.9,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "silo_tinto",
+    "name": "Silo Tinto",
+    "img": "/img/productos/silo_tinto.webp",
+    "price": 6.75,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "riosella_tinto",
+    "name": "Riosella Tinto",
+    "img": "/img/productos/riosella_tinto.webp",
+    "price": 5.95,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "riosella_rosado",
+    "name": "Riosella Rosado",
+    "img": "/img/productos/riosella_rosado.webp",
+    "price": 5.95,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "riosella_blanco",
+    "name": "Riosella Blanco",
+    "img": "/img/productos/riosella_blanco.webp",
+    "price": 5.95,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "rioja_artesano_cosechero",
+    "name": "Rioja Artesano Cosechero",
+    "img": "/img/productos/rioja_artesano_cosechero.webp",
+    "price": 9.5,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "peñalara_tinto",
+    "name": "Peñalara Tinto",
+    "img": "/img/productos/peñalara_tinto.webp",
+    "price": 4.8,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "peñalara_semidulce",
+    "name": "Peñalara Semidulce",
+    "img": "/img/productos/peñalara_semidulce.webp",
+    "price": 4.8,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "peñalara_rosado",
+    "name": "Peñalara Rosado",
+    "img": "/img/productos/peñalara_rosado.webp",
+    "price": 4.8,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "peñalara_blanco",
+    "name": "Peñalara Blanco",
+    "img": "/img/productos/peñalara_blanco.webp",
+    "price": 4.8,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "pagos_de_oncala_tinto",
+    "name": "Pagos de Oncala Tinto",
+    "img": "/img/productos/pagos_de_oncala_tinto.webp",
+    "price": 7.9,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "oncala_tierra_de_castiilla",
+    "name": "Oncala Tierra de Castiilla",
+    "img": "/img/productos/oncala_tierra_de_castiilla.webp",
+    "price": 6.5,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "o_cruceiro_xoven",
+    "name": "O Cruceiro Xoven",
+    "img": "/img/productos/o_cruceiro_xoven.webp",
+    "price": 6.3,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "montecoya_verdejo",
+    "name": "Montecoya Verdejo",
+    "img": "/img/productos/montecoya_verdejo.webp",
+    "price": 5.75,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "montecoya_roble",
+    "name": "Montecoya Roble",
+    "img": "/img/productos/montecoya_roble.webp",
+    "price": 6.9,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "montecoya_prieto_picudo",
+    "name": "Montecoya Prieto Picudo",
+    "img": "/img/productos/montecoya_prieto_picudo.webp",
+    "price": 8.25,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "bag_in_box_5_y_15l",
+    "name": "Bag in Box 5 y 15L",
+    "img": "/img/productos/bag_in_box_5_y_15l.webp",
+    "price": 18.9,
+    "category": "marcas-propias"
+  },
+  {
+    "id": "altos_de_losada_la_bienquerida",
+    "name": "Altos de Losada La Bienquerida",
+    "img": "/img/productos/altos_de_losada_la_bienquerida.webp",
+    "price": 35.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._bierzo"
+  },
+  {
+    "id": "altos_de_losada",
+    "name": "Altos de Losada",
+    "img": "/img/productos/altos_de_losada.webp",
+    "price": 25.75,
+    "category": "vinos-tintos",
+    "denomination": "d.o._bierzo"
+  },
+  {
+    "id": "pájaro_rojo",
+    "name": "Pájaro Rojo",
+    "img": "/img/productos/pájaro_rojo.webp",
+    "price": 10.2,
+    "category": "vinos-tintos",
+    "denomination": "d.o._bierzo"
+  },
+  {
+    "id": "losada",
+    "name": "Losada",
+    "img": "/img/productos/losada.webp",
+    "price": 18.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._bierzo"
+  },
+  {
+    "id": "losada_magnum",
+    "name": "Losada Magnum",
+    "img": "/img/productos/losada_magnum.webp",
+    "price": 42.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._bierzo"
+  },
+  {
+    "id": "portia_roble",
+    "name": "Portia Roble",
+    "img": "/img/productos/portia_roble.webp",
+    "price": 14.75,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "portia_roble_magnum",
+    "name": "Portia Roble Magnum",
+    "img": "/img/productos/portia_roble_magnum.webp",
+    "price": 28.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "portia_crianza",
+    "name": "Portia Crianza",
+    "img": "/img/productos/portia_crianza.webp",
+    "price": 21.6,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "portia_prima_la_encina",
+    "name": "Portia Prima La Encina",
+    "img": "/img/productos/portia_prima_la_encina.webp",
+    "price": 34.2,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "alma_serena_barrica",
+    "name": "Alma Serena Barrica",
+    "img": "/img/productos/alma_serena_barrica.webp",
+    "price": 19.95,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "miros_de_ribera_roble",
+    "name": "Miros de Ribera Roble",
+    "img": "/img/productos/miros_de_ribera_roble.webp",
+    "price": 12.3,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "miros_de_ribera_crianza",
+    "name": "Miros de Ribera Crianza",
+    "img": "/img/productos/miros_de_ribera_crianza.webp",
+    "price": 18.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "silencio_de_miros",
+    "name": "Silencio de Miros",
+    "img": "/img/productos/silencio_de_miros.webp",
+    "price": 28.75,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "fuentespina_roble",
+    "name": "Fuentespina Roble",
+    "img": "/img/productos/fuentespina_roble.webp",
+    "price": 13.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "fuentespina_3",
+    "name": "Fuentespina 3",
+    "img": "/img/productos/fuentespina_3.webp",
+    "price": 25.4,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "f_de_fuentespina_reserva",
+    "name": "F de Fuentespina Reserva",
+    "img": "/img/productos/f_de_fuentespina_reserva.webp",
+    "price": 32.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "garmón",
+    "name": "Garmón",
+    "img": "/img/productos/garmón.webp",
+    "price": 45.6,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "avelino_vegas_áureo",
+    "name": "Avelino Vegas Áureo",
+    "img": "/img/productos/avelino_vegas_áureo.webp",
+    "price": 24.75,
+    "category": "vinos-tintos",
+    "denomination": "d.o._ribera_del_duero"
+  },
+  {
+    "id": "voché_selección_graciano",
+    "name": "Voché Selección Graciano",
+    "img": "/img/productos/voché_selección_graciano.webp",
+    "price": 15.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "voché_reserva",
+    "name": "Voché Reserva",
+    "img": "/img/productos/voché_reserva.webp",
+    "price": 19.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "voché_crianza",
+    "name": "Voché Crianza",
+    "img": "/img/productos/voché_crianza.webp",
+    "price": 12.75,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "viñadrián_tinto",
+    "name": "Viñadrián Tinto",
+    "img": "/img/productos/viñadrián_tinto.webp",
+    "price": 9.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "viñadrián_crianza",
+    "name": "Viñadrián Crianza",
+    "img": "/img/productos/viñadrián_crianza.webp",
+    "price": 13.4,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "marqués_de_vitoria_reserva",
+    "name": "Marqués de Vitoria Reserva",
+    "img": "/img/productos/marqués_de_vitoria_reserva.webp",
+    "price": 17.95,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "marqués_de_vitoria_crianza_magnum",
+    "name": "Marqués de Vitoria Crianza Magnum",
+    "img": "/img/productos/marqués_de_vitoria_crianza_magnum.webp",
+    "price": 22.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "marqués_de_vitoria_crianza",
+    "name": "Marqués de Vitoria Crianza",
+    "img": "/img/productos/marqués_de_vitoria_crianza.webp",
+    "price": 12.75,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "luis_gurpegui_crianza",
+    "name": "Luis Gurpegui Crianza",
+    "img": "/img/productos/luis_gurpegui_crianza.webp",
+    "price": 10.6,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "luis_gurpegui_crianza_magnum",
+    "name": "Luis Gurpegui Crianza Magnum",
+    "img": "/img/productos/luis_gurpegui_crianza_magnum.webp",
+    "price": 19.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "luis_gurpegui_147_aniversario_crianza",
+    "name": "Luis Gurpegui 147 Aniversario Crianza",
+    "img": "/img/productos/luis_gurpegui_147_aniversario_crianza.webp",
+    "price": 18.95,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "heredero_joven",
+    "name": "Heredero Joven",
+    "img": "/img/productos/heredero_joven.webp",
+    "price": 5.75,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "heredero_crianza",
+    "name": "Heredero Crianza",
+    "img": "/img/productos/heredero_crianza.webp",
+    "price": 9.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "gonzalo_de_berceo_crianza",
+    "name": "Gonzalo de Berceo Crianza",
+    "img": "/img/productos/gonzalo_de_berceo_crianza.webp",
+    "price": 8.6,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "gonzalo_de_berceo_reserva",
+    "name": "Gonzalo de Berceo Reserva",
+    "img": "/img/productos/gonzalo_de_berceo_reserva.webp",
+    "price": 15.7,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "dominios_de_berceo",
+    "name": "Dominios de Berceo",
+    "img": "/img/productos/dominios_de_berceo.webp",
+    "price": 11.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "berceo_crianza",
+    "name": "Berceo Crianza",
+    "img": "/img/productos/berceo_crianza.webp",
+    "price": 9.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "crápula_crianza",
+    "name": "Crápula Crianza",
+    "img": "/img/productos/crápula_crianza.webp",
+    "price": 9.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._jumilla"
+  },
+  {
+    "id": "crápula_gold_magnum",
+    "name": "Crápula Gold Magnum",
+    "img": "/img/productos/crápula_gold_magnum.webp",
+    "price": 16.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._jumilla"
+  },
+  {
+    "id": "crápula_gold",
+    "name": "Crápula Gold",
+    "img": "/img/productos/crápula_gold.webp",
+    "price": 12.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._jumilla"
+  },
+  {
+    "id": "crápula_soul",
+    "name": "Crápula Soul",
+    "img": "/img/productos/crápula_soul.webp",
+    "price": 11.2,
+    "category": "vinos-tintos",
+    "denomination": "d.o._jumilla"
+  },
+  {
+    "id": "sommos_varietales_tinto",
+    "name": "Sommos Varietales Tinto",
+    "img": "/img/productos/sommos_varietales_tinto.webp",
+    "price": 9.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._somontano"
+  },
+  {
+    "id": "sommos_crianza",
+    "name": "Sommos Crianza",
+    "img": "/img/productos/sommos_crianza.webp",
+    "price": 12.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._somontano"
+  },
+  {
+    "id": "sommos_colección_merlot",
+    "name": "Sommos Colección Merlot",
+    "img": "/img/productos/sommos_colección_merlot.webp",
+    "price": 15.2,
+    "category": "vinos-tintos",
+    "denomination": "d.o._somontano"
+  },
+  {
+    "id": "glárima_tinto_joven",
+    "name": "Glárima Tinto Joven",
+    "img": "/img/productos/glárima_tinto_joven.webp",
+    "price": 8.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._somontano"
+  },
+  {
+    "id": "cermeño_vendimia_seleccionada",
+    "name": "Cermeño Vendimia Seleccionada",
+    "img": "/img/productos/cermeño_vendimia_seleccionada.webp",
+    "price": 19.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._toro"
+  },
+  {
+    "id": "prima",
+    "name": "Prima",
+    "img": "/img/productos/prima.webp",
+    "price": 15.75,
+    "category": "vinos-tintos",
+    "denomination": "d.o._toro"
+  },
+  {
+    "id": "san_román",
+    "name": "San Román",
+    "img": "/img/productos/san_román.webp",
+    "price": 24.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._toro"
+  },
+  {
+    "id": "latarce",
+    "name": "Latarce",
+    "img": "/img/productos/latarce.webp",
+    "price": 11.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._toro"
+  },
+  {
+    "id": "cartago_paraje_del_pozo",
+    "name": "Cartago Paraje del Pozo",
+    "img": "/img/productos/cartago_paraje_del_pozo.webp",
+    "price": 18.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._toro"
+  },
+  {
+    "id": "marqués_de_valcarlos_tinto",
+    "name": "Marqués de Valcarlos Tinto",
+    "img": "/img/productos/marqués_de_valcarlos_tinto.webp",
+    "price": 8.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._navarra"
+  },
+  {
+    "id": "nûr_crianza",
+    "name": "Nûr Crianza",
+    "img": "/img/productos/nûr_crianza.webp",
+    "price": 25.9,
+    "category": "vinos-tintos",
+    "denomination": "d.o._priorat"
+  },
+  {
+    "id": "alquez_garnacha_viñas_viejas",
+    "name": "Alquez Garnacha Viñas Viejas",
+    "img": "/img/productos/alquez_garnacha_viñas_viejas.webp",
+    "price": 11.7,
+    "category": "vinos-tintos",
+    "denomination": "d.o._calatayud"
+  },
+  {
+    "id": "condado_real_tinto",
+    "name": "Condado Real Tinto",
+    "img": "/img/productos/condado_real_tinto.webp",
+    "price": 9.8,
+    "category": "vinos-tintos",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "mauro",
+    "name": "Mauro",
+    "img": "/img/productos/mauro.webp",
+    "price": 29.5,
+    "category": "vinos-tintos",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "mauro_magnum",
+    "name": "Mauro Magnum",
+    "img": "/img/productos/mauro_magnum.webp",
+    "price": 55.2,
+    "category": "vinos-tintos",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "mauro_vs",
+    "name": "Mauro VS",
+    "img": "/img/productos/mauro_vs.webp",
+    "price": 40.7,
+    "category": "vinos-tintos",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "terreus",
+    "name": "Terreus",
+    "img": "/img/productos/terreus.webp",
+    "price": 85,
+    "category": "vinos-tintos",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "losada_godello",
+    "name": "Losada Godello",
+    "img": "/img/productos/losada_godello.webp",
+    "price": 14.9,
+    "category": "vinos-blancos",
+    "denomination": "d.o._bierzo"
+  },
+  {
+    "id": "losada_godello_magnum",
+    "name": "Losada Godello Magnum",
+    "img": "/img/productos/losada_godello_magnum.webp",
+    "price": 29.8,
+    "category": "vinos-blancos",
+    "denomination": "d.o._bierzo"
+  },
+  {
+    "id": "mauro_godello",
+    "name": "Mauro Godello",
+    "img": "/img/productos/mauro_godello.webp",
+    "price": 19.5,
+    "category": "vinos-blancos",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "esencia_27_verdejo_semidulce",
+    "name": "Esencia 27 Verdejo Semidulce",
+    "img": "/img/productos/esencia_27_verdejo_semidulce.webp",
+    "price": 8.7,
+    "category": "vinos-blancos",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "d_berna_godello",
+    "name": "D_berna Godello",
+    "img": "/img/productos/d_berna_godello.webp",
+    "price": 12.8,
+    "category": "vinos-blancos",
+    "denomination": "d.o._valdeorras"
+  },
+  {
+    "id": "d_berna_sobre_lias_godello",
+    "name": "D_berna Sobre Lias Godello",
+    "img": "/img/productos/d_berna_sobre_lias_godello.webp",
+    "price": 15.9,
+    "category": "vinos-blancos",
+    "denomination": "d.o._valdeorras"
+  },
+  {
+    "id": "bouza_do_rei_selección",
+    "name": "Bouza do Rei Selección",
+    "img": "/img/productos/bouza_do_rei_selección.webp",
+    "price": 12.5,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rias_baixas"
+  },
+  {
+    "id": "marqués_de_fonseca",
+    "name": "Marqués de Fonseca",
+    "img": "/img/productos/marqués_de_fonseca.webp",
+    "price": 9.9,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rias_baixas"
+  },
+  {
+    "id": "bouza_do_rei",
+    "name": "Bouza do Rei",
+    "img": "/img/productos/bouza_do_rei.webp",
+    "price": 11.2,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rias_baixas"
+  },
+  {
+    "id": "segrel",
+    "name": "Segrel",
+    "img": "/img/productos/segrel.webp",
+    "price": 10.7,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rias_baixas"
+  },
+  {
+    "id": "gran_bazan_etiqueta_ambar",
+    "name": "Gran Bazan Etiqueta Ambar",
+    "img": "/img/productos/gran_bazan_etiqueta_ambar.webp",
+    "price": 15.9,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rias_baixas"
+  },
+  {
+    "id": "lenda_ponda_",
+    "name": "Lenda Ponda ",
+    "img": "/img/productos/lenda_ponda_.webp",
+    "price": 8.5,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rias_baixas"
+  },
+  {
+    "id": "miña_vida",
+    "name": "Miña Vida",
+    "img": "/img/productos/miña_vida.webp",
+    "price": 13.2,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rias_baixas"
+  },
+  {
+    "id": "pazo_pondal",
+    "name": "Pazo Pondal",
+    "img": "/img/productos/pazo_pondal.webp",
+    "price": 14.8,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rias_baixas"
+  },
+  {
+    "id": "circe_verdejo",
+    "name": "Circe Verdejo",
+    "img": "/img/productos/circe_verdejo.webp",
+    "price": 9.5,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rueda"
+  },
+  {
+    "id": "hombre_pez",
+    "name": "Hombre Pez",
+    "img": "/img/productos/hombre_pez.webp",
+    "price": 8.2,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rueda"
+  },
+  {
+    "id": "portia_verdejo",
+    "name": "Portia Verdejo",
+    "img": "/img/productos/portia_verdejo.webp",
+    "price": 7.9,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rueda"
+  },
+  {
+    "id": "montespina_verdejo",
+    "name": "Montespina Verdejo",
+    "img": "/img/productos/montespina_verdejo.webp",
+    "price": 10.8,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rueda"
+  },
+  {
+    "id": "vacceos_verdejo",
+    "name": "Vacceos Verdejo",
+    "img": "/img/productos/vacceos_verdejo.webp",
+    "price": 9.6,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rueda"
+  },
+  {
+    "id": "cuatro_rayas_ecológico",
+    "name": "Cuatro Rayas ecológico",
+    "img": "/img/productos/cuatro_rayas_ecológico.webp",
+    "price": 12.7,
+    "category": "vinos-blancos",
+    "denomination": "d.o._rueda"
+  },
+  {
+    "id": "elara_treixadura_godello",
+    "name": "Elara Treixadura_Godello",
+    "img": "/img/productos/elara_treixadura_godello.webp",
+    "price": 11.9,
+    "category": "vinos-blancos",
+    "denomination": "d.o._ribeiro"
+  },
+  {
+    "id": "sybaria",
+    "name": "Sybaria",
+    "img": "/img/productos/sybaria.webp",
+    "price": 13.4,
+    "category": "vinos-blancos",
+    "denomination": "d.o._ribeiro"
+  },
+  {
+    "id": "sommos_varietales_blanco",
+    "name": "Sommos Varietales Blanco",
+    "img": "/img/productos/sommos_varietales_blanco.webp",
+    "price": 8.9,
+    "category": "vinos-blancos",
+    "denomination": "d.o._somontano"
+  },
+  {
+    "id": "sommos_colección_gewürztraminer",
+    "name": "Sommos Colección Gewürztraminer",
+    "img": "/img/productos/sommos_colección_gewürztraminer.webp",
+    "price": 12.5,
+    "category": "vinos-blancos",
+    "denomination": "d.o._somontano"
+  },
+  {
+    "id": "glárima_blanco_joven",
+    "name": "Glárima Blanco Joven",
+    "img": "/img/productos/glárima_blanco_joven.webp",
+    "price": 10.2,
+    "category": "vinos-blancos",
+    "denomination": "d.o._somontano"
+  },
+  {
+    "id": "condado_real_rosado",
+    "name": "Condado Real Rosado",
+    "img": "/img/productos/condado_real_rosado.webp",
+    "price": 9.75,
+    "category": "vinos-rosados",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "nicte_rosa_pálido",
+    "name": "Nicte Rosa Pálido",
+    "img": "/img/productos/nicte_rosa_pálido.webp",
+    "price": 8.2,
+    "category": "vinos-rosados",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "olivia_rosé",
+    "name": "Olivia Rosé",
+    "img": "/img/productos/olivia_rosé.webp",
+    "price": 7.5,
+    "category": "vinos-rosados",
+    "denomination": "d.o._castilla_y_león"
+  },
+  {
+    "id": "marqués_de_valcarlos_rosado",
+    "name": "Marqués de Valcarlos Rosado",
+    "img": "/img/productos/marqués_de_valcarlos_rosado.webp",
+    "price": 11.9,
+    "category": "vinos-rosados",
+    "denomination": "d.o._navarra"
+  },
+  {
+    "id": "luis_gurpegui",
+    "name": "Luis Gurpegui",
+    "img": "/img/productos/luis_gurpegui.webp",
+    "price": 10.5,
+    "category": "vinos-rosados",
+    "denomination": "d.o._navarra"
+  },
+  {
+    "id": "campillo_rosado",
+    "name": "Campillo Rosado",
+    "img": "/img/productos/campillo_rosado.webp",
+    "price": 12.7,
+    "category": "vinos-rosados",
+    "denomination": "d.o._rioja"
+  },
+  {
+    "id": "d'berna_godello_",
+    "name": "D'Berna Godello",
+    "img": "/img/productos/d'berna_godello_.webp",
+    "price": 9.95,
+    "category": "vinos-rosados",
+    "denomination": "d.o._valdeorras"
+  },
+  {
+    "id": "sommos_rosé",
+    "name": "Sommos Rosé",
+    "img": "/img/productos/sommos_rosé.webp",
+    "price": 8.8,
+    "category": "vinos-rosados",
+    "denomination": "d.o._somontano"
+  },
+  {
+    "id": "esencia_33_prieto_picudo",
+    "name": "Esencia 33 Prieto Picudo",
+    "img": "/img/productos/esencia_33_prieto_picudo.webp",
+    "price": 11.2,
+    "category": "vinos-rosados",
+    "denomination": "d.o_león"
+  },
+  {
+    "id": "condado_real_cigales",
+    "name": "Condado Real Cigales",
+    "img": "/img/productos/condado_real_cigales.webp",
+    "price": 10.35,
+    "category": "vinos-rosados",
+    "denomination": "d.o._cigales"
+  },
+  {
+    "id": "amstel_lata_33cl.",
+    "name": "Amstel Lata 33cl.",
+    "price": 0.9,
+    "img": "/img/productos/amstel_lata_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "amstel_original_33cl._(exclusivo_hosteleria)",
+    "name": "Amstel Original 33cl. (EXCLUSIVO HOSTELERIA)",
+    "price": 1.2,
+    "img": "/img/productos/amstel_original_33cl._(exclusivo_hosteleria).webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "amstel_oro_33cl._(exclusivo_hosteleria)",
+    "name": "Amstel Oro 33cl. (EXCLUSIVO HOSTELERIA)",
+    "price": 1.3,
+    "img": "/img/productos/amstel_oro_33cl._(exclusivo_hosteleria).webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "amstel_oro_lata_33cl.",
+    "name": "Amstel Oro Lata 33cl.",
+    "price": 1.1,
+    "img": "/img/productos/amstel_oro_lata_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "amstel_radler_33cl._(exclusivo_hosteleria)",
+    "name": "Amstel Radler 33cl. (EXCLUSIVO HOSTELERIA)",
+    "price": 1.2,
+    "img": "/img/productos/amstel_radler_33cl._(exclusivo_hosteleria).webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "amstel_radler_lata_33cl.",
+    "name": "Amstel Radler Lata 33cl.",
+    "price": 1,
+    "img": "/img/productos/amstel_radler_lata_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "desperados_mojito_33cl.",
+    "name": "Desperados Mojito 33cl.",
+    "price": 1.5,
+    "img": "/img/productos/desperados_mojito_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "buckler_0,0_radler_lata_33cl.",
+    "name": "Buckler 0,0 Radler Lata 33cl.",
+    "price": 0.9,
+    "img": "/img/productos/buckler_0,0_radler_lata_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "el_alcazar_33cl.",
+    "name": "El Alcazar 33cl.",
+    "price": 1.1,
+    "img": "/img/productos/el_alcazar_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "la_1870_33cl.",
+    "name": "La 1870 33cl.",
+    "price": 1.2,
+    "img": "/img/productos/la_1870_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "ladrón_de_manzanas_33cl._(exclusivo_hosteleria)",
+    "name": "Ladrón de Manzanas 33cl. (EXCLUSIVO HOSTELERIA)",
+    "price": 1.4,
+    "img": "/img/productos/ladrón_de_manzanas_33cl._(exclusivo_hosteleria).webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "sol_33cl.",
+    "name": "Sol 33cl.",
+    "price": 1,
+    "img": "/img/productos/sol_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "cruzcampo_0,0_lata_33cl.",
+    "name": "Cruzcampo 0,0 Lata 33cl.",
+    "price": 0.9,
+    "img": "/img/productos/cruzcampo_0,0_lata_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "cruzcampo_especial_33cl._(exclusivo_hosteleria)",
+    "name": "Cruzcampo Especial 33cl. (EXCLUSIVO HOSTELERIA)",
+    "price": 1.1,
+    "img": "/img/productos/cruzcampo_especial_33cl._(exclusivo_hosteleria).webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "cruzcampo_pilsen_lata_33cl.",
+    "name": "Cruzcampo Pilsen Lata 33cl.",
+    "price": 0.9,
+    "img": "/img/productos/cruzcampo_pilsen_lata_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "shandy_33cl.",
+    "name": "Shandy 33cl.",
+    "price": 1,
+    "img": "/img/productos/shandy_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "heineken_0,0_33cl._(exclusivo_hosteleria)",
+    "name": "Heineken 0,0 33cl. (EXCLUSIVO HOSTELERIA)",
+    "price": 1.2,
+    "img": "/img/productos/heineken_0,0_33cl._(exclusivo_hosteleria).webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "heineken_0,0_lata_33cl.",
+    "name": "Heineken 0,0 Lata 33cl.",
+    "price": 1.1,
+    "img": "/img/productos/heineken_0,0_lata_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "heineken_33cl.",
+    "name": "Heineken 33cl.",
+    "price": 1.2,
+    "img": "/img/productos/heineken_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "heineken_lata_33cl.",
+    "name": "Heineken Lata 33cl.",
+    "price": 1.1,
+    "img": "/img/productos/heineken_lata_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "birra_moretti_33cl.",
+    "name": "Birra Moretti 33cl.",
+    "price": 1.3,
+    "img": "/img/productos/birra_moretti_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "guinness_original_33cl.",
+    "name": "Guinness Original 33cl.",
+    "price": 1.4,
+    "img": "/img/productos/guinness_original_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "hop_house_13_33cl.",
+    "name": "Hop House 13 33cl.",
+    "price": 1.3,
+    "img": "/img/productos/hop_house_13_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "judas_33cl.",
+    "name": "Judas 33cl.",
+    "price": 1.4,
+    "img": "/img/productos/judas_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "mort_subite_cereza_25cl.",
+    "name": "Mort Subite Cereza 25cl.",
+    "price": 1.5,
+    "img": "/img/productos/mort_subite_cereza_25cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "paulaner_dunkel_50cl.",
+    "name": "Paulaner Dunkel 50cl.",
+    "price": 2,
+    "img": "/img/productos/paulaner_dunkel_50cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "paulaner_salvator_33cl.",
+    "name": "Paulaner Salvator 33cl.",
+    "price": 1.8,
+    "img": "/img/productos/paulaner_salvator_33cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "paulaner_salvator_50cl.",
+    "name": "Paulaner Salvator 50cl.",
+    "price": 2.2,
+    "img": "/img/productos/paulaner_salvator_50cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "sidra_bulmers_50cl.",
+    "name": "Sidra Bulmers 50cl.",
+    "price": 1.7,
+    "img": "/img/productos/sidra_bulmers_50cl.webp",
+    "category": "cervezas"
+  },
+  {
+    "id": "valdepablo_selección",
+    "name": "Valdepablo Selección",
+    "price": 12.5,
+    "img": "/img/productos/valdepablo_selección.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "valdepablo_biomio_organico",
+    "name": "Valdepablo BioMio Organico",
+    "price": 14.8,
+    "img": "/img/productos/valdepablo_biomio_organico.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "st._petroni",
+    "name": "St. Petroni",
+    "price": 15.9,
+    "img": "/img/productos/st._petroni.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "picuezo_barrica",
+    "name": "Picuezo Barrica",
+    "price": 17.25,
+    "img": "/img/productos/picuezo_barrica.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "luis_the_marinero_rojo",
+    "name": "Luis The Marinero Rojo",
+    "price": 16,
+    "img": "/img/productos/luis_the_marinero_rojo.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "luis_the_marinero_blanco",
+    "name": "Luis The Marinero Blanco",
+    "price": 16,
+    "img": "/img/productos/luis_the_marinero_blanco.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "la_carmeta",
+    "name": "La Carmeta",
+    "price": 14.5,
+    "img": "/img/productos/la_carmeta.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "esencia_tabira_prieto_picudo",
+    "name": "Esencia Tabira Prieto Picudo",
+    "price": 13.75,
+    "img": "/img/productos/esencia_tabira_prieto_picudo.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "el_molin_del_nora",
+    "name": "El molin del Nora",
+    "price": 14,
+    "img": "/img/productos/el_molin_del_nora.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "arlini_personalizado_asturias",
+    "name": "Arlini personalizado Asturias",
+    "price": 16.5,
+    "img": "/img/productos/arlini_personalizado_asturias.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "el_ingenioso",
+    "name": "El Ingenioso",
+    "price": 15.25,
+    "img": "/img/productos/el_ingenioso.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "carpano_classico_rojo",
+    "name": "Carpano Classico Rojo",
+    "price": 18.75,
+    "img": "/img/productos/carpano_classico_rojo.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "bocamanga",
+    "name": "Bocamanga",
+    "price": 19.5,
+    "img": "/img/productos/bocamanga.webp",
+    "category": "vermus"
+  },
+  {
+    "id": "sidra_zapica_d.o.",
+    "name": "Sidra Zapica D.O.",
+    "price": 7.8,
+    "img": "/img/productos/sidra_zapica_d.o.webp",
+    "category": "sidras"
+  },
+  {
+    "id": "sidra_buznego",
+    "name": "Sidra Buznego",
+    "price": 6.5,
+    "img": "/img/productos/sidra_buznego.webp",
+    "category": "sidras"
+  },
+  {
+    "id": "el_gaitero_extra",
+    "name": "El Gaitero Extra",
+    "price": 8.2,
+    "img": "/img/productos/el_gaitero_extra.webp",
+    "category": "sidras"
+  },
+  {
+    "id": "penord_ricard",
+    "name": "Penord Ricard",
+    "price": 12.9,
+    "img": "/img/productos/penord_ricard.webp",
+    "category": "licores"
+  },
+  {
+    "id": "diageo",
+    "name": "Diageo",
+    "price": 11.75,
+    "img": "/img/productos/diageo.webp",
+    "category": "licores"
+  },
+  {
+    "id": "bacardi_limited",
+    "name": "Bacardi Limited",
+    "price": 13.45,
+    "img": "/img/productos/bacardi_limited.webp",
+    "category": "licores"
+  },
+  {
+    "id": "beam_suntory",
+    "name": "Beam Suntory",
+    "price": 10.6,
+    "img": "/img/productos/beam_suntory.webp",
+    "category": "licores"
+  },
+  {
+    "id": "licor_de_miel_panizo",
+    "name": "Licor de Miel Panizo",
+    "price": 8.75,
+    "img": "/img/productos/licor_de_miel_panizo.webp",
+    "category": "licores"
+  },
+  {
+    "id": "licor_de_crema_con_orujo",
+    "name": "Licor de Crema con Orujo",
+    "price": 9.9,
+    "img": "/img/productos/licor_de_crema_con_orujo.webp",
+    "category": "licores"
+  },
+  {
+    "id": "licor_tostado_panizo",
+    "name": "Licor Tostado Panizo",
+    "price": 8.2,
+    "img": "/img/productos/licor_tostado_panizo.webp",
+    "category": "licores"
+  },
+  {
+    "id": "pacharán_panizo",
+    "name": "Pacharán Panizo",
+    "price": 10.3,
+    "img": "/img/productos/pacharán_panizo.webp",
+    "category": "licores"
+  },
+  {
+    "id": "orujo_blanco_panizo",
+    "name": "Orujo Blanco Panizo",
+    "price": 11.5,
+    "img": "/img/productos/orujo_blanco_panizo.webp",
+    "category": "licores"
+  },
+  {
+    "id": "licor_de_hierbas_panizo",
+    "name": "Licor de Hierbas Panizo",
+    "price": 9.8,
+    "img": "/img/productos/licor_de_hierbas_panizo.webp",
+    "category": "licores"
+  },
+  {
+    "id": "crema_de_arroz_panizo",
+    "name": "Crema de Arroz Panizo",
+    "price": 7.95,
+    "img": "/img/productos/crema_de_arroz_panizo.webp",
+    "category": "licores"
+  },
+  {
+    "id": "crema_de_orujo_bouza_do_rei",
+    "name": "Crema de Orujo Bouza do Rei",
+    "price": 14.25,
+    "img": "/img/productos/crema_de_orujo_bouza_do_rei.webp",
+    "category": "licores"
+  },
+  {
+    "id": "orujo_blanco_bouza_do_rei",
+    "name": "Orujo Blanco Bouza do Rei",
+    "price": 13.7,
+    "img": "/img/productos/orujo_blanco_bouza_do_rei.webp",
+    "category": "licores"
+  },
+  {
+    "id": "orujo_tostado_bouza_do_rei",
+    "name": "Orujo Tostado Bouza do Rei",
+    "price": 12.95,
+    "img": "/img/productos/orujo_tostado_bouza_do_rei.webp",
+    "category": "licores"
+  },
+  {
+    "id": "orujo_de_hierbas_bouza_do_rei",
+    "name": "Orujo de Hierbas Bouza do Rei",
+    "price": 11.8,
+    "img": "/img/productos/orujo_de_hierbas_bouza_do_rei.webp",
+    "category": "licores"
+  },
+  {
+    "id": "licor_de_café_bouza_do_rei",
+    "name": "Licor de Café Bouza do Rei",
+    "price": 13.5,
+    "img": "/img/productos/licor_de_café_bouza_do_rei.webp",
+    "category": "licores"
+  },
+  {
+    "id": "orujo_blanco_marc_de_bazan",
+    "name": "Orujo Blanco Marc de Bazan",
+    "price": 12.3,
+    "img": "/img/productos/orujo_blanco_marc_de_bazan.webp",
+    "category": "licores"
+  },
+  {
+    "id": "orujo_de_hierbas_marc_de_bazan",
+    "name": "Orujo de Hierbas Marc de Bazan",
+    "price": 11.75,
+    "img": "/img/productos/orujo_de_hierbas_marc_de_bazan.webp",
+    "category": "licores"
+  },
+  {
+    "id": "orujo_tostado_marc_de_bazan",
+    "name": "Orujo Tostado Marc de Bazan",
+    "price": 12.5,
+    "img": "/img/productos/orujo_tostado_marc_de_bazan.webp",
+    "category": "licores"
+  },
+  {
+    "id": "orujo_de_café_marc_de_bazan",
+    "name": "Orujo de Café Marc de Bazan",
+    "price": 13.2,
+    "img": "/img/productos/orujo_de_café_marc_de_bazan.webp",
+    "category": "licores"
+  },
+  {
+    "id": "manzanilla_la_guita",
+    "name": "Manzanilla la Guita",
+    "price": 7.4,
+    "img": "/img/productos/manzanilla_la_guita.webp",
+    "category": "licores"
+  },
+  {
+    "id": "ginebra_bunker_london_dry",
+    "name": "Ginebra Bunker London Dry",
+    "price": 15.9,
+    "img": "/img/productos/ginebra_bunker_london_dry.webp",
+    "category": "licores"
+  },
+  {
+    "id": "bunker_origen",
+    "name": "Bunker Origen",
+    "price": 17.5,
+    "img": "/img/productos/bunker_origen.webp",
+    "category": "licores"
+  },
+  {
+    "id": "pedregosa_brut_nature_(petit_cuvée)",
+    "name": "Pedregosa Brut Nature (Petit Cuvée)",
+    "price": 9.95,
+    "img": "/img/productos/pedregosa_brut_nature_(petit_cuvée).webp",
+    "category": "cava"
+  },
+  {
+    "id": "pedregosa_rosado_brut_nature_(petit_cuvée)",
+    "name": "Pedregosa Rosado Brut Nature (Petit Cuvée)",
+    "price": 11.75,
+    "img": "/img/productos/pedregosa_rosado_brut_nature_(petit_cuvée).webp",
+    "category": "cava"
+  },
+  {
+    "id": "pedregosa_brut_nature_reserva(clos_de_blancs)",
+    "name": "Pedregosa Brut Nature Reserva(Clos de Blancs)",
+    "price": 12.6,
+    "img": "/img/productos/pedregosa_brut_nature_reserva(clos_de_blancs).webp",
+    "category": "cava"
+  },
+  {
+    "id": "magnum_1,5l_pedregosa_brut_nature_reserva_(clos_de_blancs)",
+    "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Clos de Blancs)",
+    "price": 24.9,
+    "img": "/img/productos/magnum_1,5l_pedregosa_brut_nature_reserva_(clos_de_blancs).webp",
+    "category": "cava"
+  },
+  {
+    "id": "pedregosa_brut_nature_reserva_(blanc_de_millésimé)",
+    "name": "Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
+    "price": 13.8,
+    "img": "/img/productos/pedregosa_brut_nature_reserva_(blanc_de_millésimé).webp",
+    "category": "cava"
+  },
+  {
+    "id": "magnum_1,5l_pedregosa_brut_nature_reserva_(blanc_de_millésimé)",
+    "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
+    "price": 27.5,
+    "img": "/img/productos/magnum_1,5l_pedregosa_brut_nature_reserva_(blanc_de_millésimé).webp",
+    "category": "cava"
+  },
+  {
+    "id": "pedregosa_brut_nature_reserva_d_l'hereu",
+    "name": "Pedregosa Brut Nature Reserva d L'Hereu",
+    "price": 10.95,
+    "img": "/img/productos/pedregosa_brut_nature_reserva_d_l'hereu.webp",
+    "category": "cava"
+  },
+  {
+    "id": "faustino_brut_reserva",
+    "name": "Faustino Brut Reserva",
+    "price": 14.75,
+    "img": "/img/productos/faustino_brut_reserva.webp",
+    "category": "cava"
+  },
+  {
+    "id": "feitizo_da_noite_extra_brut_albariño",
+    "name": "Feitizo da noite extra brut albariño",
+    "price": 16.4,
+    "img": "/img/productos/feitizo_da_noite_extra_brut_albariño.webp",
+    "category": "cava"
+  },
+  {
+    "id": "codorniu_benjamin",
+    "name": "Codorniu Benjamin",
+    "price": 8.9,
+    "img": "/img/productos/codorniu_benjamin.webp",
+    "category": "cava"
+  },
+  {
+    "id": "bonito_del_norte_en_aceite_de_oliva_900g.",
+    "name": "Bonito del Norte en aceite de oliva 900g.",
+    "price": 22.5,
+    "img": "/img/productos/bonito_del_norte_en_aceite_de_oliva_900g.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "mejillones_en_escabeche_4-6_cuca_gourmet",
+    "name": "Mejillones en escabeche 4-6 Cuca Gourmet",
+    "price": 12.75,
+    "img": "/img/productos/mejillones_en_escabeche_4-6_cuca_gourmet.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "atún_claro_en_aceite_de_girasol_900g.",
+    "name": "Atún claro en aceite de girasol 900g.",
+    "price": 15.9,
+    "img": "/img/productos/atún_claro_en_aceite_de_girasol_900g.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "berberechos_20-35_cuca_gourmet",
+    "name": "Berberechos 20-35 Cuca Gourmet",
+    "price": 8.25,
+    "img": "/img/productos/berberechos_20-35_cuca_gourmet.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "aceite_virgen_extra_nahon_5l",
+    "name": "Aceite Virgen Extra Nahon 5L",
+    "price": 39.95,
+    "img": "/img/productos/aceite_virgen_extra_nahon_5l.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "almejas_11-15_cuca_gourmet",
+    "name": "Almejas 11-15 Cuca Gourmet",
+    "price": 16.5,
+    "img": "/img/productos/almejas_11-15_cuca_gourmet.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "aceite_virgen_extra_guillén_5l",
+    "name": "Aceite Virgen Extra Guillén 5L",
+    "price": 42.9,
+    "img": "/img/productos/aceite_virgen_extra_guillén_5l.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "aceite_virgen_extra_arroniz_500ml.",
+    "name": "Aceite Virgen Extra Arroniz 500ml.",
+    "price": 7.5,
+    "img": "/img/productos/aceite_virgen_extra_arroniz_500ml.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "ventresca_de_bonito_del_norte_cuca_gourmet",
+    "name": "Ventresca de bonito del norte Cuca gourmet",
+    "price": 21.75,
+    "img": "/img/productos/ventresca_de_bonito_del_norte_cuca_gourmet.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "sardinilla_cuca_gourmet",
+    "name": "Sardinilla Cuca gourmet",
+    "price": 6.9,
+    "img": "/img/productos/sardinilla_cuca_gourmet.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "aceite_de_oliva_trujal_tudela",
+    "name": "Aceite de oliva Trujal Tudela",
+    "price": 14.25,
+    "img": "/img/productos/aceite_de_oliva_trujal_tudela.webp",
+    "category": "alimentacion"
+  },
+  {
+    "id": "vino_xoven_meigallo",
+    "name": "Vino Xoven Meigallo",
+    "price": 7.9,
+    "img": "/img/productos/vino_xoven_meigallo.webp",
+    "category": "otros"
+  },
+  {
+    "id": "vino_albariño_cosechero",
+    "name": "Vino Albariño Cosechero",
+    "price": 9.75,
+    "img": "/img/productos/vino_albariño_cosechero.webp",
+    "category": "otros"
+  },
+  {
+    "id": "moscato_spumante",
+    "name": "Moscato Spumante",
+    "price": 12.5,
+    "img": "/img/productos/moscato_spumante.webp",
+    "category": "otros"
+  },
+  {
+    "id": "moscato_d_asti_capetta",
+    "name": "Moscato D'asti Capetta",
+    "price": 10.9,
+    "img": "/img/productos/moscato_d_asti_capetta.webp",
+    "category": "otros"
+  },
+  {
+    "id": "moscato_capetta",
+    "name": "Moscato Capetta",
+    "price": 9.75,
+    "img": "/img/productos/moscato_capetta.webp",
+    "category": "otros"
+  },
+  {
+    "id": "mateus_rosé",
+    "name": "Mateus Rosé",
+    "price": 8.9,
+    "img": "/img/productos/mateus_rosé.webp",
+    "category": "otros"
+  },
+  {
+    "id": "champagne_g.h._mumm",
+    "name": "Champagne G.H. Mumm",
+    "price": 34.5,
+    "img": "/img/productos/champagne_g.h._mumm.webp",
+    "category": "otros"
+  },
+  {
+    "id": "cavicchioli_lambrusco_rosado",
+    "name": "Cavicchioli Lambrusco Rosado",
+    "price": 6.25,
+    "img": "/img/productos/cavicchioli_lambrusco_rosado.webp",
+    "category": "otros"
+  },
+  {
+    "id": "casal_garcía_vino_de_portugal",
+    "name": "Casal García Vino de Portugal",
+    "price": 4.9,
+    "img": "/img/productos/casal_garcía_vino_de_portugal.webp",
+    "category": "otros"
+  }
+]
