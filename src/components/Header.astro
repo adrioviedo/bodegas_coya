@@ -1,7 +1,8 @@
 ---
 import { CartIcon } from "../icons/cartIcon.jsx";
-import Magnifier from "../icons/Magnifier.astro";
+import { Magnifier } from "../icons/Magnifier.jsx";
 import UserIcon from "../icons/User.astro";
+import { Search } from "./Search.jsx";
 import UserHeader from "./UserHeader.astro";
 ---
 
@@ -12,21 +13,11 @@ import UserHeader from "./UserHeader.astro";
     <a href="/" class="hover:scale-125 transition">
       <img src="./img/LOGO-COYA.png" alt="logo coya" class="w-8 md:w-10" /></a
     >
-    <form
-      action=""
-      method="get"
-      class="hidden md:flex items-center gap-3 absolute left-[20%]"
-    >
-      <input
-        type="text"
-        name="search"
-        placeholder="Buscar"
-        class="bg-[#ffe6bb4b] px-2 py-1 rounded-md w-[50px] md:w-[100px] lg:w-[150px]"
-      />
-      <button class="hover:scale-125 transition"
-        ><Magnifier class="w-4 h-4" /></button
-      >
-    </form>
+    <Search
+      formClass="hidden md:flex items-center gap-3 absolute left-[20%]"
+      inputClass="bg-[#ffe6bb4b] px-2 py-1 rounded-md w-[50px] md:w-[100px] lg:w-[150px]"
+    />
+
     <ul
       class="hidden absolute top-1/2 right-0 transform -translate-y-1/2 -translate-x-1/2 lg:mx-auto lg:flex lg:items-center lg:w-auto lg:space-x-6"
     >
@@ -57,7 +48,7 @@ import UserHeader from "./UserHeader.astro";
       </a>
       <div class="lg:hidden flex items-center gap-6">
         <button class="navbar-burger block hover:scale-125 transition md:hidden"
-          ><Magnifier class="h-4 w-4" />
+          ><Magnifier clase="h-4 w-4" />
         </button>
         <button class="navbar-burger flex flex-row items-center text-[#FFE6BB]">
           <svg
@@ -99,21 +90,11 @@ import UserHeader from "./UserHeader.astro";
         </button>
       </div>
       <div class="flex flex-col gap-6">
-        <form
-          action=""
-          method="get"
-          class="flex items-center gap-3 self-center md:hidden"
-        >
-          <input
-            type="text"
-            name="search"
-            placeholder="Buscar"
-            class="bg-[#f9ecd4ca] px-2 py-1 rounded-md w-[150px]"
-          />
-          <button class="hover:scale-125 transition">
-            <Magnifier class="w-4 h-4" />
-          </button>
-        </form>
+        <Search
+          formClass="flex items-center gap-3 self-center md:hidden"
+          inputClass="bg-[#f9ecd4ca] px-2 py-1 rounded-md w-[150px]"
+        />
+
         <div>
           <ul>
             <li class="mb-1">
