@@ -3,7 +3,7 @@ export const CartIcon = ({ clase }) => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 902.86 902.86"
-      xml:space="preserve"
+      xmlSpace="preserve"
       fill="currentColor"
       className={clase}
     >
