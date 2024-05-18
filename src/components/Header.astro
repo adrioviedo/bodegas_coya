@@ -2,8 +2,10 @@
 import { CartIcon } from "../icons/cartIcon.jsx";
 import { Magnifier } from "../icons/Magnifier.jsx";
 import UserIcon from "../icons/User.astro";
+import ResponsiveMenu from "./ResponsiveMenu.astro";
 import { Search } from "./Search.jsx";
 import UserHeader from "./UserHeader.astro";
+import { Cart } from "./Cart.jsx";
 ---
 
 <header class="py-3 px-5 bg-[#48070b] rounded-b-lg sticky -top-0.5 z-50">
@@ -43,9 +45,9 @@ import UserHeader from "./UserHeader.astro";
       <a href="/signin" class="hover:scale-125 transition hidden lg:block"
         ><UserIcon class="w-6 h-6" />
       </a>
-      <a href="/cart" class="hover:scale-125 transition block">
+      <button class="navbar-burger hover:scale-125 transition block">
         <CartIcon clase="w-4 h-4 md:w-6 md:h-6" />
-      </a>
+      </button>
       <div class="lg:hidden flex items-center gap-6">
         <button class="navbar-burger block hover:scale-125 transition md:hidden"
           ><Magnifier clase="h-4 w-4" />
@@ -68,7 +70,7 @@ import UserHeader from "./UserHeader.astro";
     <nav
       class="fixed top-0 right-0 bottom-0 flex flex-col w-5/6 max-w-sm py-6 px-6 bg-[#ffe6bbe1] border-r overflow-y-auto"
     >
-      <div class="flex items-center mb-8">
+      <nav class="flex items-center mb-8">
         <a class="mr-auto text-3xl font-bold leading-none" href="/">
           <img src="./img/LOGO-COYA.png" alt="logo coya" class="w-10" /></a
         >
@@ -88,80 +90,30 @@ import UserHeader from "./UserHeader.astro";
               d="M6 18L18 6M6 6l12 12"></path>
           </svg>
         </button>
-      </div>
-      <div class="flex flex-col gap-6">
-        <Search
-          formClass="flex items-center gap-3 self-center md:hidden"
-          inputClass="bg-[#f9ecd4ca] px-2 py-1 rounded-md w-[150px]"
-        />
-
-        <div>
-          <ul>
-            <li class="mb-1">
-              <a
-                class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
-                href="/productos">Productos</a
-              >
-            </li>
-            <li class="mb-1">
-              <a
-                class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
-                href="/nosotros">Coya e Hijos</a
-              >
-            </li>
-            <li class="mb-1">
-              <a
-                class="block p-4 text-sm font-semibold text-[#48070b] hover:bg-[#f3e0c0] hover:text-[#ab4a4f] rounded"
-                href="/contacto">Contacto</a
-              >
-            </li>
-          </ul>
-        </div>
-      </div>
+      </nav>
+      <Cart client:visible />
+      <ResponsiveMenu />
       <UserHeader />
     </nav>
   </div>
 </header>
 
 <script>
-  // Burger menus
   document.addEventListener("DOMContentLoaded", function () {
-    // open
-    const burger = document.querySelectorAll(".navbar-burger");
-    const menu = document.querySelectorAll(".navbar-menu");
+    const menus = document.querySelectorAll(".navbar-menu");
 
-    if (burger.length && menu.length) {
-      for (var i = 0; i < burger.length; i++) {
-        burger[i].addEventListener("click", function () {
-          for (var j = 0; j < menu.length; j++) {
-            menu[j].classList.toggle("hidden");
-          }
-        });
-      }
+    function toggleMenuVisibility() {
+      menus.forEach((menu) => {
+        menu.classList.toggle("hidden");
+      });
     }
 
-    // close
-    const close = document.querySelectorAll(".navbar-close");
-    const backdrop = document.querySelectorAll(".navbar-backdrop");
+    const elements = document.querySelectorAll(
+      ".navbar-burger, .navbar-close, .navbar-backdrop"
+    );
 
-    if (close.length) {
-      for (var i = 0; i < close.length; i++) {
-        close[i].addEventListener("click", function () {
-          for (var j = 0; j < menu.length; j++) {
-            menu[j].classList.toggle("hidden");
-          }
-        });
-      }
-    }
-
-    if (backdrop.length) {
-      for (var i = 0; i < backdrop.length; i++) {
-        backdrop[i].addEventListener("click", function () {
-          for (var j = 0; j < menu.length; j++) {
-            menu[j].classList.toggle("hidden");
-          }
-        });
-      }
-    }
+    elements.forEach((element) => {
+      element.addEventListener("click", toggleMenuVisibility);
+    });
   });
 </script>
