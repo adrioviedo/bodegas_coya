@@ -1,5 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import { CartIcon } from '../icons/cartIcon.jsx'
+import { CartButton } from './CartButton'
 
 export const Products = ({ products }) => {
   return (
@@ -15,13 +16,11 @@ export const Products = ({ products }) => {
             className="absolute max-h-72 aspect-[4/5] object-cover overflow-hidden"
           />
           <div className="absolute rounded-xl w-full bottom-0 text-pretty px-3 py-3 backdrop-blur-md flex items-center justify-between">
-            <div className="flex flex-col min-w-[70%]">
+            <div className="flex flex-col w-[60%]">
               <span className='font-Anton2 font-bold text-xs'>{product.name}</span>
               <span className='text-xs'>{product.price} €</span>
             </div>
-            <button className="bg-[#450408] text-[#FFE6BB] rounded-xl px-2 py-1 cursor-pointer">
-              <CartIcon clase="w-4 h-4 md:w-6 md:h-6"/>
-            </button>
+            <CartButton item={product}/>
           </div>
         </article>
       ))}
