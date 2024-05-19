@@ -1,6 +1,9 @@
 ---
+import Footer from "../components/Footer.astro";
 import Layout from "../layouts/Layout.astro";
 import { supabase } from "../lib/supabase";
+import orders from "../data/orders.json";
+import { OrderTable } from "../components/OrderTable";
 
 const { cookies, redirect } = Astro;
 
@@ -29,7 +32,8 @@ if (error) {
 
 const email = data?.user?.email;
 const name = data?.user?.user_metadata?.name;
-const hola = data?.user?.user_metadata?.full_name;
+const fullName = data?.user?.user_metadata?.full_name;
+const avatar = data?.user?.user_metadata?.avatar;
 
 // const pedidos = await supabase
 //   .from("pedidos")
@@ -46,22 +50,26 @@ const hola = data?.user?.user_metadata?.full_name;
   </form> -->
 
   <section>
-    <article>
-      <h1>Bienvenido {hola}</h1>
-      <p>Estamos felices de verte aquí</p>
-      <form action="/api/auth/signout">
-        <button type="submit">Cerrar sesión</button>
-      </form>
-    </article>
-    <article>
-      <h2>Pedidos</h2>
-      <p>En esta sección podrás ver tus pedidos</p>
-      <!-- Tabla para mostrar los pedidos, tendra los campos:
-      - Número de pedido
-      - Fecha de pedido
-      - Total del pedido
-      - Ver detalles del pedido, será un modal (los productos que contiene, cantidad, precio unitario, total por producto)
-      -->
-    </article>
+    <div
+      class="bg-[#450408] text-[#FFE6BB] w-4/5 mx-auto my-20 rounded px-12 py-14"
+    >
+      <article class="flex justify-between">
+        <img src={avatar} alt="Avatar" class="w-20 h-20 rounded-full" />
+        <div>
+          <h2>{fullName}</h2>
+          <p>{email}</p>
+          <form action="/api/auth/signout">
+            <button type="submit">Cerrar sesión</button>
+          </form>
+        </div>
+      </article>
+      <article class="mt-10 flex flex-col justify-center">
+        <h2>Pedidos</h2>
+        <p>En esta sección podrás ver tus pedidos</p>
+        <OrderTable orders={orders} />
+      </article>
+    </div>
   </section>
+
+  <Footer class="bg-[#450408] text-[#FFE6BB]" />
 </Layout>
