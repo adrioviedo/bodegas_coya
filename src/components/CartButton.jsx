@@ -1,25 +1,16 @@
-import { useState, useEffect } from 'react'
-import { addToCart, removeFromCart, getCartItems } from '../context/carrito'
+import { useCart } from '../context/cartContext'
 import { AddToCart } from '../icons/AddToCart'
 import { RemoveFromCart } from '../icons/RemoveFromCart'
 
 export const CartButton = ({ item }) => {
-  const [quantity, setQuantity] = useState(0)
-
-  useEffect(() => {
-    const cartItems = getCartItems()
-    const cartItem = cartItems.find((cartItem) => cartItem.id === item.id)
-    setQuantity(cartItem ? cartItem.quantity : 0)
-  }, [])
+  const { addToCart, removeFromCart, cartItems } = useCart()
 
   const handleAddToCart = () => {
     addToCart(item)
-    setQuantity((prevQuantity) => prevQuantity + 1)
   }
 
   const handleRemoveFromCart = () => {
-    removeFromCart(item.id)
-    setQuantity((prevQuantity) => (prevQuantity > 0 ? prevQuantity - 1 : 0))
+    removeFromCart(item)
   }
 
   return (
@@ -30,7 +21,9 @@ export const CartButton = ({ item }) => {
       >
         <AddToCart />
       </button>
-      <span className='text-[#450408]'>{quantity}</span>
+      <span className="text-[#450408]">
+        {cartItems.find((cartItem) => cartItem.id === item.id)?.quantity || 0}
+      </span>
       <button
         className="p-0.5 bg-[#4504089e] rounded-md hover:bg-[#450408] transition"
         onClick={handleRemoveFromCart}

@@ -18,8 +18,12 @@ export const Header = () => {
   }
 
   const toggleCart = () => {
+    const prevShowCart = showCart
     setShowMenu(!showMenu)
     setShowCart(!showCart)
+    if (prevShowCart) {
+      window.location.reload()
+    }
   }
 
   return (

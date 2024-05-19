@@ -1,4 +1,4 @@
-import { createContext, useState, useEffect, useContext } from 'react'
+import { createContext, useContext, useState, useEffect } from 'react'
 
 const CartContext = createContext()
 
@@ -7,38 +7,49 @@ export const useCart = () => {
 }
 
 export const CartProvider = ({ children }) => {
-  const [cartItems, setCartItems] = useState(window.localStorage.getItem('cartItems') ? JSON.parse(window.localStorage.getItem('cartItems')) : [])
+  const isBrowser = typeof window !== 'undefined'
+
+  const [cartItems, setCartItems] = useState(
+    isBrowser ? JSON.parse(window.localStorage.getItem('cartItems')) || [] : []
+  )
 
   const addToCart = (item) => {
-    const isItemInCart = cartItems.find((cartItem) => cartItem.id === item.id)
+    setCartItems((prevCartItems) => {
+      // check if item is already in cart
+      const existingCartItem = prevCartItems.find((cartItem) => cartItem.id === item.id)
 
-    if (isItemInCart) {
-      setCartItems(
-        cartItems.map((cartItem) =>
-          cartItem.id === item.id
-            ? { ...cartItem, quantity: cartItem.quantity + 1 }
-            : cartItem
+      if (existingCartItem) {
+        // if item is already in cart, increase its quantity
+        return prevCartItems.map((cartItem) =>
+          cartItem.id === item.id ? { ...cartItem, quantity: cartItem.quantity + 1 } : cartItem
         )
-      )
-    } else {
-      setCartItems([...cartItems, { ...item, quantity: 1 }])
-    }
+      } else {
+        // if item is not in cart, add it
+        return [...prevCartItems, { ...item, quantity: 1 }]
+      }
+    })
   }
 
   const removeFromCart = (item) => {
-    const isItemInCart = cartItems.find((cartItem) => cartItem.id === item.id)
+    setCartItems((prevCartItems) => {
+      // check if item is in cart
+      const existingCartItem = prevCartItems.find((cartItem) => cartItem.id === item.id)
 
-    if (isItemInCart.quantity === 1) {
-      setCartItems(cartItems.filter((cartItem) => cartItem.id !== item.id))
-    } else {
-      setCartItems(
-        cartItems.map((cartItem) =>
-          cartItem.id === item.id
-            ? { ...cartItem, quantity: cartItem.quantity - 1 }
-            : cartItem
-        )
-      )
-    }
+      if (existingCartItem) {
+        // if item is in cart and its quantity is more than 1, decrease its quantity
+        if (existingCartItem.quantity > 1) {
+          return prevCartItems.map((cartItem) =>
+            cartItem.id === item.id ? { ...cartItem, quantity: cartItem.quantity - 1 } : cartItem
+          )
+        } else {
+          // if item is in cart and its quantity is 1, remove it
+          return prevCartItems.filter((cartItem) => cartItem.id !== item.id)
+        }
+      } else {
+        // if item is not in cart, return the previous cart items
+        return prevCartItems
+      }
+    })
   }
 
   const clearCart = () => {
@@ -48,29 +59,23 @@ export const CartProvider = ({ children }) => {
   const getCartTotal = () => {
     return cartItems.reduce((total, item) => total + item.price * item.quantity, 0)
   }
-
   useEffect(() => {
-    window.localStorage.setItem('cartItems', JSON.stringify(cartItems))
-  }, [cartItems])
-
-  useEffect(() => {
-    const cartItems = window.localStorage.getItem('cartItems')
-    if (cartItems) {
-      setCartItems(JSON.parse(cartItems))
+    if (isBrowser) {
+      window.localStorage.setItem('cartItems', JSON.stringify(cartItems))
     }
-  }, [])
+  }, [cartItems, isBrowser])
 
   return (
     <CartContext.Provider
-    value={{
-      cartItems,
-      addToCart,
-      removeFromCart,
-      clearCart,
-      getCartTotal
-    }}
-  >
-    {children}
-  </CartContext.Provider>
+      value={{
+        cartItems,
+        addToCart,
+        removeFromCart,
+        clearCart,
+        getCartTotal
+      }}
+    >
+      {children}
+    </CartContext.Provider>
   )
 }
