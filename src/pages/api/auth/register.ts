@@ -9,6 +9,7 @@ export const POST: APIRoute = async ({ request, redirect, cookies }) => {
   const lastName = formData.get("lastName")?.toString();
   const phone = formData.get("phone")?.toString();
   const address = formData.get("address")?.toString();
+  const order = formData.get("order")?.toString();
 
   if (!email || !password) {
     return new Response("Correo electrónico y contraseña obligatorios", {
@@ -47,6 +48,9 @@ export const POST: APIRoute = async ({ request, redirect, cookies }) => {
     cookies.set("sb-refresh-token", refresh_token, {
       path: "/",
     });
+  }
+  if (order) {
+    return redirect(`/pedido`);
   }
   return redirect("/dashboard");
 };

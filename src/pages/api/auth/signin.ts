@@ -5,6 +5,7 @@ export const POST: APIRoute = async ({ request, cookies, redirect }) => {
   const formData = await request.formData();
   const email = formData.get("email")?.toString();
   const password = formData.get("password")?.toString();
+  const order = formData.get("order")?.toString();
 
   if (!email || !password) {
     return new Response("Correo electrónico y contraseña obligatorios", {
@@ -28,5 +29,8 @@ export const POST: APIRoute = async ({ request, cookies, redirect }) => {
   cookies.set("sb-refresh-token", refresh_token, {
     path: "/",
   });
+  if (order) {
+    return redirect(`/pedido`);
+  }
   return redirect("/dashboard");
 };

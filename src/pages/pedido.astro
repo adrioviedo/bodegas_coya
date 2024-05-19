@@ -1,0 +1,29 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { supabase } from "../lib/supabase";
+import { FinishOrder } from "../components/FinishOrder.jsx";
+
+const { cookies, redirect } = Astro;
+
+// recuperar la sesion de usuario
+const accessToken = cookies.get("sb-access-token");
+const refreshToken = cookies.get("sb-refresh-token");
+
+let user = null;
+
+if (accessToken && refreshToken) {
+  const { data, error } = await supabase.auth.setSession({
+    refresh_token: refreshToken.value,
+    access_token: accessToken.value,
+  });
+  if (error) {
+    console.error(error);
+  } else {
+    user = data.user?.id;
+  }
+}
+---
+
+<Layout title="Pedido - Bodegas Coya e Hijos">
+  <FinishOrder client:visible user={user} />
+</Layout>

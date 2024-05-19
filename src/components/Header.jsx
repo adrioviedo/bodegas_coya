@@ -27,19 +27,27 @@ export const Header = () => {
   }
 
   return (
-    <header class="py-3 px-5 bg-[#48070b] rounded-b-lg sticky -top-0.5 z-50">
-      <nav class="relative flex items-center justify-between w-4/5 mx-auto my-0 text-[#FFE6BB]">
-        <a href="/" class="hover:scale-125 transition">
-          <img src="./img/LOGO-COYA.png" alt="logo coya" class="w-8 md:w-10" />
+    <header className="py-3 px-5 bg-[#48070b] rounded-b-lg sticky -top-0.5 z-50">
+      <nav className="relative flex items-center justify-between w-4/5 mx-auto my-0 text-[#FFE6BB]">
+        <a href="/" className="hover:scale-125 transition">
+          <img src="./img/LOGO-COYA.png" alt="logo coya" className="w-8 md:w-10" />
         </a>
         <Search
           formClass="hidden md:flex items-center gap-3 absolute left-[20%]"
           inputClass="bg-[#ffe6bb4b] px-2 py-1 rounded-md w-[50px] md:w-[100px] lg:w-[150px]"
         />
-        <ul class="hidden absolute top-1/2 right-0 transform -translate-y-1/2 -translate-x-1/2 lg:mx-auto lg:flex lg:items-center lg:w-auto lg:space-x-6">
+        <ul className="hidden absolute top-1/2 right-0 transform -translate-y-1/2 -translate-x-1/2 lg:mx-auto lg:flex lg:items-center lg:w-auto lg:space-x-6">
+        <li>
+            <a
+              className="inline-block hover:scale-110 transition"
+              href="/pedido"
+            >
+              Pedido
+            </a>
+          </li>
           <li>
             <a
-              class="inline-block hover:scale-110 transition"
+              className="inline-block hover:scale-110 transition"
               href="/productos"
             >
               Productos
@@ -47,39 +55,39 @@ export const Header = () => {
           </li>
 
           <li>
-            <a class="inline-block hover:scale-110 transition" href="/nosotros">
+            <a className="inline-block hover:scale-110 transition" href="/nosotros">
               Coya e Hijos
             </a>
           </li>
           <li>
-            <a class="inline-block hover:scale-110 transition" href="/contacto">
+            <a className="inline-block hover:scale-110 transition" href="/contacto">
               Contacto
             </a>
           </li>
         </ul>
-        <div class="flex items-center gap-6">
-          <a href="/signin" class="hover:scale-125 transition hidden lg:block">
+        <div className="flex items-center gap-6">
+          <a href="/signin" className="hover:scale-125 transition hidden lg:block">
             <UserIcon clase="w-6 h-6" />
           </a>
           <button
-            class="navbar-burger hover:scale-125 transition block"
+            className="navbar-burger hover:scale-125 transition block"
             onClick={toggleCart}
           >
             <CartIcon clase="w-4 h-4 md:w-6 md:h-6" />
           </button>
-          <div class="lg:hidden flex items-center gap-6">
+          <div className="lg:hidden flex items-center gap-6">
             <button
-              class="navbar-burger block hover:scale-125 transition md:hidden"
+              className="navbar-burger block hover:scale-125 transition md:hidden"
               onClick={toggleMenu}
             >
               <Magnifier clase="h-4 w-4" />
             </button>
             <button
-              class="navbar-burger flex flex-row items-center text-[#FFE6BB]"
+              className="navbar-burger flex flex-row items-center text-[#FFE6BB]"
               onClick={toggleMenu}
             >
               <svg
-                class="block h-4 w-4 fill-current hover:scale-125 transition"
+                className="block h-4 w-4 fill-current hover:scale-125 transition"
                 viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg"
               >

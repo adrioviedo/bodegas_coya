@@ -26,7 +26,7 @@ export const Search = ({ formClass, inputClass }) => {
         placeholder="Buscar"
         className={` ${inputClass}`}
       />
-      <button type="submit" class="hover:scale-125 transition ">
+      <button type="submit" className="hover:scale-125 transition ">
         <Magnifier clase="w-4 h-4 md:w-6 md:h-6" />
       </button>
     </form>

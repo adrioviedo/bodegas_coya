@@ -54,10 +54,12 @@ export const CartProvider = ({ children }) => {
 
   const clearCart = () => {
     setCartItems([])
+    if (isBrowser) {
+      window.localStorage.setItem('cartItems', JSON.stringify([]))
+    }
   }
-
   const getCartTotal = () => {
-    return cartItems.reduce((total, item) => total + item.price * item.quantity, 0)
+    return cartItems.reduce((total, item) => total + item.price * item.quantity, 0).toFixed(2)
   }
   useEffect(() => {
     if (isBrowser) {
