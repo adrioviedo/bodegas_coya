@@ -1,7 +1,10 @@
 // eslint-disable-next-line no-unused-vars
+import { useImg } from '../hooks/useImg.ts'
 import { CartProvider } from '../context/cartContext.jsx'
 import { CartIcon } from '../icons/cartIcon.jsx'
 import { CartButton } from './CartButton.jsx'
+
+const imgURL = 'https://sxgzvkgcpspymknjscwh.supabase.co/storage/v1/object/public'
 
 export const Products = ({ products }) => {
   return (
@@ -12,7 +15,7 @@ export const Products = ({ products }) => {
           key={product.id}
         >
           <img
-            src={product.img}
+            src={useImg(product.img)}
             alt={product.name}
             className="absolute max-h-72 aspect-[4/5] object-cover overflow-hidden"
           />

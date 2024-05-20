@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "user_id": "1354546-566",
+    "date": "2019-01-01",
+    "total": 100,
+    "items": [
+      {
+        "id": 1,
+        "name": "item1",
+        "price": 50,
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "name": "item2",
+        "price": 25,
+        "quantity": 2
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "user_id": "13795546-546",
+    "date": "2019-01-02",
+    "total": 200,
+    "items": [
+      {
+        "id": 3,
+        "name": "item3",
+        "price": 100,
+        "quantity": 2
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "user_id": "13876-59896",
+    "date": "2019-01-03",
+    "total": 300,
+    "items": [
+      {
+        "id": 4,
+        "name": "item4",
+        "price": 150,
+        "quantity": 2
+      }
+    ]
+  }
+]

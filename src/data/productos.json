@@ -44,28 +44,28 @@
   {
     "id": "peñalara_tinto",
     "name": "Peñalara Tinto",
-    "img": "/img/productos/peñalara_tinto.webp",
+    "img": "/img/productos/penalara_tinto.webp",
     "price": 4.8,
     "category": "marcas-propias"
   },
   {
     "id": "peñalara_semidulce",
     "name": "Peñalara Semidulce",
-    "img": "/img/productos/peñalara_semidulce.webp",
+    "img": "/img/productos/penalara_semidulce.webp",
     "price": 4.8,
     "category": "marcas-propias"
   },
   {
     "id": "peñalara_rosado",
     "name": "Peñalara Rosado",
-    "img": "/img/productos/peñalara_rosado.webp",
+    "img": "/img/productos/penalara_rosado.webp",
     "price": 4.8,
     "category": "marcas-propias"
   },
   {
     "id": "peñalara_blanco",
     "name": "Peñalara Blanco",
-    "img": "/img/productos/peñalara_blanco.webp",
+    "img": "/img/productos/penalara_blanco.webp",
     "price": 4.8,
     "category": "marcas-propias"
   },
@@ -137,7 +137,7 @@
   {
     "id": "pájaro_rojo",
     "name": "Pájaro Rojo",
-    "img": "/img/productos/pájaro_rojo.webp",
+    "img": "/img/productos/pajaro_rojo.webp",
     "price": 10.2,
     "category": "vinos-tintos",
     "denomination": "d.o._bierzo"
@@ -249,7 +249,7 @@
   {
     "id": "garmón",
     "name": "Garmón",
-    "img": "/img/productos/garmón.webp",
+    "img": "/img/productos/garmon.webp",
     "price": 45.6,
     "category": "vinos-tintos",
     "denomination": "d.o._ribera_del_duero"
@@ -257,7 +257,7 @@
   {
     "id": "avelino_vegas_áureo",
     "name": "Avelino Vegas Áureo",
-    "img": "/img/productos/avelino_vegas_áureo.webp",
+    "img": "/img/productos/avelino_vegas_aureo.webp",
     "price": 24.75,
     "category": "vinos-tintos",
     "denomination": "d.o._ribera_del_duero"
@@ -265,7 +265,7 @@
   {
     "id": "voché_selección_graciano",
     "name": "Voché Selección Graciano",
-    "img": "/img/productos/voché_selección_graciano.webp",
+    "img": "/img/productos/voche_seleccion_graciano.webp",
     "price": 15.9,
     "category": "vinos-tintos",
     "denomination": "d.o._rioja"
@@ -273,7 +273,7 @@
   {
     "id": "voché_reserva",
     "name": "Voché Reserva",
-    "img": "/img/productos/voché_reserva.webp",
+    "img": "/img/productos/voche_reserva.webp",
     "price": 19.5,
     "category": "vinos-tintos",
     "denomination": "d.o._rioja"
@@ -281,7 +281,7 @@
   {
     "id": "voché_crianza",
     "name": "Voché Crianza",
-    "img": "/img/productos/voché_crianza.webp",
+    "img": "/img/productos/voche_crianza.webp",
     "price": 12.75,
     "category": "vinos-tintos",
     "denomination": "d.o._rioja"
@@ -289,7 +289,7 @@
   {
     "id": "viñadrián_tinto",
     "name": "Viñadrián Tinto",
-    "img": "/img/productos/viñadrián_tinto.webp",
+    "img": "/img/productos/vinadrian_tinto.webp",
     "price": 9.8,
     "category": "vinos-tintos",
     "denomination": "d.o._rioja"
@@ -297,7 +297,7 @@
   {
     "id": "viñadrián_crianza",
     "name": "Viñadrián Crianza",
-    "img": "/img/productos/viñadrián_crianza.webp",
+    "img": "/img/productos/vinadrian_crianza.webp",
     "price": 13.4,
     "category": "vinos-tintos",
     "denomination": "d.o._rioja"
@@ -305,7 +305,7 @@
   {
     "id": "marqués_de_vitoria_reserva",
     "name": "Marqués de Vitoria Reserva",
-    "img": "/img/productos/marqués_de_vitoria_reserva.webp",
+    "img": "/img/productos/marques_de_vitoria_reserva.webp",
     "price": 17.95,
     "category": "vinos-tintos",
     "denomination": "d.o._rioja"
@@ -313,7 +313,7 @@
   {
     "id": "marqués_de_vitoria_crianza_magnum",
     "name": "Marqués de Vitoria Crianza Magnum",
-    "img": "/img/productos/marqués_de_vitoria_crianza_magnum.webp",
+    "img": "/img/productos/marques_de_vitoria_crianza_magnum.webp",
     "price": 22.5,
     "category": "vinos-tintos",
     "denomination": "d.o._rioja"
@@ -321,7 +321,7 @@
   {
     "id": "marqués_de_vitoria_crianza",
     "name": "Marqués de Vitoria Crianza",
-    "img": "/img/productos/marqués_de_vitoria_crianza.webp",
+    "img": "/img/productos/marques_de_vitoria_crianza.webp",
     "price": 12.75,
     "category": "vinos-tintos",
     "denomination": "d.o._rioja"
@@ -401,7 +401,7 @@
   {
     "id": "crápula_crianza",
     "name": "Crápula Crianza",
-    "img": "/img/productos/crápula_crianza.webp",
+    "img": "/img/productos/crapula_crianza.webp",
     "price": 9.8,
     "category": "vinos-tintos",
     "denomination": "d.o._jumilla"
@@ -409,7 +409,7 @@
   {
     "id": "crápula_gold_magnum",
     "name": "Crápula Gold Magnum",
-    "img": "/img/productos/crápula_gold_magnum.webp",
+    "img": "/img/productos/crapula_gold_magnum.webp",
     "price": 16.5,
     "category": "vinos-tintos",
     "denomination": "d.o._jumilla"
@@ -417,7 +417,7 @@
   {
     "id": "crápula_gold",
     "name": "Crápula Gold",
-    "img": "/img/productos/crápula_gold.webp",
+    "img": "/img/productos/crapula_gold.webp",
     "price": 12.9,
     "category": "vinos-tintos",
     "denomination": "d.o._jumilla"
@@ -425,7 +425,7 @@
   {
     "id": "crápula_soul",
     "name": "Crápula Soul",
-    "img": "/img/productos/crápula_soul.webp",
+    "img": "/img/productos/crapula_soul.webp",
     "price": 11.2,
     "category": "vinos-tintos",
     "denomination": "d.o._jumilla"
@@ -449,7 +449,7 @@
   {
     "id": "sommos_colección_merlot",
     "name": "Sommos Colección Merlot",
-    "img": "/img/productos/sommos_colección_merlot.webp",
+    "img": "/img/productos/sommos_coleccion_merlot.webp",
     "price": 15.2,
     "category": "vinos-tintos",
     "denomination": "d.o._somontano"
@@ -457,7 +457,7 @@
   {
     "id": "glárima_tinto_joven",
     "name": "Glárima Tinto Joven",
-    "img": "/img/productos/glárima_tinto_joven.webp",
+    "img": "/img/productos/glarima_tinto_joven.webp",
     "price": 8.9,
     "category": "vinos-tintos",
     "denomination": "d.o._somontano"
@@ -465,7 +465,7 @@
   {
     "id": "cermeño_vendimia_seleccionada",
     "name": "Cermeño Vendimia Seleccionada",
-    "img": "/img/productos/cermeño_vendimia_seleccionada.webp",
+    "img": "/img/productos/cermeno_vendimia_seleccionada.webp",
     "price": 19.9,
     "category": "vinos-tintos",
     "denomination": "d.o._toro"
@@ -481,7 +481,7 @@
   {
     "id": "san_román",
     "name": "San Román",
-    "img": "/img/productos/san_román.webp",
+    "img": "/img/productos/san_roman.webp",
     "price": 24.5,
     "category": "vinos-tintos",
     "denomination": "d.o._toro"
@@ -505,7 +505,7 @@
   {
     "id": "marqués_de_valcarlos_tinto",
     "name": "Marqués de Valcarlos Tinto",
-    "img": "/img/productos/marqués_de_valcarlos_tinto.webp",
+    "img": "/img/productos/marques_de_valcarlos_tinto.webp",
     "price": 8.5,
     "category": "vinos-tintos",
     "denomination": "d.o._navarra"
@@ -513,7 +513,7 @@
   {
     "id": "nûr_crianza",
     "name": "Nûr Crianza",
-    "img": "/img/productos/nûr_crianza.webp",
+    "img": "/img/productos/nur_crianza.webp",
     "price": 25.9,
     "category": "vinos-tintos",
     "denomination": "d.o._priorat"
@@ -521,7 +521,7 @@
   {
     "id": "alquez_garnacha_viñas_viejas",
     "name": "Alquez Garnacha Viñas Viejas",
-    "img": "/img/productos/alquez_garnacha_viñas_viejas.webp",
+    "img": "/img/productos/alquez_garnacha_vinas_viejas.webp",
     "price": 11.7,
     "category": "vinos-tintos",
     "denomination": "d.o._calatayud"
@@ -617,7 +617,7 @@
   {
     "id": "bouza_do_rei_selección",
     "name": "Bouza do Rei Selección",
-    "img": "/img/productos/bouza_do_rei_selección.webp",
+    "img": "/img/productos/bouza_do_rei_seleccion.webp",
     "price": 12.5,
     "category": "vinos-blancos",
     "denomination": "d.o._rias_baixas"
@@ -625,7 +625,7 @@
   {
     "id": "marqués_de_fonseca",
     "name": "Marqués de Fonseca",
-    "img": "/img/productos/marqués_de_fonseca.webp",
+    "img": "/img/productos/marques_de_fonseca.webp",
     "price": 9.9,
     "category": "vinos-blancos",
     "denomination": "d.o._rias_baixas"
@@ -665,7 +665,7 @@
   {
     "id": "miña_vida",
     "name": "Miña Vida",
-    "img": "/img/productos/miña_vida.webp",
+    "img": "/img/productos/mina_vida.webp",
     "price": 13.2,
     "category": "vinos-blancos",
     "denomination": "d.o._rias_baixas"
@@ -721,7 +721,7 @@
   {
     "id": "cuatro_rayas_ecológico",
     "name": "Cuatro Rayas ecológico",
-    "img": "/img/productos/cuatro_rayas_ecológico.webp",
+    "img": "/img/productos/cuatro_rayas_ecologico.webp",
     "price": 12.7,
     "category": "vinos-blancos",
     "denomination": "d.o._rueda"
@@ -753,7 +753,7 @@
   {
     "id": "sommos_colección_gewürztraminer",
     "name": "Sommos Colección Gewürztraminer",
-    "img": "/img/productos/sommos_colección_gewürztraminer.webp",
+    "img": "/img/productos/sommos_coleccion_gewurztraminer.webp",
     "price": 12.5,
     "category": "vinos-blancos",
     "denomination": "d.o._somontano"
@@ -761,7 +761,7 @@
   {
     "id": "glárima_blanco_joven",
     "name": "Glárima Blanco Joven",
-    "img": "/img/productos/glárima_blanco_joven.webp",
+    "img": "/img/productos/glarima_blanco_joven.webp",
     "price": 10.2,
     "category": "vinos-blancos",
     "denomination": "d.o._somontano"
@@ -777,7 +777,7 @@
   {
     "id": "nicte_rosa_pálido",
     "name": "Nicte Rosa Pálido",
-    "img": "/img/productos/nicte_rosa_pálido.webp",
+    "img": "/img/productos/nicte_rosa_palido.webp",
     "price": 8.2,
     "category": "vinos-rosados",
     "denomination": "d.o._castilla_y_león"
@@ -785,7 +785,7 @@
   {
     "id": "olivia_rosé",
     "name": "Olivia Rosé",
-    "img": "/img/productos/olivia_rosé.webp",
+    "img": "/img/productos/olivia_rose.webp",
     "price": 7.5,
     "category": "vinos-rosados",
     "denomination": "d.o._castilla_y_león"
@@ -793,7 +793,7 @@
   {
     "id": "marqués_de_valcarlos_rosado",
     "name": "Marqués de Valcarlos Rosado",
-    "img": "/img/productos/marqués_de_valcarlos_rosado.webp",
+    "img": "/img/productos/marques_de_valcarlos_rosado.webp",
     "price": 11.9,
     "category": "vinos-rosados",
     "denomination": "d.o._navarra"
@@ -825,7 +825,7 @@
   {
     "id": "sommos_rosé",
     "name": "Sommos Rosé",
-    "img": "/img/productos/sommos_rosé.webp",
+    "img": "/img/productos/sommos_rose.webp",
     "price": 8.8,
     "category": "vinos-rosados",
     "denomination": "d.o._somontano"
@@ -920,7 +920,7 @@
     "id": "ladrón_de_manzanas_33cl._(exclusivo_hosteleria)",
     "name": "Ladrón de Manzanas 33cl. (EXCLUSIVO HOSTELERIA)",
     "price": 1.4,
-    "img": "/img/productos/ladrón_de_manzanas_33cl._(exclusivo_hosteleria).webp",
+    "img": "/img/productos/ladron_de_manzanas_33cl._(exclusivo_hosteleria).webp",
     "category": "cervezas"
   },
   {
@@ -1053,7 +1053,7 @@
     "id": "valdepablo_selección",
     "name": "Valdepablo Selección",
     "price": 12.5,
-    "img": "/img/productos/valdepablo_selección.webp",
+    "img": "/img/productos/valdepablo_seleccion.webp",
     "category": "vermus"
   },
   {
@@ -1214,7 +1214,7 @@
     "id": "pacharán_panizo",
     "name": "Pacharán Panizo",
     "price": 10.3,
-    "img": "/img/productos/pacharán_panizo.webp",
+    "img": "/img/productos/pacharan_panizo.webp",
     "category": "licores"
   },
   {
@@ -1270,7 +1270,7 @@
     "id": "licor_de_café_bouza_do_rei",
     "name": "Licor de Café Bouza do Rei",
     "price": 13.5,
-    "img": "/img/productos/licor_de_café_bouza_do_rei.webp",
+    "img": "/img/productos/licor_de_cafe_bouza_do_rei.webp",
     "category": "licores"
   },
   {
@@ -1298,7 +1298,7 @@
     "id": "orujo_de_café_marc_de_bazan",
     "name": "Orujo de Café Marc de Bazan",
     "price": 13.2,
-    "img": "/img/productos/orujo_de_café_marc_de_bazan.webp",
+    "img": "/img/productos/orujo_de_cafe_marc_de_bazan.webp",
     "category": "licores"
   },
   {
@@ -1326,14 +1326,14 @@
     "id": "pedregosa_brut_nature_(petit_cuvée)",
     "name": "Pedregosa Brut Nature (Petit Cuvée)",
     "price": 9.95,
-    "img": "/img/productos/pedregosa_brut_nature_(petit_cuvée).webp",
+    "img": "/img/productos/pedregosa_brut_nature_(petit_cuvee).webp",
     "category": "cava"
   },
   {
     "id": "pedregosa_rosado_brut_nature_(petit_cuvée)",
     "name": "Pedregosa Rosado Brut Nature (Petit Cuvée)",
     "price": 11.75,
-    "img": "/img/productos/pedregosa_rosado_brut_nature_(petit_cuvée).webp",
+    "img": "/img/productos/pedregosa_rosado_brut_nature_(petit_cuvee).webp",
     "category": "cava"
   },
   {
@@ -1354,14 +1354,14 @@
     "id": "pedregosa_brut_nature_reserva_(blanc_de_millésimé)",
     "name": "Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
     "price": 13.8,
-    "img": "/img/productos/pedregosa_brut_nature_reserva_(blanc_de_millésimé).webp",
+    "img": "/img/productos/pedregosa_brut_nature_reserva_(blanc_de_millesime).webp",
     "category": "cava"
   },
   {
     "id": "magnum_1,5l_pedregosa_brut_nature_reserva_(blanc_de_millésimé)",
     "name": "Magnum 1,5L Pedregosa Brut Nature Reserva (Blanc de Millésimé)",
     "price": 27.5,
-    "img": "/img/productos/magnum_1,5l_pedregosa_brut_nature_reserva_(blanc_de_millésimé).webp",
+    "img": "/img/productos/magnum_1,5l_pedregosa_brut_nature_reserva_(blanc_de_millesime).webp",
     "category": "cava"
   },
   {
@@ -1382,7 +1382,7 @@
     "id": "feitizo_da_noite_extra_brut_albariño",
     "name": "Feitizo da noite extra brut albariño",
     "price": 16.4,
-    "img": "/img/productos/feitizo_da_noite_extra_brut_albariño.webp",
+    "img": "/img/productos/feitizo_da_noite_extra_brut_albarino.webp",
     "category": "cava"
   },
   {
@@ -1410,7 +1410,7 @@
     "id": "atún_claro_en_aceite_de_girasol_900g.",
     "name": "Atún claro en aceite de girasol 900g.",
     "price": 15.9,
-    "img": "/img/productos/atún_claro_en_aceite_de_girasol_900g.webp",
+    "img": "/img/productos/atun_claro_en_aceite_de_girasol_900g.webp",
     "category": "alimentacion"
   },
   {
@@ -1438,7 +1438,7 @@
     "id": "aceite_virgen_extra_guillén_5l",
     "name": "Aceite Virgen Extra Guillén 5L",
     "price": 42.9,
-    "img": "/img/productos/aceite_virgen_extra_guillén_5l.webp",
+    "img": "/img/productos/aceite_virgen_extra_guillen_5l.webp",
     "category": "alimentacion"
   },
   {
@@ -1480,7 +1480,7 @@
     "id": "vino_albariño_cosechero",
     "name": "Vino Albariño Cosechero",
     "price": 9.75,
-    "img": "/img/productos/vino_albariño_cosechero.webp",
+    "img": "/img/productos/vino_albarino_cosechero.webp",
     "category": "otros"
   },
   {
@@ -1508,7 +1508,7 @@
     "id": "mateus_rosé",
     "name": "Mateus Rosé",
     "price": 8.9,
-    "img": "/img/productos/mateus_rosé.webp",
+    "img": "/img/productos/mateus_rose.webp",
     "category": "otros"
   },
   {
@@ -1529,7 +1529,7 @@
     "id": "casal_garcía_vino_de_portugal",
     "name": "Casal García Vino de Portugal",
     "price": 4.9,
-    "img": "/img/productos/casal_garcía_vino_de_portugal.webp",
+    "img": "/img/productos/casal_garcia_vino_de_portugal.webp",
     "category": "otros"
   }
 ]

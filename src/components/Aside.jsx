@@ -1,3 +1,5 @@
+import { useImg } from '../hooks/useImg'
+
 export const Aside = ({ categories, handleCategoryChange }) => {
   return (
     <aside class="lg:w-[25%] w-full flex lg:flex-col gap-5 overflow-x-scroll lg:overflow-hidden pb-4 lg:pb-0">
@@ -11,7 +13,7 @@ export const Aside = ({ categories, handleCategoryChange }) => {
             {categoria.category}
           </h2>
           <img
-            src={categoria.img}
+            src={useImg(categoria.img)}
             alt=""
             class="absolute object-fit object-center -right-6 -bottom-10 max-h-36"
           />
