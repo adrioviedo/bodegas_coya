@@ -6,10 +6,10 @@ export const RemoveFromCart = ({ clase }) => {
       height="24"
       fill="none"
       stroke="currentColor"
-      stroke-width="2"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      class={clase}
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={clase}
     >
       <path d="M0 0h24v24H0z" stroke="none"></path>
       <path d="M4 19a2 2 0 1 0 4 0 2 2 0 0 0-4 0"></path>
