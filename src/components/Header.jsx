@@ -37,60 +37,29 @@ export const Header = () => {
           inputClass="bg-[#ffe6bb4b] px-2 py-1 rounded-md w-[50px] md:w-[100px] lg:w-[150px]"
         />
         <ul className="hidden absolute top-1/2 right-0 transform -translate-y-1/2 -translate-x-1/2 lg:mx-auto lg:flex lg:items-center lg:w-auto lg:space-x-6">
-        <li>
-            <a
-              className="inline-block hover:scale-110 transition"
-              href="/pedido"
-            >
-              Pedido
-            </a>
+          <li>
+            <a className="inline-block hover:scale-110 transition" href="/productos">Productos</a>
           </li>
           <li>
-            <a
-              className="inline-block hover:scale-110 transition"
-              href="/productos"
-            >
-              Productos
-            </a>
-          </li>
-
-          <li>
-            <a className="inline-block hover:scale-110 transition" href="/nosotros">
-              Coya e Hijos
-            </a>
+            <a className="inline-block hover:scale-110 transition" href="/nosotros">Coya e Hijos</a>
           </li>
           <li>
-            <a className="inline-block hover:scale-110 transition" href="/contacto">
-              Contacto
-            </a>
+            <a className="inline-block hover:scale-110 transition" href="/contacto">Contacto</a>
           </li>
         </ul>
         <div className="flex items-center gap-6">
           <a href="/signin" className="hover:scale-125 transition hidden lg:block">
             <UserIcon clase="w-6 h-6" />
           </a>
-          <button
-            className="navbar-burger hover:scale-125 transition block"
-            onClick={toggleCart}
-          >
+          <button className="navbar-burger hover:scale-125 transition block" onClick={toggleCart}>
             <CartIcon clase="w-4 h-4 md:w-6 md:h-6" />
           </button>
           <div className="lg:hidden flex items-center gap-6">
-            <button
-              className="navbar-burger block hover:scale-125 transition md:hidden"
-              onClick={toggleMenu}
-            >
+            <button className="navbar-burger block hover:scale-125 transition md:hidden" onClick={toggleMenu}>
               <Magnifier clase="h-4 w-4" />
             </button>
-            <button
-              className="navbar-burger flex flex-row items-center text-[#FFE6BB]"
-              onClick={toggleMenu}
-            >
-              <svg
-                className="block h-4 w-4 fill-current hover:scale-125 transition"
-                viewBox="0 0 20 20"
-                xmlns="http://www.w3.org/2000/svg"
-              >
+            <button className="navbar-burger flex flex-row items-center text-[#FFE6BB]" onClick={toggleMenu}>
+              <svg className="block h-4 w-4 fill-current hover:scale-125 transition" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                 <title>Mobile menu</title>
                 <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
               </svg>
@@ -104,13 +73,8 @@ export const Header = () => {
           <nav className="fixed top-0 right-0 bottom-0 flex flex-col w-5/6 max-w-sm py-6 px-6 bg-[#ffe6bbe1] border-r overflow-y-auto">
             <nav className="flex items-center mb-8">
               <a className="mr-auto text-3xl font-bold leading-none" href="/">
-                <img
-                  src="./img/LOGO-COYA.png"
-                  alt="logo coya"
-                  className="w-10"
-                />
+                <img src="./img/LOGO-COYA.png" alt="logo coya" className="w-10" />
               </a>
-
               {!showCart
                 ? (
                 <CloseButton handleClose={toggleMenu} />
