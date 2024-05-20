@@ -8,7 +8,7 @@ const imgURL = 'https://sxgzvkgcpspymknjscwh.supabase.co/storage/v1/object/publi
 
 export const Products = ({ products }) => {
   return (
-    <div class="flex flex-wrap gap-8 w-full font-Roboto font-medium text-sm justify-center">
+    <div className="flex flex-wrap gap-8 w-full font-Roboto font-medium text-sm justify-center">
       {products.map((product) => (
         <article
           className="relative min-w-32 lg:min-w-52 aspect-[4/5] bg-[#E5CDA6] rounded-xl  hover:scale-110 transition"
