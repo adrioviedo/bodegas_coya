@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Modal } from './Modal' // Import your Modal component
+import { Modal } from './Modal' // Importa tu componente Modal
 
 export const OrderTable = ({ orders }) => {
   const [isModalOpen, setIsModalOpen] = useState(false)
@@ -16,50 +16,55 @@ export const OrderTable = ({ orders }) => {
   }
 
   return (
-    <div className="overflow-x-auto">
-      <table className="min-w-full divide-y divide-gray-200">
-        <thead className="bg-gray-50">
+    <div className="overflow-x-auto font-Roboto">
+      <table className="min-w-[50%] divide-y divide-[#450408] text-center">
+        <thead className="bg-[#450408] text-[#FFE6BB]">
           <tr>
             <th
               scope="col"
-              className="px-6 py-3 text-xs font-medium tracking-wider text-left text-gray-500 uppercase"
+              className="px-6 py-3 text-xs font-medium tracking-wider uppercase rounded-tl-lg"
             >
               ID
             </th>
             <th
               scope="col"
-              className="px-6 py-3 text-xs font-medium tracking-wider text-left text-gray-500 uppercase"
+              className="px-6 py-3 text-xs font-medium tracking-wider uppercase"
             >
               Fecha
             </th>
             <th
               scope="col"
-              className="px-6 py-3 text-xs font-medium tracking-wider text-left text-gray-500 uppercase"
+              className="px-6 py-3 text-xs font-medium tracking-wider uppercase"
             >
               Total
             </th>
             <th
               scope="col"
-              className="px-6 py-3 text-xs font-medium tracking-wider text-left text-gray-500 uppercase"
+              className="px-6 py-3 text-xs font-medium tracking-wider uppercase rounded-tr-lg"
             >
-              Estado
+              Detalles del pedido
             </th>
           </tr>
         </thead>
-        <tbody className="bg-white divide-y divide-gray-200">
+        <tbody className="bg-[#FFE6BB] divide-y divide-[#450408] ">
           {orders.map((order) => (
             <tr key={order.id}>
-              <td className="px-6 py-4 whitespace-nowrap">
-                <div className="text-sm font-medium text-gray-900">{order.id}</div>
+              <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-[#450408]">
+                {order.id}
               </td>
-              <td className="px-6 py-4 whitespace-nowrap">
-                <div className="text-sm text-gray-900">{order.date}</div>
+              <td className="px-6 py-4 whitespace-nowrap text-sm text-[#450408]">
+                {new Date(order.date).toLocaleDateString()} {/* Asegúrate de que "order.date" es un string o Date válido */}
               </td>
-              <td className="px-6 py-4 whitespace-nowrap">
-                <div className="text-sm text-gray-900">{order.total}</div>
+              <td className="px-6 py-4 whitespace-nowrap text-sm text-[#450408]">
+                {order.total} €
               </td>
-              <td className="px-6 py-4 whitespace-nowrap">
-                <button className="text-sm text-gray-900" onClick={handleOpenModal}>Modal</button>
+              <td className="px-6 py-4 whitespace-nowrap ">
+                <button
+                  className="text-sm text-[#84181f] hover:underline"
+                  onClick={() => handleOpenModal(order)}
+                >
+                  Ver detalles
+                </button>
               </td>
             </tr>
           ))}
