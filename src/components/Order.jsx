@@ -6,29 +6,32 @@ export const Order = ({ handleOrderDone }) => {
   const total = getCartTotal()
 
   const handleOrder = () => {
-    // const cart = cartItems.map((item) => ({
-    //   id: item.id,
-    //   quantity: item.quantity
-    // }))
+    const cart = cartItems.map((item) => ({
+      id: item.id,
+      quantity: item.quantity
+    }))
 
-    // fetch('/api/order', {
-    //   method: 'POST',
-    //   headers: {
-    //     'Content-Type': 'application/json'
-    //   },
-    //   body: JSON.stringify({ cart })
-    // })
-    //   .then((res) => {
-    //     if (res.ok) {
-    //       clearCart()
-    //       window.location.href = '/order-done'
-    //     }
-    //   })
-    //   .catch((error) => {
-    //     console.error('Error:', error)
-    //   })
-    clearCart()
-    handleOrderDone()
+    const order = {
+      total: getCartTotal,
+      cart
+    }
+
+    fetch('/api/order', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ order })
+    })
+      .then((res) => {
+        if (res.ok) {
+          clearCart()
+          handleOrderDone()
+        }
+      })
+      .catch((error) => {
+        console.error('Error:', error)
+      })
   }
 
   return (

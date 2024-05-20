@@ -1,12 +1,3 @@
-// ---
-// const { cookies } = Astro;
-
-// const accessToken = cookies.get("sb-access-token");
-// const refreshToken = cookies.get("sb-refresh-token");
-
-// const checkSession = accessToken && refreshToken;
-// ---
-
 import Cookies from 'js-cookie'
 
 export const UserHeader = () => {
