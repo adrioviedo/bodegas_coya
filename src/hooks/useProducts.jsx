@@ -1,32 +1,39 @@
-import productos from '../data/productos.json'
+import { useState, useEffect } from 'react'
 
 export const useProducts = () => {
-  let products = []
+  const [products, setProducts] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
 
-  if (typeof window !== 'undefined') {
-    const params = new URLSearchParams(window.location.search)
-    let category = params.get('category')
-    const denomination = params.get('denomination')
-    const search = params.get('search')
+  useEffect(() => {
+    const fetchProducts = async () => {
+      if (typeof window === 'undefined') {
+        return
+      }
 
-    console.log('category:', category)
-    console.log('denomination:', denomination)
-    console.log('search:', search)
+      setLoading(true)
+      setError(null)
 
-    if (search) {
-      products = productos.filter(product => product.name.toLowerCase().includes(search.toLowerCase()))
-    } else {
-      if (!category) {
-        category = 'marcas-propias'
-        products = productos.filter(product => product.category === category)
-      } else {
-        if (denomination) {
-          products = productos.filter(product => product.category === category && product.denomination === denomination)
-        } else {
-          products = productos.filter(product => product.category === category)
+      try {
+        const params = new URLSearchParams(window.location.search)
+        const query = `/api/bbdd/products?${params.toString()}`
+
+        const response = await fetch(query)
+        if (!response.ok) {
+          throw new Error('Error al obtener los productos')
         }
+
+        const data = await response.json()
+        setProducts(data)
+      } catch (error) {
+        setError(error.message)
+      } finally {
+        setLoading(false)
       }
     }
-  }
-  return products
+
+    fetchProducts()
+  }, [typeof window !== 'undefined' ? window.location.search : ''])
+
+  return { products, loading, error }
 }
