@@ -2,7 +2,6 @@
 import Footer from "../components/Footer.astro";
 import Layout from "../layouts/Layout.astro";
 import { supabase } from "../lib/supabase";
-//import orders from "../data/orders.json";
 import { OrderTable } from "../components/OrderTable";
 
 const { cookies, redirect } = Astro;
@@ -31,45 +30,57 @@ if (error) {
 }
 
 const email = data?.user?.email;
-const name = data?.user?.user_metadata?.name;
 const fullName = data?.user?.user_metadata?.full_name;
 const avatar = data?.user?.user_metadata?.avatar;
+const userId = data?.user?.id;
 
-// const pedidos = await supabase
-//   .from("pedidos")
-//   .select("*")
-//   .eq("email", email)
-//   .order("created_at", { ascending: false });
+const { data: orders, error: ordersError } = await supabase
+  .from("orders") // Asegúrate de que el nombre de la tabla sea correcto
+  .select("*")
+  .eq("user_id", userId)
+  .order("date", { ascending: false }); // Asegúrate de que el campo de ordenación sea correcto
+
+if (ordersError) {
+  console.error(ordersError);
+}
 ---
 
 <Layout title="Área cliente">
-  <!-- <h1>Bienvenido {hola}</h1>
-  <p>Estamos felices de verte aquí</p>
-  <form action="/api/auth/signout">
-    <button type="submit">Cerrar sesión</button>
-  </form> -->
-
   <section>
     <div
-      class="bg-[#450408] text-[#FFE6BB] w-4/5 mx-auto my-20 rounded px-12 py-14"
+      class="bg-[#450408] text-[#FFE6BB] w-4/5 mx-auto my-20 rounded-xl px-12 py-14"
     >
-      <article class="flex justify-between">
-        <img src={avatar} alt="Avatar" class="w-20 h-20 rounded-full" />
-        <div>
-          <h2>{fullName}</h2>
-          <p>{email}</p>
-          <form action="/api/auth/signout">
-            <button type="submit">Cerrar sesión</button>
-          </form>
+      <article
+        class="flex flex-col md:flex-row gap-6 justify-between items-center"
+      >
+        <div class="flex flex-col md:flex-row items-center gap-6">
+          <img src={avatar} alt="Avatar" class="w-20 h-20 rounded-full" />
+          <div>
+            <h2 class="text-2xl font-bold">{fullName}</h2>
+            <p>{email}</p>
+          </div>
         </div>
+        <form action="/api/auth/signout">
+          <button
+            type="submit"
+            class="px-4 py-2 bg-[#84181f] text-[#FFE6BB] rounded-lg hover:bg-[#a22b32] transition"
+          >
+            Cerrar sesión
+          </button>
+        </form>
       </article>
-      <article class="mt-10 flex flex-col justify-center">
-        <h2>Pedidos</h2>
-        <p>En esta sección podrás ver tus pedidos</p>
-        <!-- <OrderTable orders={orders} /> -->
+      <article class="mt-10 flex flex-col justify-center items-center">
+        <h2 class="text-xl font-bold mb-4">Pedidos</h2>
+        <p class="mb-4">En esta sección podrás ver tus pedidos</p>
+        {
+          orders && orders.length > 0 ? (
+            <OrderTable orders={orders} client:visible />
+          ) : (
+            <p>No tienes pedidos aún.</p>
+          )
+        }
       </article>
     </div>
   </section>
-
   <Footer class="bg-[#450408] text-[#FFE6BB]" />
 </Layout>
