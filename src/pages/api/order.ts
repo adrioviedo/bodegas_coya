@@ -20,7 +20,7 @@ export const POST: APIRoute = async ({ request, cookies }) => {
   const { data: user, error } = await supabase.auth.getUser(token);
 
   if (error) {
-    return new Response(error.message, {
+    return new Response("User Fail", {
       status: 500,
     });
   }
@@ -40,7 +40,7 @@ export const POST: APIRoute = async ({ request, cookies }) => {
   ]);
 
   if (orderError) {
-    return new Response(orderError.message, {
+    return new Response("Order Fail", {
       status: 500,
     });
   }
