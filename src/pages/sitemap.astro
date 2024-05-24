@@ -1,0 +1,32 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<Layout title=" Mapa del sitio - Bodegas Coya ">
+  <main class="flex flex-col items-center py-10 font-Roboto gap-6">
+    <h1 class="font-Anton text-3xl md:text-5xl">Mapa del sitio</h1>
+    <ul class="text-[#450408] font-medium">
+      <li><a href="/">Inicio</a></li>
+      <li><a href="/nosotros">Nosotros</a></li>
+      <li><a href="/contacto">Contacto</a></li>
+      <li><a href="/dashboard">Dashboard</a></li>
+      <li><a href="/pedido">Pedido</a></li>
+      <li><a href="/privacidad">Política de Privacidad</a></li>
+      <li><a href="/productos">Productos</a></li>
+      <li><a href="/register">Registrarse</a></li>
+      <li><a href="/signin">Iniciar Sesión</a></li>
+    </ul>
+  </main>
+  <Footer class="bg-[#450408] text-[#FFE6BB]" />
+</Layout>
+
+<style>
+  a:hover {
+    text-decoration: underline;
+  }
+
+  li {
+    margin: 0.5rem 0;
+  }
+</style>
