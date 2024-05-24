@@ -1,6 +1,7 @@
 import { useCart } from '../context/cartContext'
 import { AddToCart } from '../icons/AddToCart'
 import { RemoveFromCart } from '../icons/RemoveFromCart'
+import { CartButton } from './CartButton'
 
 export const Cart = () => {
   const { cartItems, clearCart, getCartTotal, addToCart, removeFromCart } =
@@ -18,28 +19,7 @@ export const Cart = () => {
               <h3 className="font-bold">{item.name}</h3>
               <p>{item.price} €</p>
             </div>
-            <div className="flex gap-1 items-center text-[#E5CDA6]">
-              <button
-                className="p-0.5 bg-[#4504089e] rounded-md hover:bg-[#450408] transition"
-                onClick={() => {
-                  addToCart(item)
-                }}
-              >
-                <AddToCart />
-              </button>
-              <span className="text-[#450408]">
-                {cartItems.find((cartItem) => cartItem.id === item.id)
-                  ?.quantity || 0}
-              </span>
-              <button
-                className="p-0.5 bg-[#4504089e] rounded-md hover:bg-[#450408] transition"
-                onClick={() => {
-                  removeFromCart(item)
-                }}
-              >
-                <RemoveFromCart />
-              </button>
-            </div>
+            <CartButton item={item} clase=":w-6 h-6" />
           </li>
         ))}
       </ul>

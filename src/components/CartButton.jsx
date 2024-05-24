@@ -17,18 +17,19 @@ export const CartButton = ({ item, clase }) => {
     <div className="flex gap-1 items-center text-[#E5CDA6]">
       <button
         className="p-0.5 bg-[#4504089e] rounded-md hover:bg-[#450408] transition"
-        onClick={handleAddToCart}
+        onClick={handleRemoveFromCart}
       >
-        <AddToCart clase={clase} />
+        <RemoveFromCart clase={clase}/>
       </button>
+
       <span className="text-[#450408]">
         {cartItems.find((cartItem) => cartItem.id === item.id)?.quantity || 0}
       </span>
       <button
         className="p-0.5 bg-[#4504089e] rounded-md hover:bg-[#450408] transition"
-        onClick={handleRemoveFromCart}
+        onClick={handleAddToCart}
       >
-        <RemoveFromCart clase={clase}/>
+        <AddToCart clase={clase} />
       </button>
     </div>
   )
