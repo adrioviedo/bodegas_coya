@@ -27,7 +27,7 @@ export const Products = ({ products }) => {
               <span className="text-xs">{product.price} €</span>
             </div>
             <CartProvider>
-              <CartButton item={product} />
+              <CartButton item={product} clase="w-4 h-4 md:w-6 md:h-6" />
             </CartProvider>
           </div>
         </article>
