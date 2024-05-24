@@ -19,7 +19,7 @@ export const Cart = () => {
               <h3 className="font-bold">{item.name}</h3>
               <p>{item.price} €</p>
             </div>
-            <CartButton item={item} clase=":w-6 h-6" />
+            <CartButton item={item} clase="w-6 h-6" />
           </li>
         ))}
       </ul>
